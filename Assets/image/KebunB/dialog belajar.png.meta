@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 2c0b33cc6d6dad5458ac4f5cde9a4117
+guid: c91ac74b9112f0f49896f4ce2c6cddbf
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3684270043304530287
-    second: bg peternakan_0
+      213: 4543314355037400585
+    second: dialog belajar_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bg peternakan_0
+      name: dialog belajar_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 1900
-        height: 1000
+        y: 16
+        width: 284
+        height: 183
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f6197c39518212330800000000000000
-      internalID: 3684270043304530287
+      spriteID: 90eefea95581d0f30800000000000000
+      internalID: 4543314355037400585
       vertices: []
       indices: 
       edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      bg peternakan_0: 3684270043304530287
+      dialog belajar_0: 4543314355037400585
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

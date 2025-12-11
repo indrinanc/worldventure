@@ -24,6 +24,15 @@ public class menu : MonoBehaviour
         
     }
 
+    public class SceneLogger : MonoBehaviour
+    {
+        void Start()
+        {
+            Debug.Log("Scene aktif: " + SceneManager.GetActiveScene().name);
+        }
+    }
+
+
     public void backButton()
     {
         homePanel.SetActive(true);

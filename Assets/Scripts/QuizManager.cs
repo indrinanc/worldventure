@@ -153,6 +153,7 @@ public class QuizManager : MonoBehaviour
     // ------------------------------------------------
     public void OnAnswerSelected(int index)
     {
+        Debug.Log("Klik jawaban index: " + index);
         // Kalau tombol lagi dimatikan (misal lagi nunggu user klik "Lanjut"), abaikan
         if (!answerButtons[0].interactable) return;
 
@@ -236,4 +237,6 @@ public class QuizManager : MonoBehaviour
                 btn.interactable = value;
         }
     }
+
+    
 }

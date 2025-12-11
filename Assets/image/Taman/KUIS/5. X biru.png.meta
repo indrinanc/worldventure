@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 4104112758f9b5d409ef0fd704941b43
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8953124092751674679
+    second: 5. X biru_0
+  - first:
+      213: -7864910556880912312
+    second: 5. X biru_1
+  - first:
+      213: 8620186578539070833
+    second: 5. X biru_2
+  - first:
+      213: 546987806793788015
+    second: 5. X biru_3
+  - first:
+      213: 1050513236433872636
+    second: 5. X biru_4
+  - first:
+      213: -399870634414359976
+    second: 5. X biru_5
+  - first:
+      213: -7501543911374409390
+    second: 5. X biru_6
+  - first:
+      213: -8086330245917064413
+    second: 5. X biru_7
+  - first:
+      213: 7433800789066480030
+    second: 5. X biru_8
+  - first:
+      213: 2541864377834559257
+    second: 5. X biru_9
+  - first:
+      213: -4460926317626977054
+    second: 5. X biru_10
+  - first:
+      213: 2372622646902044979
+    second: 5. X biru_11
+  - first:
+      213: 5082024081798956873
+    second: 5. X biru_12
+  - first:
+      213: -8282413773844865600
+    second: 5. X biru_13
+  - first:
+      213: -3860174384830711620
+    second: 5. X biru_14
+  - first:
+      213: 2859987504695195166
+    second: 5. X biru_15
+  - first:
+      213: 6869366909509651561
+    second: 5. X biru_16
+  - first:
+      213: -857030495593566984
+    second: 5. X biru_17
+  - first:
+      213: 99975700709939912
+    second: 5. X biru_18
+  - first:
+      213: 959890449257130376
+    second: 5. X biru_19
+  - first:
+      213: -1618449442544841491
+    second: 5. X biru_20
+  - first:
+      213: 2169667153871305603
+    second: 5. X biru_21
+  - first:
+      213: -944692813656823592
+    second: 5. X biru_22
+  - first:
+      213: -6514930620167153358
+    second: 5. X biru_23
+  - first:
+      213: 2714759896764307088
+    second: 5. X biru_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 5. X biru_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c28b85c21d10c380800000000000000
+      internalID: -8953124092751674679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5. X biru_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 43
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840c4e2c4893ad290800000000000000
+      internalID: -7864910556880912312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5. X biru_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 47
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175496f750e01a770800000000000000
+      internalID: 8620186578539070833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5. X biru_3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 47
+        width: 62
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ae960238a479700800000000000000
+      internalID: 546987806793788015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5. X biru_4
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 43
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6ac71093c249e00800000000000000
+      internalID: 1050513236433872636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5. X biru_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 43
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a3f9fc6cf537af0800000000000000
+      internalID: -399870634414359976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5. X biru_6
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 60
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251b887be8925e790800000000000000
+      internalID: -7501543911374409390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5. X biru_7
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 47
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323cd9b0c7597cf80800000000000000
+      internalID: -8086330245917064413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5. X biru_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 47
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9973538e6a2a2760800000000000000
+      internalID: 7433800789066480030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5. X biru_9
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 47
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9175c0c2f24864320800000000000000
+      internalID: 2541864377834559257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5. X biru_10
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 47
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e417ac262b9712c0800000000000000
+      internalID: -4460926317626977054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5. X biru_11
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 48
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339b4a60abf3de020800000000000000
+      internalID: 2372622646902044979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5. X biru_12
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 60
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9478b970af9f68640800000000000000
+      internalID: 5082024081798956873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5. X biru_13
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd9c270e84fe0d80800000000000000
+      internalID: -8282413773844865600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5. X biru_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 43
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb87a1d59d7ed6ac0800000000000000
+      internalID: -3860174384830711620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5. X biru_15
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 60
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16b96f8b77b0b720800000000000000
+      internalID: 2859987504695195166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5. X biru_16
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 48
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c45290fc4e45f50800000000000000
+      internalID: 6869366909509651561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5. X biru_17
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 47
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fce7741e473b14f0800000000000000
+      internalID: -857030495593566984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5. X biru_18
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 47
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca9cfebe5f236100800000000000000
+      internalID: 99975700709939912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5. X biru_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 47
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889e2432747325d00800000000000000
+      internalID: 959890449257130376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5. X biru_20
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 47
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec8f229ecc1a89e0800000000000000
+      internalID: -1618449442544841491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5. X biru_21
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 7
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bf453f7c43c1e10800000000000000
+      internalID: 2169667153871305603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5. X biru_22
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 7
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8ee1424e6c3e2f0800000000000000
+      internalID: -944692813656823592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5. X biru_23
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 7
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2391f985e115695a0800000000000000
+      internalID: -6514930620167153358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5. X biru_24
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 6
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096dc112eb3cca520800000000000000
+      internalID: 2714759896764307088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      5. X biru_0: -8953124092751674679
+      5. X biru_1: -7864910556880912312
+      5. X biru_10: -4460926317626977054
+      5. X biru_11: 2372622646902044979
+      5. X biru_12: 5082024081798956873
+      5. X biru_13: -8282413773844865600
+      5. X biru_14: -3860174384830711620
+      5. X biru_15: 2859987504695195166
+      5. X biru_16: 6869366909509651561
+      5. X biru_17: -857030495593566984
+      5. X biru_18: 99975700709939912
+      5. X biru_19: 959890449257130376
+      5. X biru_2: 8620186578539070833
+      5. X biru_20: -1618449442544841491
+      5. X biru_21: 2169667153871305603
+      5. X biru_22: -944692813656823592
+      5. X biru_23: -6514930620167153358
+      5. X biru_24: 2714759896764307088
+      5. X biru_3: 546987806793788015
+      5. X biru_4: 1050513236433872636
+      5. X biru_5: -399870634414359976
+      5. X biru_6: -7501543911374409390
+      5. X biru_7: -8086330245917064413
+      5. X biru_8: 7433800789066480030
+      5. X biru_9: 2541864377834559257
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

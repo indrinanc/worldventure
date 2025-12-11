@@ -29,6 +29,11 @@ public class QuizManager : MonoBehaviour
     public Image correctWordImage;   // Image di bagian atas panel (tulisan warna)
     public Image correctColorImage;  // Image di bagian bawah panel (kotak warna)
 
+    [Header("Panel Navigasi")]
+    public GameObject pilihPanel;    // panel yang ingin dituju setelah kuis selesai
+    public GameObject kuisPanel;     // panel kuis untuk dimatikan
+
+
     private List<QuestionData> questionQueue;    // Pertanyaan yang sudah diacak dan dipakai
     private QuestionData currentQuestion;
     private int currentQuestionIndex = -1;
@@ -209,8 +214,15 @@ public class QuizManager : MonoBehaviour
     {
         Debug.Log("Kuis selesai! Skor akhir: " + score + " / " + questionQueue.Count);
 
-        // Di sini bisa tampilkan panel hasil akhir / pindah scene, dll.
+        // Matikan panel kuis
+        if (kuisPanel != null)
+            kuisPanel.SetActive(false);
+
+        // Munculkan pilih panel
+        if (pilihPanel != null)
+            pilihPanel.SetActive(true);
     }
+
 
     // ------------------------------------------------
     // UTIL: ACak list generik

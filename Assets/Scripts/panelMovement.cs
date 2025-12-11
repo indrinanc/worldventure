@@ -8,7 +8,7 @@ using UnityEngine.SceneManagement;
 [DefaultExecutionOrder(-100)]
 public class park : MonoBehaviour
 {
-    public GameObject parkPanel;
+    public GameObject menuPanel;
     public GameObject belajarPanel;
     public GameObject pilihPanel;
     public GameObject kuisPanel;
@@ -18,7 +18,7 @@ public class park : MonoBehaviour
 
 void Start()
     {
-        parkPanel.SetActive(true);
+        menuPanel.SetActive(true);
         belajarPanel.SetActive(false);
         pilihPanel.SetActive(false);
         kuisPanel.SetActive(false);
@@ -38,7 +38,7 @@ public class SceneLogger : MonoBehaviour
 
     public void backButton1()
     {
-        parkPanel.SetActive(true);
+        menuPanel.SetActive(true);
         belajarPanel.SetActive(false);
         pilihPanel.SetActive(false);
         kuisPanel.SetActive(false);
@@ -49,7 +49,7 @@ public class SceneLogger : MonoBehaviour
 
     public void backButton2()
     {
-        parkPanel.SetActive(false);
+        menuPanel.SetActive(false);
         belajarPanel.SetActive(false);
         pilihPanel.SetActive(true);
         kuisPanel.SetActive(false);
@@ -58,11 +58,21 @@ public class SceneLogger : MonoBehaviour
         popupPanel.SetActive(false);
     }
 
+    public void backButton3()
+    {
+        menuPanel.SetActive(false);
+        belajarPanel.SetActive(true);
+        pilihPanel.SetActive(false);
+        kuisPanel.SetActive(false);
+        benarPanel.SetActive(false);
+        salahPanel.SetActive(false);
+        popupPanel.SetActive(false);
+    }
 
 
     public void belajarButton()
     {
-        parkPanel.SetActive(false);
+        menuPanel.SetActive(false);
         belajarPanel.SetActive(true);
         pilihPanel.SetActive(false);
         kuisPanel.SetActive(false);
@@ -73,7 +83,7 @@ public class SceneLogger : MonoBehaviour
 
         public void pilihButton()
     {
-        parkPanel.SetActive(false);
+        menuPanel.SetActive(false);
         belajarPanel.SetActive(false);
         pilihPanel.SetActive(true);
         kuisPanel.SetActive(false);
@@ -84,7 +94,7 @@ public class SceneLogger : MonoBehaviour
 
     public void kuisButton()
     {
-        parkPanel.SetActive(false);
+        menuPanel.SetActive(false);
         belajarPanel.SetActive(false);
         pilihPanel.SetActive(false);
         kuisPanel.SetActive(true);

@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: 4de96b4eab88a5c42ab45319fa274a58
+guid: ac9469f0e148e7e4a806e17462208d2c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4470860272645628453
-    second: chicken farm_0
-  - first:
-      213: 2286587642995555222
-    second: chicken farm_1
+      213: -1788001795827965655
+    second: bg zoom pelangi_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -129,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: chicken farm_0
+      name: bg zoom pelangi_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 382
-        height: 376
+        width: 1916
+        height: 1016
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -144,30 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bdd1d88054054f1c0800000000000000
-      internalID: -4470860272645628453
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: chicken farm_1
-      rect:
-        serializedVersion: 2
-        x: 443
-        y: 14
-        width: 274
-        height: 184
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 69b3c80b8579bbf10800000000000000
-      internalID: 2286587642995555222
+      spriteID: 921e9e507ddbf27e0800000000000000
+      internalID: -1788001795827965655
       vertices: []
       indices: 
       edges: []
@@ -186,8 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      chicken farm_0: -4470860272645628453
-      chicken farm_1: 2286587642995555222
+      bg zoom pelangi_0: -1788001795827965655
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

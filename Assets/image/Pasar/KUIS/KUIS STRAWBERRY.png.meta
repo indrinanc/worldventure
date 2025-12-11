@@ -1,61 +1,58 @@
 fileFormatVersion: 2
-guid: 385f843b3ac799b43994090ef60a8090
+guid: 0df6adba666120544b3a30cc34f6e53f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 263782596205961802
-    second: ya ungu_0
+      213: 5826946677152378890
+    second: KUIS STRAWBERRY_0
   - first:
-      213: 1036036771913598189
-    second: ya ungu_1
+      213: -7078918265051976660
+    second: KUIS STRAWBERRY_1
   - first:
-      213: -3407326465097521813
-    second: ya ungu_2
+      213: 7637956816220415595
+    second: KUIS STRAWBERRY_2
   - first:
-      213: 8353905341042501900
-    second: ya ungu_3
+      213: 4270394992280646864
+    second: KUIS STRAWBERRY_3
   - first:
-      213: -6489608248311001033
-    second: ya ungu_4
+      213: -1516229956951239580
+    second: KUIS STRAWBERRY_4
   - first:
-      213: 4229355519611476755
-    second: ya ungu_5
+      213: -7068645980896231838
+    second: KUIS STRAWBERRY_5
   - first:
-      213: 6121247162937385998
-    second: ya ungu_6
+      213: 2789190258795363030
+    second: KUIS STRAWBERRY_6
   - first:
-      213: -7408238600985174811
-    second: ya ungu_7
+      213: 3077119214978209889
+    second: KUIS STRAWBERRY_7
   - first:
-      213: -4986724874540669979
-    second: ya ungu_8
+      213: 5725474664478670490
+    second: KUIS STRAWBERRY_8
   - first:
-      213: -2831555521817984349
-    second: ya ungu_9
+      213: -2322226860668831119
+    second: KUIS STRAWBERRY_9
   - first:
-      213: -8596296807626548982
-    second: ya ungu_10
+      213: -2632722284670565736
+    second: KUIS STRAWBERRY_10
   - first:
-      213: -3484587319560429507
-    second: ya ungu_11
+      213: -2494587114612295506
+    second: KUIS STRAWBERRY_11
   - first:
-      213: -3117283702535640593
-    second: ya ungu_12
+      213: -8347036232097829745
+    second: KUIS STRAWBERRY_12
   - first:
-      213: -9214024775315173894
-    second: ya ungu_13
+      213: 4881376934410605796
+    second: KUIS STRAWBERRY_13
   - first:
-      213: -2994064857710458438
-    second: ya ungu_14
+      213: -6780701281140365203
+    second: KUIS STRAWBERRY_14
   - first:
-      213: -322061924577962745
-    second: ya ungu_15
+      213: 884656336040170740
+    second: KUIS STRAWBERRY_15
   - first:
-      213: 7178722627811996622
-    second: ya ungu_16
-  - first:
-      213: 4156765031265733995
-    second: ya ungu_17
+      213: -6164061894109455981
+    second: KUIS STRAWBERRY_16
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -177,320 +174,166 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ya ungu_0
+      name: KUIS STRAWBERRY_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 43
+        width: 52
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a007fc061297dd050800000000000000
+      internalID: 5826946677152378890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KUIS STRAWBERRY_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 44
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c6d89f751a2cd90800000000000000
+      internalID: -7078918265051976660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KUIS STRAWBERRY_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 43
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b666798b1497ff960800000000000000
+      internalID: 7637956816220415595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KUIS STRAWBERRY_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 43
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4be75be9d734b30800000000000000
+      internalID: 4270394992280646864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KUIS STRAWBERRY_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 43
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4649d1233e445fae0800000000000000
+      internalID: -1516229956951239580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KUIS STRAWBERRY_5
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 43
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26effa18eef17ed90800000000000000
+      internalID: -7068645980896231838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KUIS STRAWBERRY_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 43
+        width: 68
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da3a7a33c135b620800000000000000
+      internalID: 2789190258795363030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KUIS STRAWBERRY_7
       rect:
         serializedVersion: 2
         x: 0
-        y: 42
-        width: 19
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a4269c8afd429a300800000000000000
-      internalID: 263782596205961802
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_1
-      rect:
-        serializedVersion: 2
-        x: 19
-        y: 42
-        width: 16
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: de4072474fdb06e00800000000000000
-      internalID: 1036036771913598189
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_2
-      rect:
-        serializedVersion: 2
-        x: 35
-        y: 41
-        width: 18
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b65231ef1aeb6b0d0800000000000000
-      internalID: -3407326465097521813
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_3
-      rect:
-        serializedVersion: 2
-        x: 53
-        y: 41
-        width: 8
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c09a31495a80fe370800000000000000
-      internalID: 8353905341042501900
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_4
-      rect:
-        serializedVersion: 2
-        x: 68
-        y: 42
-        width: 19
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7305afb7ea740f5a0800000000000000
-      internalID: -6489608248311001033
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_5
-      rect:
-        serializedVersion: 2
-        x: 86
-        y: 41
-        width: 16
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 31b974fdf60b1ba30800000000000000
-      internalID: 4229355519611476755
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_6
-      rect:
-        serializedVersion: 2
-        x: 102
-        y: 42
-        width: 23
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e042049ecd903f450800000000000000
-      internalID: 6121247162937385998
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_7
-      rect:
-        serializedVersion: 2
-        x: 126
-        y: 41
-        width: 16
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5ec11f03e36a03990800000000000000
-      internalID: -7408238600985174811
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_8
-      rect:
-        serializedVersion: 2
-        x: 149
-        y: 42
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5e3266cb5289bcab0800000000000000
-      internalID: -4986724874540669979
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_9
-      rect:
-        serializedVersion: 2
-        x: 168
-        y: 42
-        width: 15
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3a24e30514b44b8d0800000000000000
-      internalID: -2831555521817984349
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_10
-      rect:
-        serializedVersion: 2
-        x: 184
-        y: 42
-        width: 17
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a09589d3991d3b880800000000000000
-      internalID: -8596296807626548982
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_11
-      rect:
-        serializedVersion: 2
-        x: 201
-        y: 42
-        width: 20
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d3025c48b4244afc0800000000000000
-      internalID: -3484587319560429507
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_12
-      rect:
-        serializedVersion: 2
-        x: 219
-        y: 42
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fe9af361dfe2db4d0800000000000000
-      internalID: -3117283702535640593
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_13
-      rect:
-        serializedVersion: 2
-        x: 238
-        y: 41
-        width: 7
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: afdc0bbe845312080800000000000000
-      internalID: -9214024775315173894
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_14
-      rect:
-        serializedVersion: 2
-        x: 68
         y: 5
-        width: 26
+        width: 24
         height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -500,17 +343,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ab900b900e1f276d0800000000000000
-      internalID: -2994064857710458438
+      spriteID: 1681e4c6f9f14ba20800000000000000
+      internalID: 3077119214978209889
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_15
+      name: KUIS STRAWBERRY_8
       rect:
         serializedVersion: 2
-        x: 103
+        x: 31
         y: 6
         width: 26
         height: 29
@@ -522,20 +365,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7051addc26ec78bf0800000000000000
-      internalID: -322061924577962745
+      spriteID: a9effba5fd8f47f40800000000000000
+      internalID: 5725474664478670490
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_16
+      name: KUIS STRAWBERRY_9
       rect:
         serializedVersion: 2
-        x: 137
-        y: 5
-        width: 27
-        height: 30
+        x: 65
+        y: 6
+        width: 25
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -544,20 +387,130 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ec3facb0232ff9360800000000000000
-      internalID: 7178722627811996622
+      spriteID: 17ab6f159fac5cfd0800000000000000
+      internalID: -2322226860668831119
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_17
+      name: KUIS STRAWBERRY_10
       rect:
         serializedVersion: 2
-        x: 173
-        y: 5
+        x: 96
+        y: 6
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892c4f5e701b67bd0800000000000000
+      internalID: -2632722284670565736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KUIS STRAWBERRY_11
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 6
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea874447c32716dd0800000000000000
+      internalID: -2494587114612295506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KUIS STRAWBERRY_12
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 6
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c6e7a75ce592c80800000000000000
+      internalID: -8347036232097829745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KUIS STRAWBERRY_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 6
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4545e85722eb340800000000000000
+      internalID: 4881376934410605796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KUIS STRAWBERRY_14
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 6
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68a7994c1c16e1a0800000000000000
+      internalID: -6780701281140365203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KUIS STRAWBERRY_15
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 6
         width: 26
-        height: 30
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -566,8 +519,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6d0c5fb5cbcfa930800000000000000
-      internalID: 4156765031265733995
+      spriteID: 4f419f1204ee64c00800000000000000
+      internalID: 884656336040170740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KUIS STRAWBERRY_16
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 6
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399951cad5ad47aa0800000000000000
+      internalID: -6164061894109455981
       vertices: []
       indices: 
       edges: []
@@ -586,24 +561,23 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      ya ungu_0: 263782596205961802
-      ya ungu_1: 1036036771913598189
-      ya ungu_10: -8596296807626548982
-      ya ungu_11: -3484587319560429507
-      ya ungu_12: -3117283702535640593
-      ya ungu_13: -9214024775315173894
-      ya ungu_14: -2994064857710458438
-      ya ungu_15: -322061924577962745
-      ya ungu_16: 7178722627811996622
-      ya ungu_17: 4156765031265733995
-      ya ungu_2: -3407326465097521813
-      ya ungu_3: 8353905341042501900
-      ya ungu_4: -6489608248311001033
-      ya ungu_5: 4229355519611476755
-      ya ungu_6: 6121247162937385998
-      ya ungu_7: -7408238600985174811
-      ya ungu_8: -4986724874540669979
-      ya ungu_9: -2831555521817984349
+      KUIS STRAWBERRY_0: 5826946677152378890
+      KUIS STRAWBERRY_1: -7078918265051976660
+      KUIS STRAWBERRY_10: -2632722284670565736
+      KUIS STRAWBERRY_11: -2494587114612295506
+      KUIS STRAWBERRY_12: -8347036232097829745
+      KUIS STRAWBERRY_13: 4881376934410605796
+      KUIS STRAWBERRY_14: -6780701281140365203
+      KUIS STRAWBERRY_15: 884656336040170740
+      KUIS STRAWBERRY_16: -6164061894109455981
+      KUIS STRAWBERRY_2: 7637956816220415595
+      KUIS STRAWBERRY_3: 4270394992280646864
+      KUIS STRAWBERRY_4: -1516229956951239580
+      KUIS STRAWBERRY_5: -7068645980896231838
+      KUIS STRAWBERRY_6: 2789190258795363030
+      KUIS STRAWBERRY_7: 3077119214978209889
+      KUIS STRAWBERRY_8: 5725474664478670490
+      KUIS STRAWBERRY_9: -2322226860668831119
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

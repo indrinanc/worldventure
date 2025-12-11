@@ -1,82 +1,64 @@
 fileFormatVersion: 2
-guid: fe0157cbdd969464f9bd71dae8f62282
+guid: 08e8bc80f8efb6f478b7b20f268dbd4a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5789831857066556108
-    second: 7. X ungu_0
+      213: 1782889771763798836
+    second: YA DOMBA_0
   - first:
-      213: -4358719283329504502
-    second: 7. X ungu_1
+      213: 8704314044627074038
+    second: YA DOMBA_1
   - first:
-      213: 1658770779270212497
-    second: 7. X ungu_2
+      213: 2657276460714347914
+    second: YA DOMBA_2
   - first:
-      213: -2540109148509262511
-    second: 7. X ungu_3
+      213: -1925150604474916257
+    second: YA DOMBA_3
   - first:
-      213: -115081492491419452
-    second: 7. X ungu_4
+      213: -8088850940222918447
+    second: YA DOMBA_4
   - first:
-      213: -5863328574780510526
-    second: 7. X ungu_5
+      213: -1462762968860649172
+    second: YA DOMBA_5
   - first:
-      213: -4002011196718634188
-    second: 7. X ungu_6
+      213: 4695693124457744754
+    second: YA DOMBA_6
   - first:
-      213: 6566318738597847395
-    second: 7. X ungu_7
+      213: 2113502144617186165
+    second: YA DOMBA_7
   - first:
-      213: -7504225799159254035
-    second: 7. X ungu_8
+      213: 1703593493252287093
+    second: YA DOMBA_8
   - first:
-      213: 8350034304392570462
-    second: 7. X ungu_9
+      213: -2087125843439148698
+    second: YA DOMBA_9
   - first:
-      213: 2850248886400322840
-    second: 7. X ungu_10
+      213: 1827384878453065954
+    second: YA DOMBA_10
   - first:
-      213: 4215471597076156849
-    second: 7. X ungu_11
+      213: 8524611288649730007
+    second: YA DOMBA_11
   - first:
-      213: -5364810415899920204
-    second: 7. X ungu_12
+      213: -5719324504342478627
+    second: YA DOMBA_12
   - first:
-      213: 8202023523922096613
-    second: 7. X ungu_13
+      213: 3689305199023682111
+    second: YA DOMBA_13
   - first:
-      213: 5776641286643033986
-    second: 7. X ungu_14
+      213: -7629969104612834174
+    second: YA DOMBA_14
   - first:
-      213: 2893837665924352469
-    second: 7. X ungu_15
+      213: 4518116620755752593
+    second: YA DOMBA_15
   - first:
-      213: -6161195178185209732
-    second: 7. X ungu_16
+      213: -7080387621989569037
+    second: YA DOMBA_16
   - first:
-      213: 6816559608466410926
-    second: 7. X ungu_17
+      213: -4973907525674628818
+    second: YA DOMBA_17
   - first:
-      213: -4305333426043965608
-    second: 7. X ungu_18
-  - first:
-      213: 2942133899768362891
-    second: 7. X ungu_19
-  - first:
-      213: 3134862120242092975
-    second: 7. X ungu_20
-  - first:
-      213: 4349631318594530979
-    second: 7. X ungu_21
-  - first:
-      213: 1451985702171035758
-    second: 7. X ungu_22
-  - first:
-      213: 3194449954129058686
-    second: 7. X ungu_23
-  - first:
-      213: 4926801804235251033
-    second: 7. X ungu_24
+      213: -1293042806198835815
+    second: YA DOMBA_18
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -198,13 +180,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 7. X ungu_0
+      name: YA DOMBA_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 47
-        width: 29
-        height: 18
+        y: 42
+        width: 19
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -213,20 +195,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 435ce421a9266afa0800000000000000
-      internalID: -5789831857066556108
+      spriteID: 43398af1dc81eb810800000000000000
+      internalID: 1782889771763798836
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 7. X ungu_1
+      name: YA DOMBA_1
       rect:
         serializedVersion: 2
-        x: 28
-        y: 43
-        width: 25
-        height: 18
+        x: 19
+        y: 42
+        width: 16
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -235,20 +217,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a0bef71c7e7b283c0800000000000000
-      internalID: -4358719283329504502
+      spriteID: 6fbb073918febc870800000000000000
+      internalID: 8704314044627074038
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 7. X ungu_2
+      name: YA DOMBA_2
       rect:
         serializedVersion: 2
-        x: 52
-        y: 47
-        width: 7
-        height: 18
+        x: 35
+        y: 41
+        width: 18
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -257,20 +239,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 19be2363c33250710800000000000000
-      internalID: 1658770779270212497
+      spriteID: a8dc2e6bcda80e420800000000000000
+      internalID: 2657276460714347914
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 7. X ungu_3
+      name: YA DOMBA_3
       rect:
         serializedVersion: 2
-        x: 62
-        y: 47
-        width: 62
-        height: 18
+        x: 53
+        y: 41
+        width: 8
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -279,20 +261,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 15da2600038bfbcd0800000000000000
-      internalID: -2540109148509262511
+      spriteID: f52e421a9bd7845e0800000000000000
+      internalID: -1925150604474916257
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 7. X ungu_4
+      name: YA DOMBA_4
       rect:
         serializedVersion: 2
-        x: 126
-        y: 43
-        width: 37
-        height: 18
+        x: 68
+        y: 42
+        width: 19
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -301,63 +283,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4c0c3d70ef5276ef0800000000000000
-      internalID: -115081492491419452
+      spriteID: 1d0bdea2de0aebf80800000000000000
+      internalID: -8088850940222918447
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 7. X ungu_5
+      name: YA DOMBA_5
       rect:
         serializedVersion: 2
-        x: 162
-        y: 43
-        width: 14
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2ce6fcaf9b541aea0800000000000000
-      internalID: -5863328574780510526
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 7. X ungu_6
-      rect:
-        serializedVersion: 2
-        x: 178
-        y: 60
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 43b237825000678c0800000000000000
-      internalID: -4002011196718634188
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 7. X ungu_7
-      rect:
-        serializedVersion: 2
-        x: 178
-        y: 47
-        width: 27
+        x: 86
+        y: 41
+        width: 16
         height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -367,20 +305,42 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 361ad185a10402b50800000000000000
-      internalID: 6566318738597847395
+      spriteID: c29177274d833bbe0800000000000000
+      internalID: -1462762968860649172
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 7. X ungu_8
+      name: YA DOMBA_6
       rect:
         serializedVersion: 2
-        x: 224
-        y: 47
+        x: 102
+        y: 42
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2794c8194047a2140800000000000000
+      internalID: 4695693124457744754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YA DOMBA_7
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 41
         width: 16
-        height: 18
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -389,108 +349,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: de37ace0562abd790800000000000000
-      internalID: -7504225799159254035
+      spriteID: 5730fe1b00ba45d10800000000000000
+      internalID: 2113502144617186165
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 7. X ungu_9
+      name: YA DOMBA_8
       rect:
         serializedVersion: 2
-        x: 239
-        y: 47
-        width: 37
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e5625af95f741e370800000000000000
-      internalID: 8350034304392570462
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 7. X ungu_10
-      rect:
-        serializedVersion: 2
-        x: 278
-        y: 47
-        width: 25
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 81d085bc24e1e8720800000000000000
-      internalID: 2850248886400322840
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 7. X ungu_11
-      rect:
-        serializedVersion: 2
-        x: 302
-        y: 48
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1b11970451d508a30800000000000000
-      internalID: 4215471597076156849
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 7. X ungu_12
-      rect:
-        serializedVersion: 2
-        x: 310
-        y: 60
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4b838f8c95d5c85b0800000000000000
-      internalID: -5364810415899920204
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 7. X ungu_13
-      rect:
-        serializedVersion: 2
-        x: 319
-        y: 47
+        x: 149
+        y: 42
         width: 18
-        height: 18
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -499,20 +371,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5e136c650f073d170800000000000000
-      internalID: 8202023523922096613
+      spriteID: 57a28fe814164a710800000000000000
+      internalID: 1703593493252287093
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 7. X ungu_14
+      name: YA DOMBA_9
       rect:
         serializedVersion: 2
-        x: 336
-        y: 43
-        width: 14
-        height: 18
+        x: 168
+        y: 42
+        width: 15
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -521,20 +393,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 287a63de4a0ca2050800000000000000
-      internalID: 5776641286643033986
+      spriteID: 661a54c7a1a0903e0800000000000000
+      internalID: -2087125843439148698
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 7. X ungu_15
+      name: YA DOMBA_10
       rect:
         serializedVersion: 2
-        x: 349
-        y: 60
-        width: 6
-        height: 6
+        x: 184
+        y: 42
+        width: 17
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -543,20 +415,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5d90113660af82820800000000000000
-      internalID: 2893837665924352469
+      spriteID: 2e88d147ddc2c5910800000000000000
+      internalID: 1827384878453065954
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 7. X ungu_16
+      name: YA DOMBA_11
       rect:
         serializedVersion: 2
-        x: 349
-        y: 48
-        width: 6
-        height: 13
+        x: 201
+        y: 42
+        width: 20
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -565,20 +437,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c78cb6cf0a90f7aa0800000000000000
-      internalID: -6161195178185209732
+      spriteID: 7d7804c3dc08d4670800000000000000
+      internalID: 8524611288649730007
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 7. X ungu_17
+      name: YA DOMBA_12
       rect:
         serializedVersion: 2
-        x: 355
-        y: 47
-        width: 6
-        height: 18
+        x: 219
+        y: 42
+        width: 18
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -587,20 +459,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ead8ae429d8499e50800000000000000
-      internalID: 6816559608466410926
+      spriteID: dd0ca736aa0e0a0b0800000000000000
+      internalID: -5719324504342478627
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 7. X ungu_18
+      name: YA DOMBA_13
       rect:
         serializedVersion: 2
-        x: 204
-        y: 47
+        x: 238
+        y: 41
         width: 7
-        height: 7
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -609,64 +481,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 85fa8054f026044c0800000000000000
-      internalID: -4305333426043965608
+      spriteID: f32fecf188b033330800000000000000
+      internalID: 3689305199023682111
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 7. X ungu_19
+      name: YA DOMBA_14
       rect:
         serializedVersion: 2
-        x: 210
-        y: 47
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b87f359913f84d820800000000000000
-      internalID: 2942133899768362891
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 7. X ungu_20
-      rect:
-        serializedVersion: 2
-        x: 216
-        y: 47
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fab9bd83d74418b20800000000000000
-      internalID: 3134862120242092975
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 7. X ungu_21
-      rect:
-        serializedVersion: 2
-        x: 101
+        x: 46
         y: 6
-        width: 28
-        height: 32
+        width: 27
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -675,20 +503,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3aeadb093aefc5c30800000000000000
-      internalID: 4349631318594530979
+      spriteID: 284c8505687ec1690800000000000000
+      internalID: -7629969104612834174
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 7. X ungu_22
+      name: YA DOMBA_15
       rect:
         serializedVersion: 2
-        x: 145
-        y: 7
+        x: 81
+        y: 5
         width: 28
-        height: 31
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -697,20 +525,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e68c9dc9d4d762410800000000000000
-      internalID: 1451985702171035758
+      spriteID: 1965fe9e02393be30800000000000000
+      internalID: 4518116620755752593
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 7. X ungu_23
+      name: YA DOMBA_16
       rect:
         serializedVersion: 2
-        x: 189
+        x: 118
         y: 6
-        width: 30
-        height: 32
+        width: 33
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -719,20 +547,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e7b10a0fe47f45c20800000000000000
-      internalID: 3194449954129058686
+      spriteID: 3fd2d37a8f86dbd90800000000000000
+      internalID: -7080387621989569037
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 7. X ungu_24
+      name: YA DOMBA_17
       rect:
         serializedVersion: 2
-        x: 235
+        x: 159
         y: 6
-        width: 28
-        height: 32
+        width: 25
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -741,8 +569,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 95d123c33248f5440800000000000000
-      internalID: 4926801804235251033
+      spriteID: e298582557129fab0800000000000000
+      internalID: -4973907525674628818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YA DOMBA_18
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 6
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995e4292b603e0ee0800000000000000
+      internalID: -1293042806198835815
       vertices: []
       indices: 
       edges: []
@@ -761,31 +611,25 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      7. X ungu_0: -5789831857066556108
-      7. X ungu_1: -4358719283329504502
-      7. X ungu_10: 2850248886400322840
-      7. X ungu_11: 4215471597076156849
-      7. X ungu_12: -5364810415899920204
-      7. X ungu_13: 8202023523922096613
-      7. X ungu_14: 5776641286643033986
-      7. X ungu_15: 2893837665924352469
-      7. X ungu_16: -6161195178185209732
-      7. X ungu_17: 6816559608466410926
-      7. X ungu_18: -4305333426043965608
-      7. X ungu_19: 2942133899768362891
-      7. X ungu_2: 1658770779270212497
-      7. X ungu_20: 3134862120242092975
-      7. X ungu_21: 4349631318594530979
-      7. X ungu_22: 1451985702171035758
-      7. X ungu_23: 3194449954129058686
-      7. X ungu_24: 4926801804235251033
-      7. X ungu_3: -2540109148509262511
-      7. X ungu_4: -115081492491419452
-      7. X ungu_5: -5863328574780510526
-      7. X ungu_6: -4002011196718634188
-      7. X ungu_7: 6566318738597847395
-      7. X ungu_8: -7504225799159254035
-      7. X ungu_9: 8350034304392570462
+      YA DOMBA_0: 1782889771763798836
+      YA DOMBA_1: 8704314044627074038
+      YA DOMBA_10: 1827384878453065954
+      YA DOMBA_11: 8524611288649730007
+      YA DOMBA_12: -5719324504342478627
+      YA DOMBA_13: 3689305199023682111
+      YA DOMBA_14: -7629969104612834174
+      YA DOMBA_15: 4518116620755752593
+      YA DOMBA_16: -7080387621989569037
+      YA DOMBA_17: -4973907525674628818
+      YA DOMBA_18: -1293042806198835815
+      YA DOMBA_2: 2657276460714347914
+      YA DOMBA_3: -1925150604474916257
+      YA DOMBA_4: -8088850940222918447
+      YA DOMBA_5: -1462762968860649172
+      YA DOMBA_6: 4695693124457744754
+      YA DOMBA_7: 2113502144617186165
+      YA DOMBA_8: 1703593493252287093
+      YA DOMBA_9: -2087125843439148698
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

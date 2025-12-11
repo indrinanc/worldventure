@@ -1,61 +1,64 @@
 fileFormatVersion: 2
-guid: 385f843b3ac799b43994090ef60a8090
+guid: 7f9c0e835921d684897ec9cc9e4ad16a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 263782596205961802
-    second: ya ungu_0
+      213: -5456885619386089247
+    second: YA JERUK_0
   - first:
-      213: 1036036771913598189
-    second: ya ungu_1
+      213: 5791031731352595823
+    second: YA JERUK_1
   - first:
-      213: -3407326465097521813
-    second: ya ungu_2
+      213: -4934957030072607283
+    second: YA JERUK_2
   - first:
-      213: 8353905341042501900
-    second: ya ungu_3
+      213: -4426847463211507546
+    second: YA JERUK_3
   - first:
-      213: -6489608248311001033
-    second: ya ungu_4
+      213: 4492938015205753965
+    second: YA JERUK_4
   - first:
-      213: 4229355519611476755
-    second: ya ungu_5
+      213: 1620318093349659032
+    second: YA JERUK_5
   - first:
-      213: 6121247162937385998
-    second: ya ungu_6
+      213: -6271116592334349733
+    second: YA JERUK_6
   - first:
-      213: -7408238600985174811
-    second: ya ungu_7
+      213: 5880446106192046950
+    second: YA JERUK_7
   - first:
-      213: -4986724874540669979
-    second: ya ungu_8
+      213: 4312559215630639195
+    second: YA JERUK_8
   - first:
-      213: -2831555521817984349
-    second: ya ungu_9
+      213: 4522919441256001661
+    second: YA JERUK_9
   - first:
-      213: -8596296807626548982
-    second: ya ungu_10
+      213: -357270964700467005
+    second: YA JERUK_10
   - first:
-      213: -3484587319560429507
-    second: ya ungu_11
+      213: 3262228806282349803
+    second: YA JERUK_11
   - first:
-      213: -3117283702535640593
-    second: ya ungu_12
+      213: -1961491723217372531
+    second: YA JERUK_12
   - first:
-      213: -9214024775315173894
-    second: ya ungu_13
+      213: -3357771766010858369
+    second: YA JERUK_13
   - first:
-      213: -2994064857710458438
-    second: ya ungu_14
+      213: 9019832278085040796
+    second: YA JERUK_14
   - first:
-      213: -322061924577962745
-    second: ya ungu_15
+      213: -6459289274548514448
+    second: YA JERUK_15
   - first:
-      213: 7178722627811996622
-    second: ya ungu_16
+      213: 4790481996803237648
+    second: YA JERUK_16
   - first:
-      213: 4156765031265733995
-    second: ya ungu_17
+      213: -3051076509477700868
+    second: YA JERUK_17
+  - first:
+      213: -5193730052482508112
+    second: YA JERUK_18
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -177,7 +180,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ya ungu_0
+      name: YA JERUK_0
       rect:
         serializedVersion: 2
         x: 0
@@ -192,14 +195,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a4269c8afd429a300800000000000000
-      internalID: 263782596205961802
+      spriteID: 1e00e84e07f3544b0800000000000000
+      internalID: -5456885619386089247
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_1
+      name: YA JERUK_1
       rect:
         serializedVersion: 2
         x: 19
@@ -214,14 +217,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: de4072474fdb06e00800000000000000
-      internalID: 1036036771913598189
+      spriteID: f6d694e6da0ed5050800000000000000
+      internalID: 5791031731352595823
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_2
+      name: YA JERUK_2
       rect:
         serializedVersion: 2
         x: 35
@@ -236,14 +239,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b65231ef1aeb6b0d0800000000000000
-      internalID: -3407326465097521813
+      spriteID: dcd94b84ab2838bb0800000000000000
+      internalID: -4934957030072607283
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_3
+      name: YA JERUK_3
       rect:
         serializedVersion: 2
         x: 53
@@ -258,14 +261,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c09a31495a80fe370800000000000000
-      internalID: 8353905341042501900
+      spriteID: 6a06078cfada092c0800000000000000
+      internalID: -4426847463211507546
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_4
+      name: YA JERUK_4
       rect:
         serializedVersion: 2
         x: 68
@@ -280,14 +283,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7305afb7ea740f5a0800000000000000
-      internalID: -6489608248311001033
+      spriteID: d64003af15f1a5e30800000000000000
+      internalID: 4492938015205753965
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_5
+      name: YA JERUK_5
       rect:
         serializedVersion: 2
         x: 86
@@ -302,14 +305,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 31b974fdf60b1ba30800000000000000
-      internalID: 4229355519611476755
+      spriteID: 891ae3998b68c7610800000000000000
+      internalID: 1620318093349659032
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_6
+      name: YA JERUK_6
       rect:
         serializedVersion: 2
         x: 102
@@ -324,14 +327,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e042049ecd903f450800000000000000
-      internalID: 6121247162937385998
+      spriteID: b5a5ad06fa488f8a0800000000000000
+      internalID: -6271116592334349733
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_7
+      name: YA JERUK_7
       rect:
         serializedVersion: 2
         x: 126
@@ -346,14 +349,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5ec11f03e36a03990800000000000000
-      internalID: -7408238600985174811
+      spriteID: 66be760e39a8b9150800000000000000
+      internalID: 5880446106192046950
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_8
+      name: YA JERUK_8
       rect:
         serializedVersion: 2
         x: 149
@@ -368,14 +371,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5e3266cb5289bcab0800000000000000
-      internalID: -4986724874540669979
+      spriteID: b506088f1c949db30800000000000000
+      internalID: 4312559215630639195
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_9
+      name: YA JERUK_9
       rect:
         serializedVersion: 2
         x: 168
@@ -390,14 +393,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3a24e30514b44b8d0800000000000000
-      internalID: -2831555521817984349
+      spriteID: d70b5c3b443a4ce30800000000000000
+      internalID: 4522919441256001661
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_10
+      name: YA JERUK_10
       rect:
         serializedVersion: 2
         x: 184
@@ -412,14 +415,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a09589d3991d3b880800000000000000
-      internalID: -8596296807626548982
+      spriteID: 3c0b77453f7ba0bf0800000000000000
+      internalID: -357270964700467005
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_11
+      name: YA JERUK_11
       rect:
         serializedVersion: 2
         x: 201
@@ -434,14 +437,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d3025c48b4244afc0800000000000000
-      internalID: -3484587319560429507
+      spriteID: bec8186b0d3c54d20800000000000000
+      internalID: 3262228806282349803
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_12
+      name: YA JERUK_12
       rect:
         serializedVersion: 2
         x: 219
@@ -456,14 +459,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fe9af361dfe2db4d0800000000000000
-      internalID: -3117283702535640593
+      spriteID: d8a72cf8ba167c4e0800000000000000
+      internalID: -1961491723217372531
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_13
+      name: YA JERUK_13
       rect:
         serializedVersion: 2
         x: 238
@@ -478,19 +481,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: afdc0bbe845312080800000000000000
-      internalID: -9214024775315173894
+      spriteID: f74361a7e5cc661d0800000000000000
+      internalID: -3357771766010858369
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_14
+      name: YA JERUK_14
       rect:
         serializedVersion: 2
-        x: 68
+        x: 56
         y: 5
-        width: 26
+        width: 23
         height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -500,19 +503,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ab900b900e1f276d0800000000000000
-      internalID: -2994064857710458438
+      spriteID: c9a7cd4faa1ec2d70800000000000000
+      internalID: 9019832278085040796
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_15
+      name: YA JERUK_15
       rect:
         serializedVersion: 2
-        x: 103
+        x: 87
         y: 6
-        width: 26
+        width: 22
         height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -522,20 +525,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7051addc26ec78bf0800000000000000
-      internalID: -322061924577962745
+      spriteID: 0719b09a0aefb56a0800000000000000
+      internalID: -6459289274548514448
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_16
+      name: YA JERUK_16
       rect:
         serializedVersion: 2
-        x: 137
-        y: 5
-        width: 27
-        height: 30
+        x: 118
+        y: 6
+        width: 25
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -544,17 +547,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ec3facb0232ff9360800000000000000
-      internalID: 7178722627811996622
+      spriteID: 0176c5abef53b7240800000000000000
+      internalID: 4790481996803237648
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_17
+      name: YA JERUK_17
       rect:
         serializedVersion: 2
-        x: 173
+        x: 150
         y: 5
         width: 26
         height: 30
@@ -566,8 +569,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6d0c5fb5cbcfa930800000000000000
-      internalID: 4156765031265733995
+      spriteID: cfafa06741668a5d0800000000000000
+      internalID: -3051076509477700868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YA JERUK_18
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 6
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba528ae80a2ce7b0800000000000000
+      internalID: -5193730052482508112
       vertices: []
       indices: 
       edges: []
@@ -586,24 +611,25 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      ya ungu_0: 263782596205961802
-      ya ungu_1: 1036036771913598189
-      ya ungu_10: -8596296807626548982
-      ya ungu_11: -3484587319560429507
-      ya ungu_12: -3117283702535640593
-      ya ungu_13: -9214024775315173894
-      ya ungu_14: -2994064857710458438
-      ya ungu_15: -322061924577962745
-      ya ungu_16: 7178722627811996622
-      ya ungu_17: 4156765031265733995
-      ya ungu_2: -3407326465097521813
-      ya ungu_3: 8353905341042501900
-      ya ungu_4: -6489608248311001033
-      ya ungu_5: 4229355519611476755
-      ya ungu_6: 6121247162937385998
-      ya ungu_7: -7408238600985174811
-      ya ungu_8: -4986724874540669979
-      ya ungu_9: -2831555521817984349
+      YA JERUK_0: -5456885619386089247
+      YA JERUK_1: 5791031731352595823
+      YA JERUK_10: -357270964700467005
+      YA JERUK_11: 3262228806282349803
+      YA JERUK_12: -1961491723217372531
+      YA JERUK_13: -3357771766010858369
+      YA JERUK_14: 9019832278085040796
+      YA JERUK_15: -6459289274548514448
+      YA JERUK_16: 4790481996803237648
+      YA JERUK_17: -3051076509477700868
+      YA JERUK_18: -5193730052482508112
+      YA JERUK_2: -4934957030072607283
+      YA JERUK_3: -4426847463211507546
+      YA JERUK_4: 4492938015205753965
+      YA JERUK_5: 1620318093349659032
+      YA JERUK_6: -6271116592334349733
+      YA JERUK_7: 5880446106192046950
+      YA JERUK_8: 4312559215630639195
+      YA JERUK_9: 4522919441256001661
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

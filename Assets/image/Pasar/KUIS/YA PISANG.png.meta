@@ -1,85 +1,67 @@
 fileFormatVersion: 2
-guid: 08c043549ff39d94e94a50dcec3708c9
+guid: 51f0ef6413b3f8641b96adfc16c2689c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4440612735424752096
-    second: 1. X merah_0
+      213: -8106379209550055162
+    second: YA PISANG_0
   - first:
-      213: -382450721025845413
-    second: 1. X merah_1
+      213: -2786221144208124317
+    second: YA PISANG_1
   - first:
-      213: -2397388866640878050
-    second: 1. X merah_2
+      213: -7024944130156546931
+    second: YA PISANG_2
   - first:
-      213: -2878920945731321933
-    second: 1. X merah_3
+      213: 592714675869480172
+    second: YA PISANG_3
   - first:
-      213: 1321373554443228557
-    second: 1. X merah_4
+      213: 2429119154351552076
+    second: YA PISANG_4
   - first:
-      213: -8931888633955806864
-    second: 1. X merah_5
+      213: -6763917617408387255
+    second: YA PISANG_5
   - first:
-      213: -7410217538577215049
-    second: 1. X merah_6
+      213: 227753159943432835
+    second: YA PISANG_6
   - first:
-      213: -4232127067932065777
-    second: 1. X merah_7
+      213: -6545914658024240146
+    second: YA PISANG_7
   - first:
-      213: -6358545722755726379
-    second: 1. X merah_8
+      213: -3788489714217751497
+    second: YA PISANG_8
   - first:
-      213: 2396028667773821238
-    second: 1. X merah_9
+      213: -3939899233262517604
+    second: YA PISANG_9
   - first:
-      213: -7659401355400120969
-    second: 1. X merah_10
+      213: -3607535916571520616
+    second: YA PISANG_10
   - first:
-      213: -1137349852797872000
-    second: 1. X merah_11
+      213: 8404067959837581343
+    second: YA PISANG_11
   - first:
-      213: -2179092823980942119
-    second: 1. X merah_12
+      213: -4351720890894886875
+    second: YA PISANG_12
   - first:
-      213: -1088829790382058235
-    second: 1. X merah_13
+      213: -6027203421757313938
+    second: YA PISANG_13
   - first:
-      213: -2110870714086758191
-    second: 1. X merah_14
+      213: -5627307831766678125
+    second: YA PISANG_14
   - first:
-      213: 4365687289315325533
-    second: 1. X merah_15
+      213: -4155067583042700142
+    second: YA PISANG_15
   - first:
-      213: -3910894908868230317
-    second: 1. X merah_16
+      213: -4992146744017056829
+    second: YA PISANG_16
   - first:
-      213: 3774303027543274764
-    second: 1. X merah_17
+      213: -1887502773312415779
+    second: YA PISANG_17
   - first:
-      213: 4827154386776851194
-    second: 1. X merah_18
+      213: 6104759372800885475
+    second: YA PISANG_18
   - first:
-      213: -2591452903853894287
-    second: 1. X merah_19
-  - first:
-      213: 7473244888082430619
-    second: 1. X merah_20
-  - first:
-      213: -6283700944110481490
-    second: 1. X merah_21
-  - first:
-      213: -1789954514768017790
-    second: 1. X merah_22
-  - first:
-      213: 6529965283358125873
-    second: 1. X merah_23
-  - first:
-      213: -3340453430681742814
-    second: 1. X merah_24
-  - first:
-      213: 866524803044677433
-    second: 1. X merah_25
+      213: -7291195110430729957
+    second: YA PISANG_19
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -201,13 +183,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 1. X merah_0
+      name: YA PISANG_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 47
-        width: 29
-        height: 18
+        y: 42
+        width: 19
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,20 +198,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0e9611861c930ad30800000000000000
-      internalID: 4440612735424752096
+      spriteID: 6093820fe0b508f80800000000000000
+      internalID: -8106379209550055162
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1. X merah_1
+      name: YA PISANG_1
       rect:
         serializedVersion: 2
-        x: 28
-        y: 43
-        width: 25
-        height: 18
+        x: 19
+        y: 42
+        width: 16
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -238,20 +220,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b579925781341baf0800000000000000
-      internalID: -382450721025845413
+      spriteID: 366dac1a1aa5559d0800000000000000
+      internalID: -2786221144208124317
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1. X merah_2
+      name: YA PISANG_2
       rect:
         serializedVersion: 2
-        x: 52
-        y: 47
-        width: 7
-        height: 18
+        x: 35
+        y: 41
+        width: 18
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -260,20 +242,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e16e4671783cabed0800000000000000
-      internalID: -2397388866640878050
+      spriteID: d84bd0b8882628e90800000000000000
+      internalID: -7024944130156546931
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1. X merah_3
+      name: YA PISANG_3
       rect:
         serializedVersion: 2
-        x: 62
-        y: 47
-        width: 62
-        height: 18
+        x: 53
+        y: 41
+        width: 8
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -282,20 +264,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3bfb04d27a40c08d0800000000000000
-      internalID: -2878920945731321933
+      spriteID: ce47c5c7bdeb93800800000000000000
+      internalID: 592714675869480172
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1. X merah_4
+      name: YA PISANG_4
       rect:
         serializedVersion: 2
-        x: 126
-        y: 43
-        width: 37
-        height: 18
+        x: 68
+        y: 42
+        width: 19
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -304,63 +286,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d851f203f36765210800000000000000
-      internalID: 1321373554443228557
+      spriteID: c46b8383007f5b120800000000000000
+      internalID: 2429119154351552076
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1. X merah_5
+      name: YA PISANG_5
       rect:
         serializedVersion: 2
-        x: 162
-        y: 43
-        width: 14
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 07117bf4c9e8b0480800000000000000
-      internalID: -8931888633955806864
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 1. X merah_6
-      rect:
-        serializedVersion: 2
-        x: 178
-        y: 60
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7b15cb0e86e992990800000000000000
-      internalID: -7410217538577215049
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 1. X merah_7
-      rect:
-        serializedVersion: 2
-        x: 178
-        y: 47
-        width: 27
+        x: 86
+        y: 41
+        width: 16
         height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -370,20 +308,42 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f00089fbad67445c0800000000000000
-      internalID: -4232127067932065777
+      spriteID: 947dd5483ccb122a0800000000000000
+      internalID: -6763917617408387255
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1. X merah_8
+      name: YA PISANG_6
       rect:
         serializedVersion: 2
-        x: 224
-        y: 47
+        x: 102
+        y: 42
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38aa6e2da44292300800000000000000
+      internalID: 227753159943432835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YA PISANG_7
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 41
         width: 16
-        height: 18
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -392,108 +352,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5d3c01baa58e1c7a0800000000000000
-      internalID: -6358545722755726379
+      spriteID: eeb417edc4d3825a0800000000000000
+      internalID: -6545914658024240146
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1. X merah_9
+      name: YA PISANG_8
       rect:
         serializedVersion: 2
-        x: 239
-        y: 47
-        width: 37
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 631af4ee067604120800000000000000
-      internalID: 2396028667773821238
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 1. X merah_10
-      rect:
-        serializedVersion: 2
-        x: 278
-        y: 47
-        width: 25
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 775fa3b6c0754b590800000000000000
-      internalID: -7659401355400120969
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 1. X merah_11
-      rect:
-        serializedVersion: 2
-        x: 302
-        y: 48
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 088d3a6b5525730f0800000000000000
-      internalID: -1137349852797872000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 1. X merah_12
-      rect:
-        serializedVersion: 2
-        x: 310
-        y: 60
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9dc53063f9e42c1e0800000000000000
-      internalID: -2179092823980942119
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 1. X merah_13
-      rect:
-        serializedVersion: 2
-        x: 319
-        y: 47
+        x: 149
+        y: 42
         width: 18
-        height: 18
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -502,20 +374,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5051a631313b3e0f0800000000000000
-      internalID: -1088829790382058235
+      spriteID: 73c64dc5da49c6bc0800000000000000
+      internalID: -3788489714217751497
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1. X merah_14
+      name: YA PISANG_9
       rect:
         serializedVersion: 2
-        x: 336
-        y: 43
-        width: 14
-        height: 18
+        x: 168
+        y: 42
+        width: 15
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -524,20 +396,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1d86518f44ea4b2e0800000000000000
-      internalID: -2110870714086758191
+      spriteID: c92cd86958aa259c0800000000000000
+      internalID: -3939899233262517604
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1. X merah_15
+      name: YA PISANG_10
       rect:
         serializedVersion: 2
-        x: 349
-        y: 60
-        width: 6
-        height: 6
+        x: 184
+        y: 42
+        width: 17
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -546,20 +418,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d56f3109579069c30800000000000000
-      internalID: 4365687289315325533
+      spriteID: 8919a4a82357fedc0800000000000000
+      internalID: -3607535916571520616
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1. X merah_16
+      name: YA PISANG_11
       rect:
         serializedVersion: 2
-        x: 349
-        y: 48
-        width: 6
-        height: 13
+        x: 201
+        y: 42
+        width: 20
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -568,20 +440,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 353860b1dc5b9b9c0800000000000000
-      internalID: -3910894908868230317
+      spriteID: f106c56684f31a470800000000000000
+      internalID: 8404067959837581343
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1. X merah_17
+      name: YA PISANG_12
       rect:
         serializedVersion: 2
-        x: 355
-        y: 47
-        width: 6
-        height: 18
+        x: 219
+        y: 42
+        width: 18
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -590,20 +462,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c05f56f3b94016430800000000000000
-      internalID: 3774303027543274764
+      spriteID: 5285098f7e49b93c0800000000000000
+      internalID: -4351720890894886875
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1. X merah_18
+      name: YA PISANG_13
       rect:
         serializedVersion: 2
-        x: 204
-        y: 47
+        x: 238
+        y: 41
         width: 7
-        height: 7
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -612,20 +484,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: af28dc3e65f7df240800000000000000
-      internalID: 4827154386776851194
+      spriteID: e6ce221eb621b5ca0800000000000000
+      internalID: -6027203421757313938
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1. X merah_19
+      name: YA PISANG_14
       rect:
         serializedVersion: 2
-        x: 210
-        y: 47
-        width: 7
-        height: 7
+        x: 42
+        y: 6
+        width: 25
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -634,20 +506,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 17552a5605f490cd0800000000000000
-      internalID: -2591452903853894287
+      spriteID: 39506cd7759c7e1b0800000000000000
+      internalID: -5627307831766678125
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1. X merah_20
+      name: YA PISANG_15
       rect:
         serializedVersion: 2
-        x: 216
-        y: 47
-        width: 7
-        height: 7
+        x: 74
+        y: 6
+        width: 12
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -656,20 +528,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b9a38a971ac46b760800000000000000
-      internalID: 7473244888082430619
+      spriteID: 29cbff63c0c3656c0800000000000000
+      internalID: -4155067583042700142
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1. X merah_21
+      name: YA PISANG_16
       rect:
         serializedVersion: 2
-        x: 77
-        y: 7
-        width: 35
-        height: 31
+        x: 93
+        y: 5
+        width: 26
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -678,20 +550,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eaf0287a84fcbc8a0800000000000000
-      internalID: -6283700944110481490
+      spriteID: 3cb8d306cf458bab0800000000000000
+      internalID: -4992146744017056829
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1. X merah_22
+      name: YA PISANG_17
       rect:
         serializedVersion: 2
-        x: 129
-        y: 7
-        width: 24
-        height: 31
+        x: 124
+        y: 6
+        width: 31
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -700,20 +572,42 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 28645273addc827e0800000000000000
-      internalID: -1789954514768017790
+      spriteID: dd716246a3e3ec5e0800000000000000
+      internalID: -1887502773312415779
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1. X merah_23
+      name: YA PISANG_18
       rect:
         serializedVersion: 2
-        x: 169
-        y: 7
+        x: 162
+        y: 6
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2880f1e4678b450800000000000000
+      internalID: 6104759372800885475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YA PISANG_19
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 5
         width: 28
-        height: 31
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -722,52 +616,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 13fa136f3d81f9a50800000000000000
-      internalID: 6529965283358125873
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 1. X merah_24
-      rect:
-        serializedVersion: 2
-        x: 210
-        y: 7
-        width: 33
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 222da73ad4354a1d0800000000000000
-      internalID: -3340453430681742814
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 1. X merah_25
-      rect:
-        serializedVersion: 2
-        x: 258
-        y: 7
-        width: 29
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9371b82a7b3860c00800000000000000
-      internalID: 866524803044677433
+      spriteID: b1916be6da870da90800000000000000
+      internalID: -7291195110430729957
       vertices: []
       indices: 
       edges: []
@@ -786,32 +636,26 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      1. X merah_0: 4440612735424752096
-      1. X merah_1: -382450721025845413
-      1. X merah_10: -7659401355400120969
-      1. X merah_11: -1137349852797872000
-      1. X merah_12: -2179092823980942119
-      1. X merah_13: -1088829790382058235
-      1. X merah_14: -2110870714086758191
-      1. X merah_15: 4365687289315325533
-      1. X merah_16: -3910894908868230317
-      1. X merah_17: 3774303027543274764
-      1. X merah_18: 4827154386776851194
-      1. X merah_19: -2591452903853894287
-      1. X merah_2: -2397388866640878050
-      1. X merah_20: 7473244888082430619
-      1. X merah_21: -6283700944110481490
-      1. X merah_22: -1789954514768017790
-      1. X merah_23: 6529965283358125873
-      1. X merah_24: -3340453430681742814
-      1. X merah_25: 866524803044677433
-      1. X merah_3: -2878920945731321933
-      1. X merah_4: 1321373554443228557
-      1. X merah_5: -8931888633955806864
-      1. X merah_6: -7410217538577215049
-      1. X merah_7: -4232127067932065777
-      1. X merah_8: -6358545722755726379
-      1. X merah_9: 2396028667773821238
+      YA PISANG_0: -8106379209550055162
+      YA PISANG_1: -2786221144208124317
+      YA PISANG_10: -3607535916571520616
+      YA PISANG_11: 8404067959837581343
+      YA PISANG_12: -4351720890894886875
+      YA PISANG_13: -6027203421757313938
+      YA PISANG_14: -5627307831766678125
+      YA PISANG_15: -4155067583042700142
+      YA PISANG_16: -4992146744017056829
+      YA PISANG_17: -1887502773312415779
+      YA PISANG_18: 6104759372800885475
+      YA PISANG_19: -7291195110430729957
+      YA PISANG_2: -7024944130156546931
+      YA PISANG_3: 592714675869480172
+      YA PISANG_4: 2429119154351552076
+      YA PISANG_5: -6763917617408387255
+      YA PISANG_6: 227753159943432835
+      YA PISANG_7: -6545914658024240146
+      YA PISANG_8: -3788489714217751497
+      YA PISANG_9: -3939899233262517604
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

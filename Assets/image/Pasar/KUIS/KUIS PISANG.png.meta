@@ -1,61 +1,46 @@
 fileFormatVersion: 2
-guid: 385f843b3ac799b43994090ef60a8090
+guid: bd6a01c2b86d32047a77d94ec66511f9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 263782596205961802
-    second: ya ungu_0
+      213: 1761328372757295606
+    second: KUIS PISANG_0
   - first:
-      213: 1036036771913598189
-    second: ya ungu_1
+      213: 697566380497534195
+    second: KUIS PISANG_1
   - first:
-      213: -3407326465097521813
-    second: ya ungu_2
+      213: 1097965616465843282
+    second: KUIS PISANG_2
   - first:
-      213: 8353905341042501900
-    second: ya ungu_3
+      213: 8865688915044454099
+    second: KUIS PISANG_3
   - first:
-      213: -6489608248311001033
-    second: ya ungu_4
+      213: -1970958570651415392
+    second: KUIS PISANG_4
   - first:
-      213: 4229355519611476755
-    second: ya ungu_5
+      213: 7070246579429816899
+    second: KUIS PISANG_5
   - first:
-      213: 6121247162937385998
-    second: ya ungu_6
+      213: 583321277074436502
+    second: KUIS PISANG_6
   - first:
-      213: -7408238600985174811
-    second: ya ungu_7
+      213: 2081652394490892970
+    second: KUIS PISANG_7
   - first:
-      213: -4986724874540669979
-    second: ya ungu_8
+      213: -5286253455594284659
+    second: KUIS PISANG_8
   - first:
-      213: -2831555521817984349
-    second: ya ungu_9
+      213: -7593129751269814012
+    second: KUIS PISANG_9
   - first:
-      213: -8596296807626548982
-    second: ya ungu_10
+      213: -1684157804859723764
+    second: KUIS PISANG_10
   - first:
-      213: -3484587319560429507
-    second: ya ungu_11
+      213: 8287919231639998791
+    second: KUIS PISANG_11
   - first:
-      213: -3117283702535640593
-    second: ya ungu_12
-  - first:
-      213: -9214024775315173894
-    second: ya ungu_13
-  - first:
-      213: -2994064857710458438
-    second: ya ungu_14
-  - first:
-      213: -322061924577962745
-    second: ya ungu_15
-  - first:
-      213: 7178722627811996622
-    second: ya ungu_16
-  - first:
-      213: 4156765031265733995
-    second: ya ungu_17
+      213: 955510611502318974
+    second: KUIS PISANG_12
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -177,13 +162,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ya ungu_0
+      name: KUIS PISANG_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 42
-        width: 19
-        height: 20
+        y: 43
+        width: 52
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -192,107 +177,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a4269c8afd429a300800000000000000
-      internalID: 263782596205961802
+      spriteID: 6f1f307b2de717810800000000000000
+      internalID: 1761328372757295606
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_1
+      name: KUIS PISANG_1
       rect:
         serializedVersion: 2
-        x: 19
-        y: 42
-        width: 16
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: de4072474fdb06e00800000000000000
-      internalID: 1036036771913598189
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_2
-      rect:
-        serializedVersion: 2
-        x: 35
-        y: 41
-        width: 18
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b65231ef1aeb6b0d0800000000000000
-      internalID: -3407326465097521813
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_3
-      rect:
-        serializedVersion: 2
-        x: 53
-        y: 41
-        width: 8
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c09a31495a80fe370800000000000000
-      internalID: 8353905341042501900
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_4
-      rect:
-        serializedVersion: 2
-        x: 68
-        y: 42
-        width: 19
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7305afb7ea740f5a0800000000000000
-      internalID: -6489608248311001033
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_5
-      rect:
-        serializedVersion: 2
-        x: 86
-        y: 41
-        width: 16
+        x: 54
+        y: 44
+        width: 15
         height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -302,20 +199,42 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 31b974fdf60b1ba30800000000000000
-      internalID: 4229355519611476755
+      spriteID: 3fc7fcc5de04ea900800000000000000
+      internalID: 697566380497534195
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_6
+      name: KUIS PISANG_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 43
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2541a0139e1cc3f00800000000000000
+      internalID: 1097965616465843282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KUIS PISANG_3
       rect:
         serializedVersion: 2
         x: 102
-        y: 42
-        width: 23
-        height: 16
+        y: 43
+        width: 19
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -324,20 +243,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e042049ecd903f450800000000000000
-      internalID: 6121247162937385998
+      spriteID: 3dec7568811490b70800000000000000
+      internalID: 8865688915044454099
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_7
+      name: KUIS PISANG_4
       rect:
         serializedVersion: 2
-        x: 126
-        y: 41
-        width: 16
-        height: 17
+        x: 123
+        y: 43
+        width: 44
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -346,20 +265,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5ec11f03e36a03990800000000000000
-      internalID: -7408238600985174811
+      spriteID: 0ac8f416f9fb5a4e0800000000000000
+      internalID: -1970958570651415392
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_8
+      name: KUIS PISANG_5
       rect:
         serializedVersion: 2
-        x: 149
-        y: 42
-        width: 18
-        height: 20
+        x: 166
+        y: 43
+        width: 49
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -368,20 +287,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5e3266cb5289bcab0800000000000000
-      internalID: -4986724874540669979
+      spriteID: 34ab551edcf8e1260800000000000000
+      internalID: 7070246579429816899
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_9
+      name: KUIS PISANG_6
       rect:
         serializedVersion: 2
-        x: 168
-        y: 42
-        width: 15
-        height: 20
+        x: 218
+        y: 43
+        width: 68
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -390,20 +309,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3a24e30514b44b8d0800000000000000
-      internalID: -2831555521817984349
+      spriteID: 691f2f56c9f581800800000000000000
+      internalID: 583321277074436502
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_10
+      name: KUIS PISANG_7
       rect:
         serializedVersion: 2
-        x: 184
-        y: 42
-        width: 17
-        height: 20
+        x: 52
+        y: 6
+        width: 25
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -412,20 +331,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a09589d3991d3b880800000000000000
-      internalID: -8596296807626548982
+      spriteID: aa2987fd2d383ec10800000000000000
+      internalID: 2081652394490892970
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_11
+      name: KUIS PISANG_8
       rect:
         serializedVersion: 2
-        x: 201
-        y: 42
-        width: 20
-        height: 20
+        x: 84
+        y: 6
+        width: 12
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -434,61 +353,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d3025c48b4244afc0800000000000000
-      internalID: -3484587319560429507
+      spriteID: d891f9a6d7473a6b0800000000000000
+      internalID: -5286253455594284659
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_12
+      name: KUIS PISANG_9
       rect:
         serializedVersion: 2
-        x: 219
-        y: 42
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fe9af361dfe2db4d0800000000000000
-      internalID: -3117283702535640593
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_13
-      rect:
-        serializedVersion: 2
-        x: 238
-        y: 41
-        width: 7
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: afdc0bbe845312080800000000000000
-      internalID: -9214024775315173894
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_14
-      rect:
-        serializedVersion: 2
-        x: 68
+        x: 103
         y: 5
         width: 26
         height: 30
@@ -500,17 +375,39 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ab900b900e1f276d0800000000000000
-      internalID: -2994064857710458438
+      spriteID: 401dc1aa8b8cf9690800000000000000
+      internalID: -7593129751269814012
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_15
+      name: KUIS PISANG_10
       rect:
         serializedVersion: 2
-        x: 103
+        x: 134
+        y: 6
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0072a7466ba0a8e0800000000000000
+      internalID: -1684157804859723764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KUIS PISANG_11
+      rect:
+        serializedVersion: 2
+        x: 172
         y: 6
         width: 26
         height: 29
@@ -522,19 +419,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7051addc26ec78bf0800000000000000
-      internalID: -322061924577962745
+      spriteID: 741d70141aa940370800000000000000
+      internalID: 8287919231639998791
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_16
+      name: KUIS PISANG_12
       rect:
         serializedVersion: 2
-        x: 137
+        x: 206
         y: 5
-        width: 27
+        width: 28
         height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -544,30 +441,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ec3facb0232ff9360800000000000000
-      internalID: 7178722627811996622
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_17
-      rect:
-        serializedVersion: 2
-        x: 173
-        y: 5
-        width: 26
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b6d0c5fb5cbcfa930800000000000000
-      internalID: 4156765031265733995
+      spriteID: e7546b1b6d7a24d00800000000000000
+      internalID: 955510611502318974
       vertices: []
       indices: 
       edges: []
@@ -586,24 +461,19 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      ya ungu_0: 263782596205961802
-      ya ungu_1: 1036036771913598189
-      ya ungu_10: -8596296807626548982
-      ya ungu_11: -3484587319560429507
-      ya ungu_12: -3117283702535640593
-      ya ungu_13: -9214024775315173894
-      ya ungu_14: -2994064857710458438
-      ya ungu_15: -322061924577962745
-      ya ungu_16: 7178722627811996622
-      ya ungu_17: 4156765031265733995
-      ya ungu_2: -3407326465097521813
-      ya ungu_3: 8353905341042501900
-      ya ungu_4: -6489608248311001033
-      ya ungu_5: 4229355519611476755
-      ya ungu_6: 6121247162937385998
-      ya ungu_7: -7408238600985174811
-      ya ungu_8: -4986724874540669979
-      ya ungu_9: -2831555521817984349
+      KUIS PISANG_0: 1761328372757295606
+      KUIS PISANG_1: 697566380497534195
+      KUIS PISANG_10: -1684157804859723764
+      KUIS PISANG_11: 8287919231639998791
+      KUIS PISANG_12: 955510611502318974
+      KUIS PISANG_2: 1097965616465843282
+      KUIS PISANG_3: 8865688915044454099
+      KUIS PISANG_4: -1970958570651415392
+      KUIS PISANG_5: 7070246579429816899
+      KUIS PISANG_6: 583321277074436502
+      KUIS PISANG_7: 2081652394490892970
+      KUIS PISANG_8: -5286253455594284659
+      KUIS PISANG_9: -7593129751269814012
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

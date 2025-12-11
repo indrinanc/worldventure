@@ -1,61 +1,67 @@
 fileFormatVersion: 2
-guid: 385f843b3ac799b43994090ef60a8090
+guid: 24728745d45539845adc58836f95f291
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 263782596205961802
-    second: ya ungu_0
+      213: 666371233670264088
+    second: YA ANJING_0
   - first:
-      213: 1036036771913598189
-    second: ya ungu_1
+      213: -7513127764840295483
+    second: YA ANJING_1
   - first:
-      213: -3407326465097521813
-    second: ya ungu_2
+      213: 8912407312445665642
+    second: YA ANJING_2
   - first:
-      213: 8353905341042501900
-    second: ya ungu_3
+      213: -6385614908893351394
+    second: YA ANJING_3
   - first:
-      213: -6489608248311001033
-    second: ya ungu_4
+      213: 8560759273106482186
+    second: YA ANJING_4
   - first:
-      213: 4229355519611476755
-    second: ya ungu_5
+      213: -5257529464151653637
+    second: YA ANJING_5
   - first:
-      213: 6121247162937385998
-    second: ya ungu_6
+      213: -1300138581075651652
+    second: YA ANJING_6
   - first:
-      213: -7408238600985174811
-    second: ya ungu_7
+      213: -6849229184622400357
+    second: YA ANJING_7
   - first:
-      213: -4986724874540669979
-    second: ya ungu_8
+      213: -884702659978917468
+    second: YA ANJING_8
   - first:
-      213: -2831555521817984349
-    second: ya ungu_9
+      213: 4630342860357178396
+    second: YA ANJING_9
   - first:
-      213: -8596296807626548982
-    second: ya ungu_10
+      213: 4540497049561423544
+    second: YA ANJING_10
   - first:
-      213: -3484587319560429507
-    second: ya ungu_11
+      213: 6431247046132223988
+    second: YA ANJING_11
   - first:
-      213: -3117283702535640593
-    second: ya ungu_12
+      213: -2546198006708326021
+    second: YA ANJING_12
   - first:
-      213: -9214024775315173894
-    second: ya ungu_13
+      213: 6471937638720482057
+    second: YA ANJING_13
   - first:
-      213: -2994064857710458438
-    second: ya ungu_14
+      213: 3210888725325147377
+    second: YA ANJING_14
   - first:
-      213: -322061924577962745
-    second: ya ungu_15
+      213: -6855403762183656460
+    second: YA ANJING_15
   - first:
-      213: 7178722627811996622
-    second: ya ungu_16
+      213: 3695507351054475003
+    second: YA ANJING_16
   - first:
-      213: 4156765031265733995
-    second: ya ungu_17
+      213: 7990551680967134370
+    second: YA ANJING_17
+  - first:
+      213: -3751798012443173058
+    second: YA ANJING_18
+  - first:
+      213: -4809508881798458897
+    second: YA ANJING_19
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -177,7 +183,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ya ungu_0
+      name: YA ANJING_0
       rect:
         serializedVersion: 2
         x: 0
@@ -192,14 +198,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a4269c8afd429a300800000000000000
-      internalID: 263782596205961802
+      spriteID: 815747f3b1d6f3900800000000000000
+      internalID: 666371233670264088
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_1
+      name: YA ANJING_1
       rect:
         serializedVersion: 2
         x: 19
@@ -214,14 +220,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: de4072474fdb06e00800000000000000
-      internalID: 1036036771913598189
+      spriteID: 5c3d198aa120cb790800000000000000
+      internalID: -7513127764840295483
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_2
+      name: YA ANJING_2
       rect:
         serializedVersion: 2
         x: 35
@@ -236,14 +242,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b65231ef1aeb6b0d0800000000000000
-      internalID: -3407326465097521813
+      spriteID: a61faef0b3b3fab70800000000000000
+      internalID: 8912407312445665642
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_3
+      name: YA ANJING_3
       rect:
         serializedVersion: 2
         x: 53
@@ -258,14 +264,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c09a31495a80fe370800000000000000
-      internalID: 8353905341042501900
+      spriteID: e1239f2a21db167a0800000000000000
+      internalID: -6385614908893351394
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_4
+      name: YA ANJING_4
       rect:
         serializedVersion: 2
         x: 68
@@ -280,14 +286,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7305afb7ea740f5a0800000000000000
-      internalID: -6489608248311001033
+      spriteID: a04a429b33dedc670800000000000000
+      internalID: 8560759273106482186
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_5
+      name: YA ANJING_5
       rect:
         serializedVersion: 2
         x: 86
@@ -302,14 +308,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 31b974fdf60b1ba30800000000000000
-      internalID: 4229355519611476755
+      spriteID: bf24715dec08907b0800000000000000
+      internalID: -5257529464151653637
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_6
+      name: YA ANJING_6
       rect:
         serializedVersion: 2
         x: 102
@@ -324,14 +330,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e042049ecd903f450800000000000000
-      internalID: 6121247162937385998
+      spriteID: cb3943459daf4fde0800000000000000
+      internalID: -1300138581075651652
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_7
+      name: YA ANJING_7
       rect:
         serializedVersion: 2
         x: 126
@@ -346,14 +352,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5ec11f03e36a03990800000000000000
-      internalID: -7408238600985174811
+      spriteID: b9ce7596856a2f0a0800000000000000
+      internalID: -6849229184622400357
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_8
+      name: YA ANJING_8
       rect:
         serializedVersion: 2
         x: 149
@@ -368,14 +374,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5e3266cb5289bcab0800000000000000
-      internalID: -4986724874540669979
+      spriteID: 4a90d1c3e97e8b3f0800000000000000
+      internalID: -884702659978917468
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_9
+      name: YA ANJING_9
       rect:
         serializedVersion: 2
         x: 168
@@ -390,14 +396,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3a24e30514b44b8d0800000000000000
-      internalID: -2831555521817984349
+      spriteID: c141bd38c48424040800000000000000
+      internalID: 4630342860357178396
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_10
+      name: YA ANJING_10
       rect:
         serializedVersion: 2
         x: 184
@@ -412,14 +418,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a09589d3991d3b880800000000000000
-      internalID: -8596296807626548982
+      spriteID: 8be51de8206130f30800000000000000
+      internalID: 4540497049561423544
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_11
+      name: YA ANJING_11
       rect:
         serializedVersion: 2
         x: 201
@@ -434,14 +440,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d3025c48b4244afc0800000000000000
-      internalID: -3484587319560429507
+      spriteID: 4ffcd7f3d11604950800000000000000
+      internalID: 6431247046132223988
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_12
+      name: YA ANJING_12
       rect:
         serializedVersion: 2
         x: 219
@@ -456,14 +462,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fe9af361dfe2db4d0800000000000000
-      internalID: -3117283702535640593
+      spriteID: b71b75a37661aacd0800000000000000
+      internalID: -2546198006708326021
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_13
+      name: YA ANJING_13
       rect:
         serializedVersion: 2
         x: 238
@@ -478,20 +484,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: afdc0bbe845312080800000000000000
-      internalID: -9214024775315173894
+      spriteID: 90b2a6c1ef0f0d950800000000000000
+      internalID: 6471937638720482057
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_14
+      name: YA ANJING_14
       rect:
         serializedVersion: 2
-        x: 68
-        y: 5
-        width: 26
-        height: 30
+        x: 41
+        y: 6
+        width: 31
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -500,17 +506,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ab900b900e1f276d0800000000000000
-      internalID: -2994064857710458438
+      spriteID: 1fcef4e984e5f8c20800000000000000
+      internalID: 3210888725325147377
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_15
+      name: YA ANJING_15
       rect:
         serializedVersion: 2
-        x: 103
+        x: 79
         y: 6
         width: 26
         height: 29
@@ -522,19 +528,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7051addc26ec78bf0800000000000000
-      internalID: -322061924577962745
+      spriteID: 4fbaa2b8996bcd0a0800000000000000
+      internalID: -6855403762183656460
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_16
+      name: YA ANJING_16
       rect:
         serializedVersion: 2
-        x: 137
+        x: 112
         y: 5
-        width: 27
+        width: 23
         height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -544,19 +550,63 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ec3facb0232ff9360800000000000000
-      internalID: 7178722627811996622
+      spriteID: bfe527c2b54194330800000000000000
+      internalID: 3695507351054475003
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_17
+      name: YA ANJING_17
       rect:
         serializedVersion: 2
-        x: 173
-        y: 5
+        x: 143
+        y: 6
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac42770b6424ee60800000000000000
+      internalID: 7990551680967134370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YA ANJING_18
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 6
         width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fde47e59feeebc0800000000000000
+      internalID: -3751798012443173058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YA ANJING_19
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 5
+        width: 28
         height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -566,8 +616,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6d0c5fb5cbcfa930800000000000000
-      internalID: 4156765031265733995
+      spriteID: fe111546721314db0800000000000000
+      internalID: -4809508881798458897
       vertices: []
       indices: 
       edges: []
@@ -586,24 +636,26 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      ya ungu_0: 263782596205961802
-      ya ungu_1: 1036036771913598189
-      ya ungu_10: -8596296807626548982
-      ya ungu_11: -3484587319560429507
-      ya ungu_12: -3117283702535640593
-      ya ungu_13: -9214024775315173894
-      ya ungu_14: -2994064857710458438
-      ya ungu_15: -322061924577962745
-      ya ungu_16: 7178722627811996622
-      ya ungu_17: 4156765031265733995
-      ya ungu_2: -3407326465097521813
-      ya ungu_3: 8353905341042501900
-      ya ungu_4: -6489608248311001033
-      ya ungu_5: 4229355519611476755
-      ya ungu_6: 6121247162937385998
-      ya ungu_7: -7408238600985174811
-      ya ungu_8: -4986724874540669979
-      ya ungu_9: -2831555521817984349
+      YA ANJING_0: 666371233670264088
+      YA ANJING_1: -7513127764840295483
+      YA ANJING_10: 4540497049561423544
+      YA ANJING_11: 6431247046132223988
+      YA ANJING_12: -2546198006708326021
+      YA ANJING_13: 6471937638720482057
+      YA ANJING_14: 3210888725325147377
+      YA ANJING_15: -6855403762183656460
+      YA ANJING_16: 3695507351054475003
+      YA ANJING_17: 7990551680967134370
+      YA ANJING_18: -3751798012443173058
+      YA ANJING_19: -4809508881798458897
+      YA ANJING_2: 8912407312445665642
+      YA ANJING_3: -6385614908893351394
+      YA ANJING_4: 8560759273106482186
+      YA ANJING_5: -5257529464151653637
+      YA ANJING_6: -1300138581075651652
+      YA ANJING_7: -6849229184622400357
+      YA ANJING_8: -884702659978917468
+      YA ANJING_9: 4630342860357178396
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,61 +1,46 @@
 fileFormatVersion: 2
-guid: 385f843b3ac799b43994090ef60a8090
+guid: 610c078ca81551c4896d4b7a1348fc12
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 263782596205961802
-    second: ya ungu_0
+      213: -3061134477687251040
+    second: KUIS CHERRY_0
   - first:
-      213: 1036036771913598189
-    second: ya ungu_1
+      213: 2302982179981553228
+    second: KUIS CHERRY_1
   - first:
-      213: -3407326465097521813
-    second: ya ungu_2
+      213: -2898703347390207976
+    second: KUIS CHERRY_2
   - first:
-      213: 8353905341042501900
-    second: ya ungu_3
+      213: 3552466674926531487
+    second: KUIS CHERRY_3
   - first:
-      213: -6489608248311001033
-    second: ya ungu_4
+      213: -597334490310525749
+    second: KUIS CHERRY_4
   - first:
-      213: 4229355519611476755
-    second: ya ungu_5
+      213: 1224563839610215392
+    second: KUIS CHERRY_5
   - first:
-      213: 6121247162937385998
-    second: ya ungu_6
+      213: -5295379361226818847
+    second: KUIS CHERRY_6
   - first:
-      213: -7408238600985174811
-    second: ya ungu_7
+      213: 7024036082482458527
+    second: KUIS CHERRY_7
   - first:
-      213: -4986724874540669979
-    second: ya ungu_8
+      213: -7270750601618606002
+    second: KUIS CHERRY_8
   - first:
-      213: -2831555521817984349
-    second: ya ungu_9
+      213: 3122420063040740782
+    second: KUIS CHERRY_9
   - first:
-      213: -8596296807626548982
-    second: ya ungu_10
+      213: 3397919879503967097
+    second: KUIS CHERRY_10
   - first:
-      213: -3484587319560429507
-    second: ya ungu_11
+      213: -2454132714974401622
+    second: KUIS CHERRY_11
   - first:
-      213: -3117283702535640593
-    second: ya ungu_12
-  - first:
-      213: -9214024775315173894
-    second: ya ungu_13
-  - first:
-      213: -2994064857710458438
-    second: ya ungu_14
-  - first:
-      213: -322061924577962745
-    second: ya ungu_15
-  - first:
-      213: 7178722627811996622
-    second: ya ungu_16
-  - first:
-      213: 4156765031265733995
-    second: ya ungu_17
+      213: 7949129375280368112
+    second: KUIS CHERRY_12
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -177,13 +162,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ya ungu_0
+      name: KUIS CHERRY_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 42
-        width: 19
-        height: 20
+        y: 43
+        width: 52
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -192,107 +177,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a4269c8afd429a300800000000000000
-      internalID: 263782596205961802
+      spriteID: 0af10cf396aa485d0800000000000000
+      internalID: -3061134477687251040
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_1
+      name: KUIS CHERRY_1
       rect:
         serializedVersion: 2
-        x: 19
-        y: 42
-        width: 16
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: de4072474fdb06e00800000000000000
-      internalID: 1036036771913598189
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_2
-      rect:
-        serializedVersion: 2
-        x: 35
-        y: 41
-        width: 18
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b65231ef1aeb6b0d0800000000000000
-      internalID: -3407326465097521813
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_3
-      rect:
-        serializedVersion: 2
-        x: 53
-        y: 41
-        width: 8
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c09a31495a80fe370800000000000000
-      internalID: 8353905341042501900
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_4
-      rect:
-        serializedVersion: 2
-        x: 68
-        y: 42
-        width: 19
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7305afb7ea740f5a0800000000000000
-      internalID: -6489608248311001033
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_5
-      rect:
-        serializedVersion: 2
-        x: 86
-        y: 41
-        width: 16
+        x: 54
+        y: 44
+        width: 15
         height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -302,20 +199,42 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 31b974fdf60b1ba30800000000000000
-      internalID: 4229355519611476755
+      spriteID: c4eead94716d5ff10800000000000000
+      internalID: 2302982179981553228
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_6
+      name: KUIS CHERRY_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 43
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818229dd9acb5c7d0800000000000000
+      internalID: -2898703347390207976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KUIS CHERRY_3
       rect:
         serializedVersion: 2
         x: 102
-        y: 42
-        width: 23
-        height: 16
+        y: 43
+        width: 19
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -324,20 +243,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e042049ecd903f450800000000000000
-      internalID: 6121247162937385998
+      spriteID: f93b86b7e95ec4130800000000000000
+      internalID: 3552466674926531487
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_7
+      name: KUIS CHERRY_4
       rect:
         serializedVersion: 2
-        x: 126
-        y: 41
-        width: 16
-        height: 17
+        x: 123
+        y: 43
+        width: 44
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -346,20 +265,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5ec11f03e36a03990800000000000000
-      internalID: -7408238600985174811
+      spriteID: bccb3f42277d5b7f0800000000000000
+      internalID: -597334490310525749
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_8
+      name: KUIS CHERRY_5
       rect:
         serializedVersion: 2
-        x: 149
-        y: 42
-        width: 18
-        height: 20
+        x: 166
+        y: 43
+        width: 49
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -368,20 +287,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5e3266cb5289bcab0800000000000000
-      internalID: -4986724874540669979
+      spriteID: 0eb51c8f2568ef010800000000000000
+      internalID: 1224563839610215392
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_9
+      name: KUIS CHERRY_6
       rect:
         serializedVersion: 2
-        x: 168
-        y: 42
-        width: 15
-        height: 20
+        x: 218
+        y: 43
+        width: 68
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -390,107 +309,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3a24e30514b44b8d0800000000000000
-      internalID: -2831555521817984349
+      spriteID: 1eaf32fe6880386b0800000000000000
+      internalID: -5295379361226818847
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_10
+      name: KUIS CHERRY_7
       rect:
         serializedVersion: 2
-        x: 184
-        y: 42
-        width: 17
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a09589d3991d3b880800000000000000
-      internalID: -8596296807626548982
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_11
-      rect:
-        serializedVersion: 2
-        x: 201
-        y: 42
-        width: 20
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d3025c48b4244afc0800000000000000
-      internalID: -3484587319560429507
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_12
-      rect:
-        serializedVersion: 2
-        x: 219
-        y: 42
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fe9af361dfe2db4d0800000000000000
-      internalID: -3117283702535640593
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_13
-      rect:
-        serializedVersion: 2
-        x: 238
-        y: 41
-        width: 7
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: afdc0bbe845312080800000000000000
-      internalID: -9214024775315173894
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_14
-      rect:
-        serializedVersion: 2
-        x: 68
+        x: 47
         y: 5
-        width: 26
+        width: 28
         height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -500,17 +331,61 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ab900b900e1f276d0800000000000000
-      internalID: -2994064857710458438
+      spriteID: f9fa4e12a936a7160800000000000000
+      internalID: 7024036082482458527
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_15
+      name: KUIS CHERRY_8
       rect:
         serializedVersion: 2
-        x: 103
+        x: 83
+        y: 6
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48b01499da191b90800000000000000
+      internalID: -7270750601618606002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KUIS CHERRY_9
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 6
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead98190180155b20800000000000000
+      internalID: 3122420063040740782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KUIS CHERRY_10
+      rect:
+        serializedVersion: 2
+        x: 149
         y: 6
         width: 26
         height: 29
@@ -522,42 +397,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7051addc26ec78bf0800000000000000
-      internalID: -322061924577962745
+      spriteID: 9737211a026d72f20800000000000000
+      internalID: 3397919879503967097
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_16
+      name: KUIS CHERRY_11
       rect:
         serializedVersion: 2
-        x: 137
-        y: 5
-        width: 27
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ec3facb0232ff9360800000000000000
-      internalID: 7178722627811996622
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_17
-      rect:
-        serializedVersion: 2
-        x: 173
-        y: 5
+        x: 181
+        y: 6
         width: 26
-        height: 30
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -566,8 +419,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6d0c5fb5cbcfa930800000000000000
-      internalID: 4156765031265733995
+      spriteID: aab294c5c4b21fdd0800000000000000
+      internalID: -2454132714974401622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KUIS CHERRY_12
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 6
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9853fec0bf05e60800000000000000
+      internalID: 7949129375280368112
       vertices: []
       indices: 
       edges: []
@@ -586,24 +461,19 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      ya ungu_0: 263782596205961802
-      ya ungu_1: 1036036771913598189
-      ya ungu_10: -8596296807626548982
-      ya ungu_11: -3484587319560429507
-      ya ungu_12: -3117283702535640593
-      ya ungu_13: -9214024775315173894
-      ya ungu_14: -2994064857710458438
-      ya ungu_15: -322061924577962745
-      ya ungu_16: 7178722627811996622
-      ya ungu_17: 4156765031265733995
-      ya ungu_2: -3407326465097521813
-      ya ungu_3: 8353905341042501900
-      ya ungu_4: -6489608248311001033
-      ya ungu_5: 4229355519611476755
-      ya ungu_6: 6121247162937385998
-      ya ungu_7: -7408238600985174811
-      ya ungu_8: -4986724874540669979
-      ya ungu_9: -2831555521817984349
+      KUIS CHERRY_0: -3061134477687251040
+      KUIS CHERRY_1: 2302982179981553228
+      KUIS CHERRY_10: 3397919879503967097
+      KUIS CHERRY_11: -2454132714974401622
+      KUIS CHERRY_12: 7949129375280368112
+      KUIS CHERRY_2: -2898703347390207976
+      KUIS CHERRY_3: 3552466674926531487
+      KUIS CHERRY_4: -597334490310525749
+      KUIS CHERRY_5: 1224563839610215392
+      KUIS CHERRY_6: -5295379361226818847
+      KUIS CHERRY_7: 7024036082482458527
+      KUIS CHERRY_8: -7270750601618606002
+      KUIS CHERRY_9: 3122420063040740782
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

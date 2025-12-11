@@ -1,88 +1,67 @@
 fileFormatVersion: 2
-guid: a0f5e4601a979e84a8b5567fb3015fd6
+guid: d183458d89466204f9025a5663956b8a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7904603397811223002
-    second: 3. X kuning_0
+      213: -6351445524030804578
+    second: YA ANGGUR_0
   - first:
-      213: -4084392964433927705
-    second: 3. X kuning_1
+      213: -8401488218447891399
+    second: YA ANGGUR_1
   - first:
-      213: -1757336300787280437
-    second: 3. X kuning_2
+      213: -6540314134250108506
+    second: YA ANGGUR_2
   - first:
-      213: 1706479124026076604
-    second: 3. X kuning_3
+      213: 6757915814326609105
+    second: YA ANGGUR_3
   - first:
-      213: -3357067989727944275
-    second: 3. X kuning_4
+      213: -6261219020846280745
+    second: YA ANGGUR_4
   - first:
-      213: -6196828066756663652
-    second: 3. X kuning_5
+      213: -2861854606281771404
+    second: YA ANGGUR_5
   - first:
-      213: 2575489950595151439
-    second: 3. X kuning_6
+      213: 2870234234711484938
+    second: YA ANGGUR_6
   - first:
-      213: -4157193902340407964
-    second: 3. X kuning_7
+      213: -7800752619366682503
+    second: YA ANGGUR_7
   - first:
-      213: -4021873246805996201
-    second: 3. X kuning_8
+      213: 2839640748143923147
+    second: YA ANGGUR_8
   - first:
-      213: 1464920771675427151
-    second: 3. X kuning_9
+      213: 6967306889003000142
+    second: YA ANGGUR_9
   - first:
-      213: 6373693356246247819
-    second: 3. X kuning_10
+      213: 2546927942342892506
+    second: YA ANGGUR_10
   - first:
-      213: -2888359220640905235
-    second: 3. X kuning_11
+      213: -338800146686245491
+    second: YA ANGGUR_11
   - first:
-      213: -72022782559722889
-    second: 3. X kuning_12
+      213: -771980926775158558
+    second: YA ANGGUR_12
   - first:
-      213: -5157702183153176519
-    second: 3. X kuning_13
+      213: -5917068484127008289
+    second: YA ANGGUR_13
   - first:
-      213: 5401494484987529002
-    second: 3. X kuning_14
+      213: -8260901311045587472
+    second: YA ANGGUR_14
   - first:
-      213: -5256191098516749843
-    second: 3. X kuning_15
+      213: 7368838559768753582
+    second: YA ANGGUR_15
   - first:
-      213: 1811492774098564632
-    second: 3. X kuning_16
+      213: -4496109688913514280
+    second: YA ANGGUR_16
   - first:
-      213: 695034208110422783
-    second: 3. X kuning_17
+      213: -4823581348359133275
+    second: YA ANGGUR_17
   - first:
-      213: -2164120135605208073
-    second: 3. X kuning_18
+      213: -5536661871513043144
+    second: YA ANGGUR_18
   - first:
-      213: 5835153442474772785
-    second: 3. X kuning_19
-  - first:
-      213: -2403856337185318574
-    second: 3. X kuning_20
-  - first:
-      213: -1406517971905535767
-    second: 3. X kuning_21
-  - first:
-      213: -3183213953371625246
-    second: 3. X kuning_22
-  - first:
-      213: 6985308334435101190
-    second: 3. X kuning_23
-  - first:
-      213: 4429069222425711897
-    second: 3. X kuning_24
-  - first:
-      213: -7576894118249188107
-    second: 3. X kuning_25
-  - first:
-      213: 8961375502771412303
-    second: 3. X kuning_26
+      213: -2372469173554454949
+    second: YA ANGGUR_19
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -204,13 +183,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 3. X kuning_0
+      name: YA ANGGUR_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 47
-        width: 29
-        height: 18
+        y: 42
+        width: 19
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -219,20 +198,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ad932e0f8eac2bd60800000000000000
-      internalID: 7904603397811223002
+      spriteID: e9d26e182f12bd7a0800000000000000
+      internalID: -6351445524030804578
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3. X kuning_1
+      name: YA ANGGUR_1
       rect:
         serializedVersion: 2
-        x: 28
-        y: 43
-        width: 25
-        height: 18
+        x: 19
+        y: 42
+        width: 16
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -241,20 +220,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7e1afc72d325157c0800000000000000
-      internalID: -4084392964433927705
+      spriteID: 934b8c27afae76b80800000000000000
+      internalID: -8401488218447891399
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3. X kuning_2
+      name: YA ANGGUR_2
       rect:
         serializedVersion: 2
-        x: 52
-        y: 47
-        width: 7
-        height: 18
+        x: 35
+        y: 41
+        width: 18
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -263,20 +242,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bc5dca8f1ffac97e0800000000000000
-      internalID: -1757336300787280437
+      spriteID: 6a94e8c62f22c35a0800000000000000
+      internalID: -6540314134250108506
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3. X kuning_3
+      name: YA ANGGUR_3
       rect:
         serializedVersion: 2
-        x: 62
-        y: 47
-        width: 62
-        height: 18
+        x: 53
+        y: 41
+        width: 8
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -285,20 +264,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cbda134d8b1aea710800000000000000
-      internalID: 1706479124026076604
+      spriteID: 1d4aeeec0a0f8cd50800000000000000
+      internalID: 6757915814326609105
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3. X kuning_4
+      name: YA ANGGUR_4
       rect:
         serializedVersion: 2
-        x: 126
-        y: 43
-        width: 37
-        height: 18
+        x: 68
+        y: 42
+        width: 19
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -307,63 +286,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: da16e69237c4961d0800000000000000
-      internalID: -3357067989727944275
+      spriteID: 7dfc981597eab19a0800000000000000
+      internalID: -6261219020846280745
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3. X kuning_5
+      name: YA ANGGUR_5
       rect:
         serializedVersion: 2
-        x: 162
-        y: 43
-        width: 14
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c966cca94b1700aa0800000000000000
-      internalID: -6196828066756663652
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 3. X kuning_6
-      rect:
-        serializedVersion: 2
-        x: 178
-        y: 60
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f46ffcbe67afdb320800000000000000
-      internalID: 2575489950595151439
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 3. X kuning_7
-      rect:
-        serializedVersion: 2
-        x: 178
-        y: 47
-        width: 27
+        x: 86
+        y: 41
+        width: 16
         height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -373,20 +308,42 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 46d749ceb2eae46c0800000000000000
-      internalID: -4157193902340407964
+      spriteID: 47672c9f566a848d0800000000000000
+      internalID: -2861854606281771404
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3. X kuning_8
+      name: YA ANGGUR_6
       rect:
         serializedVersion: 2
-        x: 224
-        y: 47
+        x: 102
+        y: 42
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0aa42e44de15d720800000000000000
+      internalID: 2870234234711484938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YA ANGGUR_7
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 41
         width: 16
-        height: 18
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -395,108 +352,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 75d4b70479f6f28c0800000000000000
-      internalID: -4021873246805996201
+      spriteID: 97073f5a2d82eb390800000000000000
+      internalID: -7800752619366682503
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3. X kuning_9
+      name: YA ANGGUR_8
       rect:
         serializedVersion: 2
-        x: 239
-        y: 47
-        width: 37
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f411ecb2ea1745410800000000000000
-      internalID: 1464920771675427151
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 3. X kuning_10
-      rect:
-        serializedVersion: 2
-        x: 278
-        y: 47
-        width: 25
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b8923569658e37850800000000000000
-      internalID: 6373693356246247819
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 3. X kuning_11
-      rect:
-        serializedVersion: 2
-        x: 302
-        y: 48
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: de789fd879c7ae7d0800000000000000
-      internalID: -2888359220640905235
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 3. X kuning_12
-      rect:
-        serializedVersion: 2
-        x: 310
-        y: 60
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 772eacd29af100ff0800000000000000
-      internalID: -72022782559722889
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 3. X kuning_13
-      rect:
-        serializedVersion: 2
-        x: 319
-        y: 47
+        x: 149
+        y: 42
         width: 18
-        height: 18
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -505,20 +374,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 930f5ebe0392c68b0800000000000000
-      internalID: -5157702183153176519
+      spriteID: bcfc7d2273e686720800000000000000
+      internalID: 2839640748143923147
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3. X kuning_14
+      name: YA ANGGUR_9
       rect:
         serializedVersion: 2
-        x: 336
-        y: 43
-        width: 14
-        height: 18
+        x: 168
+        y: 42
+        width: 15
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -527,20 +396,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a27c9e1ad96f5fa40800000000000000
-      internalID: 5401494484987529002
+      spriteID: e41e72083b8d0b060800000000000000
+      internalID: 6967306889003000142
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3. X kuning_15
+      name: YA ANGGUR_10
       rect:
         serializedVersion: 2
-        x: 349
-        y: 60
-        width: 6
-        height: 6
+        x: 184
+        y: 42
+        width: 17
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -549,20 +418,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: de1c65d5b024e07b0800000000000000
-      internalID: -5256191098516749843
+      spriteID: adb5dd72871885320800000000000000
+      internalID: 2546927942342892506
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3. X kuning_16
+      name: YA ANGGUR_11
       rect:
         serializedVersion: 2
-        x: 349
-        y: 48
-        width: 6
-        height: 13
+        x: 201
+        y: 42
+        width: 20
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -571,20 +440,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 816f4519417b32910800000000000000
-      internalID: 1811492774098564632
+      spriteID: d858ae6cf075c4bf0800000000000000
+      internalID: -338800146686245491
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3. X kuning_17
+      name: YA ANGGUR_12
       rect:
         serializedVersion: 2
-        x: 355
-        y: 47
-        width: 6
-        height: 18
+        x: 219
+        y: 42
+        width: 18
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -593,20 +462,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ffaaa290ee145a900800000000000000
-      internalID: 695034208110422783
+      spriteID: 2e8903eef6f5945f0800000000000000
+      internalID: -771980926775158558
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3. X kuning_18
+      name: YA ANGGUR_13
       rect:
         serializedVersion: 2
-        x: 204
-        y: 47
+        x: 238
+        y: 41
         width: 7
-        height: 7
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -615,86 +484,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7fb3bf1e33087f1e0800000000000000
-      internalID: -2164120135605208073
+      spriteID: fd953fb409952eda0800000000000000
+      internalID: -5917068484127008289
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3. X kuning_19
+      name: YA ANGGUR_14
       rect:
         serializedVersion: 2
-        x: 210
-        y: 47
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1394b94d321aaf050800000000000000
-      internalID: 5835153442474772785
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 3. X kuning_20
-      rect:
-        serializedVersion: 2
-        x: 216
-        y: 47
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2595ff2c569c3aed0800000000000000
-      internalID: -2403856337185318574
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 3. X kuning_21
-      rect:
-        serializedVersion: 2
-        x: 66
-        y: 7
-        width: 29
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9e02e5a4b5b0b7ce0800000000000000
-      internalID: -1406517971905535767
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 3. X kuning_22
-      rect:
-        serializedVersion: 2
-        x: 109
+        x: 32
         y: 6
-        width: 28
-        height: 32
+        width: 30
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -703,86 +506,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2e8a73956c3f2d3d0800000000000000
-      internalID: -3183213953371625246
+      spriteID: 0fda19696026b5d80800000000000000
+      internalID: -8260901311045587472
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3. X kuning_23
+      name: YA ANGGUR_15
       rect:
         serializedVersion: 2
-        x: 153
-        y: 7
-        width: 28
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 60a6490abecc0f060800000000000000
-      internalID: 6985308334435101190
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 3. X kuning_24
-      rect:
-        serializedVersion: 2
-        x: 197
-        y: 7
-        width: 12
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 915dc48ddf6377d30800000000000000
-      internalID: 4429069222425711897
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 3. X kuning_25
-      rect:
-        serializedVersion: 2
-        x: 226
-        y: 7
-        width: 27
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5f4b20d81f679d690800000000000000
-      internalID: -7576894118249188107
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 3. X kuning_26
-      rect:
-        serializedVersion: 2
-        x: 270
+        x: 69
         y: 6
-        width: 29
-        height: 32
+        width: 26
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -791,8 +528,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f4dd3955a833d5c70800000000000000
-      internalID: 8961375502771412303
+      spriteID: ea5b73ad0af534660800000000000000
+      internalID: 7368838559768753582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YA ANGGUR_16
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 5
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d03e113f0c9a91c0800000000000000
+      internalID: -4496109688913514280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YA ANGGUR_17
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 5
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7aad1f1523f0db0800000000000000
+      internalID: -4823581348359133275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YA ANGGUR_18
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 5
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ff303cc53d923b0800000000000000
+      internalID: -5536661871513043144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YA ANGGUR_19
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 6
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ed8b54bdb431fd0800000000000000
+      internalID: -2372469173554454949
       vertices: []
       indices: 
       edges: []
@@ -811,33 +636,26 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      3. X kuning_0: 7904603397811223002
-      3. X kuning_1: -4084392964433927705
-      3. X kuning_10: 6373693356246247819
-      3. X kuning_11: -2888359220640905235
-      3. X kuning_12: -72022782559722889
-      3. X kuning_13: -5157702183153176519
-      3. X kuning_14: 5401494484987529002
-      3. X kuning_15: -5256191098516749843
-      3. X kuning_16: 1811492774098564632
-      3. X kuning_17: 695034208110422783
-      3. X kuning_18: -2164120135605208073
-      3. X kuning_19: 5835153442474772785
-      3. X kuning_2: -1757336300787280437
-      3. X kuning_20: -2403856337185318574
-      3. X kuning_21: -1406517971905535767
-      3. X kuning_22: -3183213953371625246
-      3. X kuning_23: 6985308334435101190
-      3. X kuning_24: 4429069222425711897
-      3. X kuning_25: -7576894118249188107
-      3. X kuning_26: 8961375502771412303
-      3. X kuning_3: 1706479124026076604
-      3. X kuning_4: -3357067989727944275
-      3. X kuning_5: -6196828066756663652
-      3. X kuning_6: 2575489950595151439
-      3. X kuning_7: -4157193902340407964
-      3. X kuning_8: -4021873246805996201
-      3. X kuning_9: 1464920771675427151
+      YA ANGGUR_0: -6351445524030804578
+      YA ANGGUR_1: -8401488218447891399
+      YA ANGGUR_10: 2546927942342892506
+      YA ANGGUR_11: -338800146686245491
+      YA ANGGUR_12: -771980926775158558
+      YA ANGGUR_13: -5917068484127008289
+      YA ANGGUR_14: -8260901311045587472
+      YA ANGGUR_15: 7368838559768753582
+      YA ANGGUR_16: -4496109688913514280
+      YA ANGGUR_17: -4823581348359133275
+      YA ANGGUR_18: -5536661871513043144
+      YA ANGGUR_19: -2372469173554454949
+      YA ANGGUR_2: -6540314134250108506
+      YA ANGGUR_3: 6757915814326609105
+      YA ANGGUR_4: -6261219020846280745
+      YA ANGGUR_5: -2861854606281771404
+      YA ANGGUR_6: 2870234234711484938
+      YA ANGGUR_7: -7800752619366682503
+      YA ANGGUR_8: 2839640748143923147
+      YA ANGGUR_9: 6967306889003000142
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

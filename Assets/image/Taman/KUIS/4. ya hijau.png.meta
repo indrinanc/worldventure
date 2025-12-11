@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 43481412c2197df49840bfa7bfe9aef8
+guid: 6468d484d7d358e45870512b3936fdf3
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -59,39 +59,6 @@ TextureImporter:
   - first:
       213: -2293437330419905844
     second: ya hijau_18
-  - first:
-      213: -1411166200360529345
-    second: ya hijau_19
-  - first:
-      213: -5397242744763015017
-    second: ya hijau_20
-  - first:
-      213: -5389630882014916116
-    second: ya hijau_21
-  - first:
-      213: -7855671933569170185
-    second: ya hijau_22
-  - first:
-      213: 7310909374539220244
-    second: ya hijau_23
-  - first:
-      213: 5639062330103904707
-    second: ya hijau_24
-  - first:
-      213: 8011259094924429991
-    second: ya hijau_25
-  - first:
-      213: -3763039162373574700
-    second: ya hijau_26
-  - first:
-      213: 7763342327093861317
-    second: ya hijau_27
-  - first:
-      213: -5085857345767123007
-    second: ya hijau_28
-  - first:
-      213: -776362055440346672
-    second: ya hijau_29
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -216,9 +183,9 @@ TextureImporter:
       name: ya hijau_0
       rect:
         serializedVersion: 2
-        x: 98
+        x: 0
         y: 42
-        width: 20
+        width: 19
         height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -238,7 +205,7 @@ TextureImporter:
       name: ya hijau_1
       rect:
         serializedVersion: 2
-        x: 118
+        x: 19
         y: 42
         width: 16
         height: 20
@@ -260,7 +227,7 @@ TextureImporter:
       name: ya hijau_2
       rect:
         serializedVersion: 2
-        x: 134
+        x: 35
         y: 41
         width: 18
         height: 21
@@ -282,7 +249,7 @@ TextureImporter:
       name: ya hijau_3
       rect:
         serializedVersion: 2
-        x: 152
+        x: 53
         y: 41
         width: 8
         height: 21
@@ -304,7 +271,7 @@ TextureImporter:
       name: ya hijau_4
       rect:
         serializedVersion: 2
-        x: 167
+        x: 68
         y: 42
         width: 19
         height: 20
@@ -326,7 +293,7 @@ TextureImporter:
       name: ya hijau_5
       rect:
         serializedVersion: 2
-        x: 185
+        x: 86
         y: 41
         width: 16
         height: 17
@@ -348,7 +315,7 @@ TextureImporter:
       name: ya hijau_6
       rect:
         serializedVersion: 2
-        x: 201
+        x: 102
         y: 42
         width: 23
         height: 16
@@ -370,7 +337,7 @@ TextureImporter:
       name: ya hijau_7
       rect:
         serializedVersion: 2
-        x: 225
+        x: 126
         y: 41
         width: 16
         height: 17
@@ -392,7 +359,7 @@ TextureImporter:
       name: ya hijau_8
       rect:
         serializedVersion: 2
-        x: 248
+        x: 149
         y: 42
         width: 18
         height: 20
@@ -414,7 +381,7 @@ TextureImporter:
       name: ya hijau_9
       rect:
         serializedVersion: 2
-        x: 267
+        x: 168
         y: 42
         width: 15
         height: 20
@@ -436,7 +403,7 @@ TextureImporter:
       name: ya hijau_10
       rect:
         serializedVersion: 2
-        x: 283
+        x: 184
         y: 42
         width: 17
         height: 20
@@ -458,7 +425,7 @@ TextureImporter:
       name: ya hijau_11
       rect:
         serializedVersion: 2
-        x: 300
+        x: 201
         y: 42
         width: 20
         height: 20
@@ -480,7 +447,7 @@ TextureImporter:
       name: ya hijau_12
       rect:
         serializedVersion: 2
-        x: 318
+        x: 219
         y: 42
         width: 18
         height: 20
@@ -502,7 +469,7 @@ TextureImporter:
       name: ya hijau_13
       rect:
         serializedVersion: 2
-        x: 337
+        x: 238
         y: 41
         width: 7
         height: 21
@@ -524,10 +491,10 @@ TextureImporter:
       name: ya hijau_14
       rect:
         serializedVersion: 2
-        x: 0
-        y: 7
-        width: 25
-        height: 27
+        x: 59
+        y: 6
+        width: 27
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -546,10 +513,10 @@ TextureImporter:
       name: ya hijau_15
       rect:
         serializedVersion: 2
-        x: 35
-        y: 7
-        width: 10
-        height: 27
+        x: 95
+        y: 6
+        width: 11
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -568,10 +535,10 @@ TextureImporter:
       name: ya hijau_16
       rect:
         serializedVersion: 2
-        x: 54
-        y: 6
-        width: 20
-        height: 28
+        x: 113
+        y: 5
+        width: 23
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -590,10 +557,10 @@ TextureImporter:
       name: ya hijau_17
       rect:
         serializedVersion: 2
-        x: 84
-        y: 7
-        width: 28
-        height: 27
+        x: 143
+        y: 6
+        width: 30
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -612,10 +579,10 @@ TextureImporter:
       name: ya hijau_18
       rect:
         serializedVersion: 2
-        x: 121
-        y: 6
-        width: 24
-        height: 28
+        x: 181
+        y: 5
+        width: 26
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -626,248 +593,6 @@ TextureImporter:
       bones: []
       spriteID: cca83bd26e21c20e0800000000000000
       internalID: -2293437330419905844
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya hijau_19
-      rect:
-        serializedVersion: 2
-        x: 157
-        y: 6
-        width: 9
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f32197441d78a6ce0800000000000000
-      internalID: -1411166200360529345
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya hijau_20
-      rect:
-        serializedVersion: 2
-        x: 194
-        y: 7
-        width: 25
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 790a8d7c1542915b0800000000000000
-      internalID: -5397242744763015017
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya hijau_21
-      rect:
-        serializedVersion: 2
-        x: 230
-        y: 16
-        width: 14
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ce1960fa44f2435b0800000000000000
-      internalID: -5389630882014916116
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya hijau_22
-      rect:
-        serializedVersion: 2
-        x: 255
-        y: 7
-        width: 10
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7f48a9f5ffb0bf290800000000000000
-      internalID: -7855671933569170185
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya hijau_23
-      rect:
-        serializedVersion: 2
-        x: 276
-        y: 16
-        width: 14
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 415cb7e5751957560800000000000000
-      internalID: 7310909374539220244
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya hijau_24
-      rect:
-        serializedVersion: 2
-        x: 300
-        y: 6
-        width: 20
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3c9312cef49f14e40800000000000000
-      internalID: 5639062330103904707
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya hijau_25
-      rect:
-        serializedVersion: 2
-        x: 331
-        y: 16
-        width: 14
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7aa869c83b5bd2f60800000000000000
-      internalID: 8011259094924429991
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya hijau_26
-      rect:
-        serializedVersion: 2
-        x: 356
-        y: 7
-        width: 28
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4dfe6dab1dff6cbc0800000000000000
-      internalID: -3763039162373574700
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya hijau_27
-      rect:
-        serializedVersion: 2
-        x: 394
-        y: 16
-        width: 14
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5cb1f2ce6beecbb60800000000000000
-      internalID: 7763342327093861317
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya hijau_28
-      rect:
-        serializedVersion: 2
-        x: 419
-        y: 6
-        width: 24
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1c75d37a0b76b69b0800000000000000
-      internalID: -5085857345767123007
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya hijau_29
-      rect:
-        serializedVersion: 2
-        x: 454
-        y: 6
-        width: 10
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0d1d26ce2dec935f0800000000000000
-      internalID: -776362055440346672
       vertices: []
       indices: 
       edges: []
@@ -897,18 +622,7 @@ TextureImporter:
       ya hijau_16: -2986187734646114542
       ya hijau_17: 8969226659632196286
       ya hijau_18: -2293437330419905844
-      ya hijau_19: -1411166200360529345
       ya hijau_2: -6578464166139852617
-      ya hijau_20: -5397242744763015017
-      ya hijau_21: -5389630882014916116
-      ya hijau_22: -7855671933569170185
-      ya hijau_23: 7310909374539220244
-      ya hijau_24: 5639062330103904707
-      ya hijau_25: 8011259094924429991
-      ya hijau_26: -3763039162373574700
-      ya hijau_27: 7763342327093861317
-      ya hijau_28: -5085857345767123007
-      ya hijau_29: -776362055440346672
       ya hijau_3: 6103406064132034929
       ya hijau_4: -2737213232375614592
       ya hijau_5: -6936013701296796183

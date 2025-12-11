@@ -1,61 +1,52 @@
 fileFormatVersion: 2
-guid: 385f843b3ac799b43994090ef60a8090
+guid: ba1cb4eeaeee3e24ca9c71aca1a3aa52
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 263782596205961802
-    second: ya ungu_0
+      213: -1732732383185351005
+    second: KUIS SEMANGKA_0
   - first:
-      213: 1036036771913598189
-    second: ya ungu_1
+      213: -9209714036754130923
+    second: KUIS SEMANGKA_1
   - first:
-      213: -3407326465097521813
-    second: ya ungu_2
+      213: -8331883310414707068
+    second: KUIS SEMANGKA_2
   - first:
-      213: 8353905341042501900
-    second: ya ungu_3
+      213: -9194436053620664373
+    second: KUIS SEMANGKA_3
   - first:
-      213: -6489608248311001033
-    second: ya ungu_4
+      213: 8902799689324964309
+    second: KUIS SEMANGKA_4
   - first:
-      213: 4229355519611476755
-    second: ya ungu_5
+      213: -8235685561737271225
+    second: KUIS SEMANGKA_5
   - first:
-      213: 6121247162937385998
-    second: ya ungu_6
+      213: 7675627682234109597
+    second: KUIS SEMANGKA_6
   - first:
-      213: -7408238600985174811
-    second: ya ungu_7
+      213: 5454795048248414330
+    second: KUIS SEMANGKA_7
   - first:
-      213: -4986724874540669979
-    second: ya ungu_8
+      213: -7381137995571732104
+    second: KUIS SEMANGKA_8
   - first:
-      213: -2831555521817984349
-    second: ya ungu_9
+      213: 5921793906968249301
+    second: KUIS SEMANGKA_9
   - first:
-      213: -8596296807626548982
-    second: ya ungu_10
+      213: 3360643785835834917
+    second: KUIS SEMANGKA_10
   - first:
-      213: -3484587319560429507
-    second: ya ungu_11
+      213: 306166071643775716
+    second: KUIS SEMANGKA_11
   - first:
-      213: -3117283702535640593
-    second: ya ungu_12
+      213: 7179232358531676621
+    second: KUIS SEMANGKA_12
   - first:
-      213: -9214024775315173894
-    second: ya ungu_13
+      213: -2474540138447502662
+    second: KUIS SEMANGKA_13
   - first:
-      213: -2994064857710458438
-    second: ya ungu_14
-  - first:
-      213: -322061924577962745
-    second: ya ungu_15
-  - first:
-      213: 7178722627811996622
-    second: ya ungu_16
-  - first:
-      213: 4156765031265733995
-    second: ya ungu_17
+      213: 8271891319677536111
+    second: KUIS SEMANGKA_14
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -177,343 +168,167 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ya ungu_0
+      name: KUIS SEMANGKA_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 47
+        width: 52
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aecb61f31914f7e0800000000000000
+      internalID: -1732732383185351005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KUIS SEMANGKA_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 48
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5185754f0e5803080800000000000000
+      internalID: -9209714036754130923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KUIS SEMANGKA_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 47
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486c9bcf5443f5c80800000000000000
+      internalID: -8331883310414707068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KUIS SEMANGKA_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 47
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc755e99f1dc66080800000000000000
+      internalID: -9194436053620664373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KUIS SEMANGKA_4
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 47
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d92cacf5291d8b70800000000000000
+      internalID: 8902799689324964309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KUIS SEMANGKA_5
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 47
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74826dabd97f4bd80800000000000000
+      internalID: -8235685561737271225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KUIS SEMANGKA_6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 47
+        width: 68
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e08b3b5be458a60800000000000000
+      internalID: 7675627682234109597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KUIS SEMANGKA_7
       rect:
         serializedVersion: 2
         x: 0
-        y: 42
-        width: 19
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a4269c8afd429a300800000000000000
-      internalID: 263782596205961802
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_1
-      rect:
-        serializedVersion: 2
-        x: 19
-        y: 42
-        width: 16
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: de4072474fdb06e00800000000000000
-      internalID: 1036036771913598189
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_2
-      rect:
-        serializedVersion: 2
-        x: 35
-        y: 41
-        width: 18
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b65231ef1aeb6b0d0800000000000000
-      internalID: -3407326465097521813
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_3
-      rect:
-        serializedVersion: 2
-        x: 53
-        y: 41
-        width: 8
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c09a31495a80fe370800000000000000
-      internalID: 8353905341042501900
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_4
-      rect:
-        serializedVersion: 2
-        x: 68
-        y: 42
-        width: 19
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7305afb7ea740f5a0800000000000000
-      internalID: -6489608248311001033
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_5
-      rect:
-        serializedVersion: 2
-        x: 86
-        y: 41
-        width: 16
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 31b974fdf60b1ba30800000000000000
-      internalID: 4229355519611476755
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_6
-      rect:
-        serializedVersion: 2
-        x: 102
-        y: 42
-        width: 23
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e042049ecd903f450800000000000000
-      internalID: 6121247162937385998
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_7
-      rect:
-        serializedVersion: 2
-        x: 126
-        y: 41
-        width: 16
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5ec11f03e36a03990800000000000000
-      internalID: -7408238600985174811
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_8
-      rect:
-        serializedVersion: 2
-        x: 149
-        y: 42
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5e3266cb5289bcab0800000000000000
-      internalID: -4986724874540669979
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_9
-      rect:
-        serializedVersion: 2
-        x: 168
-        y: 42
-        width: 15
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3a24e30514b44b8d0800000000000000
-      internalID: -2831555521817984349
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_10
-      rect:
-        serializedVersion: 2
-        x: 184
-        y: 42
-        width: 17
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a09589d3991d3b880800000000000000
-      internalID: -8596296807626548982
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_11
-      rect:
-        serializedVersion: 2
-        x: 201
-        y: 42
-        width: 20
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d3025c48b4244afc0800000000000000
-      internalID: -3484587319560429507
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_12
-      rect:
-        serializedVersion: 2
-        x: 219
-        y: 42
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fe9af361dfe2db4d0800000000000000
-      internalID: -3117283702535640593
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_13
-      rect:
-        serializedVersion: 2
-        x: 238
-        y: 41
-        width: 7
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: afdc0bbe845312080800000000000000
-      internalID: -9214024775315173894
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_14
-      rect:
-        serializedVersion: 2
-        x: 68
-        y: 5
-        width: 26
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ab900b900e1f276d0800000000000000
-      internalID: -2994064857710458438
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_15
-      rect:
-        serializedVersion: 2
-        x: 103
         y: 6
         width: 26
-        height: 29
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -522,20 +337,86 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7051addc26ec78bf0800000000000000
-      internalID: -322061924577962745
+      spriteID: a701865123353bb40800000000000000
+      internalID: 5454795048248414330
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_16
+      name: KUIS SEMANGKA_8
       rect:
         serializedVersion: 2
-        x: 137
-        y: 5
+        x: 41
+        y: 7
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871eec7991ee09990800000000000000
+      internalID: -7381137995571732104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KUIS SEMANGKA_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 7
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d34ae1fe207e2250800000000000000
+      internalID: 5921793906968249301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KUIS SEMANGKA_10
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 7
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e6e5fb7b763ae20800000000000000
+      internalID: 3360643785835834917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KUIS SEMANGKA_11
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 7
         width: 27
-        height: 30
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -544,20 +425,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ec3facb0232ff9360800000000000000
-      internalID: 7178722627811996622
+      spriteID: 4e2aa968b68bf3400800000000000000
+      internalID: 306166071643775716
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_17
+      name: KUIS SEMANGKA_12
       rect:
         serializedVersion: 2
-        x: 173
-        y: 5
-        width: 26
-        height: 30
+        x: 224
+        y: 6
+        width: 29
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -566,8 +447,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6d0c5fb5cbcfa930800000000000000
-      internalID: 4156765031265733995
+      spriteID: dc9354afac1c1a360800000000000000
+      internalID: 7179232358531676621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KUIS SEMANGKA_13
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 7
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab20461dadaa8add0800000000000000
+      internalID: -2474540138447502662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KUIS SEMANGKA_14
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 7
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6744023459abc270800000000000000
+      internalID: 8271891319677536111
       vertices: []
       indices: 
       edges: []
@@ -586,24 +511,21 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      ya ungu_0: 263782596205961802
-      ya ungu_1: 1036036771913598189
-      ya ungu_10: -8596296807626548982
-      ya ungu_11: -3484587319560429507
-      ya ungu_12: -3117283702535640593
-      ya ungu_13: -9214024775315173894
-      ya ungu_14: -2994064857710458438
-      ya ungu_15: -322061924577962745
-      ya ungu_16: 7178722627811996622
-      ya ungu_17: 4156765031265733995
-      ya ungu_2: -3407326465097521813
-      ya ungu_3: 8353905341042501900
-      ya ungu_4: -6489608248311001033
-      ya ungu_5: 4229355519611476755
-      ya ungu_6: 6121247162937385998
-      ya ungu_7: -7408238600985174811
-      ya ungu_8: -4986724874540669979
-      ya ungu_9: -2831555521817984349
+      KUIS SEMANGKA_0: -1732732383185351005
+      KUIS SEMANGKA_1: -9209714036754130923
+      KUIS SEMANGKA_10: 3360643785835834917
+      KUIS SEMANGKA_11: 306166071643775716
+      KUIS SEMANGKA_12: 7179232358531676621
+      KUIS SEMANGKA_13: -2474540138447502662
+      KUIS SEMANGKA_14: 8271891319677536111
+      KUIS SEMANGKA_2: -8331883310414707068
+      KUIS SEMANGKA_3: -9194436053620664373
+      KUIS SEMANGKA_4: 8902799689324964309
+      KUIS SEMANGKA_5: -8235685561737271225
+      KUIS SEMANGKA_6: 7675627682234109597
+      KUIS SEMANGKA_7: 5454795048248414330
+      KUIS SEMANGKA_8: -7381137995571732104
+      KUIS SEMANGKA_9: 5921793906968249301
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

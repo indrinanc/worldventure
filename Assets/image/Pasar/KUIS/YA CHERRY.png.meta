@@ -1,61 +1,67 @@
 fileFormatVersion: 2
-guid: 385f843b3ac799b43994090ef60a8090
+guid: 708a2cc61c3338a4aa8312c7623b608e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 263782596205961802
-    second: ya ungu_0
+      213: 2185193497094657466
+    second: YA CHERRY_0
   - first:
-      213: 1036036771913598189
-    second: ya ungu_1
+      213: 300240646036290534
+    second: YA CHERRY_1
   - first:
-      213: -3407326465097521813
-    second: ya ungu_2
+      213: -1049295439584811868
+    second: YA CHERRY_2
   - first:
-      213: 8353905341042501900
-    second: ya ungu_3
+      213: -1861731456929151137
+    second: YA CHERRY_3
   - first:
-      213: -6489608248311001033
-    second: ya ungu_4
+      213: 5651880674706057938
+    second: YA CHERRY_4
   - first:
-      213: 4229355519611476755
-    second: ya ungu_5
+      213: 2753435589394309561
+    second: YA CHERRY_5
   - first:
-      213: 6121247162937385998
-    second: ya ungu_6
+      213: -5709560388670353047
+    second: YA CHERRY_6
   - first:
-      213: -7408238600985174811
-    second: ya ungu_7
+      213: 6932748705559130655
+    second: YA CHERRY_7
   - first:
-      213: -4986724874540669979
-    second: ya ungu_8
+      213: 4212387693565303686
+    second: YA CHERRY_8
   - first:
-      213: -2831555521817984349
-    second: ya ungu_9
+      213: 3580010813527049692
+    second: YA CHERRY_9
   - first:
-      213: -8596296807626548982
-    second: ya ungu_10
+      213: -6995470056498327671
+    second: YA CHERRY_10
   - first:
-      213: -3484587319560429507
-    second: ya ungu_11
+      213: -7207675533347957408
+    second: YA CHERRY_11
   - first:
-      213: -3117283702535640593
-    second: ya ungu_12
+      213: -8284702484387420599
+    second: YA CHERRY_12
   - first:
-      213: -9214024775315173894
-    second: ya ungu_13
+      213: -3981238701187522310
+    second: YA CHERRY_13
   - first:
-      213: -2994064857710458438
-    second: ya ungu_14
+      213: 6038903885761496242
+    second: YA CHERRY_14
   - first:
-      213: -322061924577962745
-    second: ya ungu_15
+      213: 680317412371364276
+    second: YA CHERRY_15
   - first:
-      213: 7178722627811996622
-    second: ya ungu_16
+      213: -6014498640464880859
+    second: YA CHERRY_16
   - first:
-      213: 4156765031265733995
-    second: ya ungu_17
+      213: -4379124037964776131
+    second: YA CHERRY_17
+  - first:
+      213: -6017797802258169546
+    second: YA CHERRY_18
+  - first:
+      213: 1868366833346498373
+    second: YA CHERRY_19
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -177,7 +183,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ya ungu_0
+      name: YA CHERRY_0
       rect:
         serializedVersion: 2
         x: 0
@@ -192,14 +198,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a4269c8afd429a300800000000000000
-      internalID: 263782596205961802
+      spriteID: ab512df68ed535e10800000000000000
+      internalID: 2185193497094657466
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_1
+      name: YA CHERRY_1
       rect:
         serializedVersion: 2
         x: 19
@@ -214,14 +220,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: de4072474fdb06e00800000000000000
-      internalID: 1036036771913598189
+      spriteID: 6eb702ed64baa2400800000000000000
+      internalID: 300240646036290534
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_2
+      name: YA CHERRY_2
       rect:
         serializedVersion: 2
         x: 35
@@ -236,14 +242,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b65231ef1aeb6b0d0800000000000000
-      internalID: -3407326465097521813
+      spriteID: 4a42c1b6b572071f0800000000000000
+      internalID: -1049295439584811868
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_3
+      name: YA CHERRY_3
       rect:
         serializedVersion: 2
         x: 53
@@ -258,14 +264,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c09a31495a80fe370800000000000000
-      internalID: 8353905341042501900
+      spriteID: f5741929a1dc926e0800000000000000
+      internalID: -1861731456929151137
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_4
+      name: YA CHERRY_4
       rect:
         serializedVersion: 2
         x: 68
@@ -280,14 +286,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7305afb7ea740f5a0800000000000000
-      internalID: -6489608248311001033
+      spriteID: 2daefb857838f6e40800000000000000
+      internalID: 5651880674706057938
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_5
+      name: YA CHERRY_5
       rect:
         serializedVersion: 2
         x: 86
@@ -302,14 +308,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 31b974fdf60b1ba30800000000000000
-      internalID: 4229355519611476755
+      spriteID: 9b124c9841b263620800000000000000
+      internalID: 2753435589394309561
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_6
+      name: YA CHERRY_6
       rect:
         serializedVersion: 2
         x: 102
@@ -324,14 +330,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e042049ecd903f450800000000000000
-      internalID: 6121247162937385998
+      spriteID: 96199a9b31193c0b0800000000000000
+      internalID: -5709560388670353047
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_7
+      name: YA CHERRY_7
       rect:
         serializedVersion: 2
         x: 126
@@ -346,14 +352,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5ec11f03e36a03990800000000000000
-      internalID: -7408238600985174811
+      spriteID: f12b6e76732163060800000000000000
+      internalID: 6932748705559130655
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_8
+      name: YA CHERRY_8
       rect:
         serializedVersion: 2
         x: 149
@@ -368,14 +374,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5e3266cb5289bcab0800000000000000
-      internalID: -4986724874540669979
+      spriteID: 68bdf230a48657a30800000000000000
+      internalID: 4212387693565303686
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_9
+      name: YA CHERRY_9
       rect:
         serializedVersion: 2
         x: 168
@@ -390,14 +396,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3a24e30514b44b8d0800000000000000
-      internalID: -2831555521817984349
+      spriteID: cd546500ed0cea130800000000000000
+      internalID: 3580010813527049692
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_10
+      name: YA CHERRY_10
       rect:
         serializedVersion: 2
         x: 184
@@ -412,14 +418,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a09589d3991d3b880800000000000000
-      internalID: -8596296807626548982
+      spriteID: 98f09851c091bee90800000000000000
+      internalID: -6995470056498327671
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_11
+      name: YA CHERRY_11
       rect:
         serializedVersion: 2
         x: 201
@@ -434,14 +440,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d3025c48b4244afc0800000000000000
-      internalID: -3484587319560429507
+      spriteID: 06555825a4139fb90800000000000000
+      internalID: -7207675533347957408
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_12
+      name: YA CHERRY_12
       rect:
         serializedVersion: 2
         x: 219
@@ -456,14 +462,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fe9af361dfe2db4d0800000000000000
-      internalID: -3117283702535640593
+      spriteID: 946aa441cf2d60d80800000000000000
+      internalID: -8284702484387420599
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_13
+      name: YA CHERRY_13
       rect:
         serializedVersion: 2
         x: 238
@@ -478,19 +484,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: afdc0bbe845312080800000000000000
-      internalID: -9214024775315173894
+      spriteID: af02ea9ae7ccfb8c0800000000000000
+      internalID: -3981238701187522310
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_14
+      name: YA CHERRY_14
       rect:
         serializedVersion: 2
-        x: 68
+        x: 37
         y: 5
-        width: 26
+        width: 28
         height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -500,17 +506,61 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ab900b900e1f276d0800000000000000
-      internalID: -2994064857710458438
+      spriteID: 2b44a8fa61f7ec350800000000000000
+      internalID: 6038903885761496242
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_15
+      name: YA CHERRY_15
       rect:
         serializedVersion: 2
-        x: 103
+        x: 73
+        y: 6
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b978e20519f07900800000000000000
+      internalID: 680317412371364276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YA CHERRY_16
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 6
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b55094a55388ca0800000000000000
+      internalID: -6014498640464880859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YA CHERRY_17
+      rect:
+        serializedVersion: 2
+        x: 139
         y: 6
         width: 26
         height: 29
@@ -522,42 +572,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7051addc26ec78bf0800000000000000
-      internalID: -322061924577962745
+      spriteID: d3d3cb993e93a33c0800000000000000
+      internalID: -4379124037964776131
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_16
+      name: YA CHERRY_18
       rect:
         serializedVersion: 2
-        x: 137
-        y: 5
-        width: 27
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ec3facb0232ff9360800000000000000
-      internalID: 7178722627811996622
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_17
-      rect:
-        serializedVersion: 2
-        x: 173
-        y: 5
+        x: 171
+        y: 6
         width: 26
-        height: 30
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -566,8 +594,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6d0c5fb5cbcfa930800000000000000
-      internalID: 4156765031265733995
+      spriteID: 631864258cc7c7ca0800000000000000
+      internalID: -6017797802258169546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YA CHERRY_19
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 6
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f4db36cb5cde910800000000000000
+      internalID: 1868366833346498373
       vertices: []
       indices: 
       edges: []
@@ -586,24 +636,26 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      ya ungu_0: 263782596205961802
-      ya ungu_1: 1036036771913598189
-      ya ungu_10: -8596296807626548982
-      ya ungu_11: -3484587319560429507
-      ya ungu_12: -3117283702535640593
-      ya ungu_13: -9214024775315173894
-      ya ungu_14: -2994064857710458438
-      ya ungu_15: -322061924577962745
-      ya ungu_16: 7178722627811996622
-      ya ungu_17: 4156765031265733995
-      ya ungu_2: -3407326465097521813
-      ya ungu_3: 8353905341042501900
-      ya ungu_4: -6489608248311001033
-      ya ungu_5: 4229355519611476755
-      ya ungu_6: 6121247162937385998
-      ya ungu_7: -7408238600985174811
-      ya ungu_8: -4986724874540669979
-      ya ungu_9: -2831555521817984349
+      YA CHERRY_0: 2185193497094657466
+      YA CHERRY_1: 300240646036290534
+      YA CHERRY_10: -6995470056498327671
+      YA CHERRY_11: -7207675533347957408
+      YA CHERRY_12: -8284702484387420599
+      YA CHERRY_13: -3981238701187522310
+      YA CHERRY_14: 6038903885761496242
+      YA CHERRY_15: 680317412371364276
+      YA CHERRY_16: -6014498640464880859
+      YA CHERRY_17: -4379124037964776131
+      YA CHERRY_18: -6017797802258169546
+      YA CHERRY_19: 1868366833346498373
+      YA CHERRY_2: -1049295439584811868
+      YA CHERRY_3: -1861731456929151137
+      YA CHERRY_4: 5651880674706057938
+      YA CHERRY_5: 2753435589394309561
+      YA CHERRY_6: -5709560388670353047
+      YA CHERRY_7: 6932748705559130655
+      YA CHERRY_8: 4212387693565303686
+      YA CHERRY_9: 3580010813527049692
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

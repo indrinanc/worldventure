@@ -1,61 +1,61 @@
 fileFormatVersion: 2
-guid: 385f843b3ac799b43994090ef60a8090
+guid: af8fdabe45bb0f747aa4554fce9604f4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 263782596205961802
-    second: ya ungu_0
+      213: 1698073589432579862
+    second: YA AYAM_0
   - first:
-      213: 1036036771913598189
-    second: ya ungu_1
+      213: -9134497502064693708
+    second: YA AYAM_1
   - first:
-      213: -3407326465097521813
-    second: ya ungu_2
+      213: 5491158232163100972
+    second: YA AYAM_2
   - first:
-      213: 8353905341042501900
-    second: ya ungu_3
+      213: -8257813014823893572
+    second: YA AYAM_3
   - first:
-      213: -6489608248311001033
-    second: ya ungu_4
+      213: -1188908284196195515
+    second: YA AYAM_4
   - first:
-      213: 4229355519611476755
-    second: ya ungu_5
+      213: -3563921559757141134
+    second: YA AYAM_5
   - first:
-      213: 6121247162937385998
-    second: ya ungu_6
+      213: 5925405607980504650
+    second: YA AYAM_6
   - first:
-      213: -7408238600985174811
-    second: ya ungu_7
+      213: 696981347414848905
+    second: YA AYAM_7
   - first:
-      213: -4986724874540669979
-    second: ya ungu_8
+      213: -4745404827370060321
+    second: YA AYAM_8
   - first:
-      213: -2831555521817984349
-    second: ya ungu_9
+      213: 5421777854622867009
+    second: YA AYAM_9
   - first:
-      213: -8596296807626548982
-    second: ya ungu_10
+      213: 5515250165762671627
+    second: YA AYAM_10
   - first:
-      213: -3484587319560429507
-    second: ya ungu_11
+      213: -6200791699677449667
+    second: YA AYAM_11
   - first:
-      213: -3117283702535640593
-    second: ya ungu_12
+      213: 696713190629969812
+    second: YA AYAM_12
   - first:
-      213: -9214024775315173894
-    second: ya ungu_13
+      213: 1650326595098378695
+    second: YA AYAM_13
   - first:
-      213: -2994064857710458438
-    second: ya ungu_14
+      213: 145892191169211647
+    second: YA AYAM_14
   - first:
-      213: -322061924577962745
-    second: ya ungu_15
+      213: -1676967855319442452
+    second: YA AYAM_15
   - first:
-      213: 7178722627811996622
-    second: ya ungu_16
+      213: -5480221730648567918
+    second: YA AYAM_16
   - first:
-      213: 4156765031265733995
-    second: ya ungu_17
+      213: -3312510278722985703
+    second: YA AYAM_17
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -177,7 +177,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ya ungu_0
+      name: YA AYAM_0
       rect:
         serializedVersion: 2
         x: 0
@@ -192,14 +192,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a4269c8afd429a300800000000000000
-      internalID: 263782596205961802
+      spriteID: 617f99ccee4c09710800000000000000
+      internalID: 1698073589432579862
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_1
+      name: YA AYAM_1
       rect:
         serializedVersion: 2
         x: 19
@@ -214,14 +214,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: de4072474fdb06e00800000000000000
-      internalID: 1036036771913598189
+      spriteID: 43eadb32beebb3180800000000000000
+      internalID: -9134497502064693708
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_2
+      name: YA AYAM_2
       rect:
         serializedVersion: 2
         x: 35
@@ -236,14 +236,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b65231ef1aeb6b0d0800000000000000
-      internalID: -3407326465097521813
+      spriteID: c292b899153843c40800000000000000
+      internalID: 5491158232163100972
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_3
+      name: YA AYAM_3
       rect:
         serializedVersion: 2
         x: 53
@@ -258,14 +258,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c09a31495a80fe370800000000000000
-      internalID: 8353905341042501900
+      spriteID: cb503d590da566d80800000000000000
+      internalID: -8257813014823893572
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_4
+      name: YA AYAM_4
       rect:
         serializedVersion: 2
         x: 68
@@ -280,14 +280,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7305afb7ea740f5a0800000000000000
-      internalID: -6489608248311001033
+      spriteID: 54377f1f636208fe0800000000000000
+      internalID: -1188908284196195515
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_5
+      name: YA AYAM_5
       rect:
         serializedVersion: 2
         x: 86
@@ -302,14 +302,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 31b974fdf60b1ba30800000000000000
-      internalID: 4229355519611476755
+      spriteID: 27bc15f49386a8ec0800000000000000
+      internalID: -3563921559757141134
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_6
+      name: YA AYAM_6
       rect:
         serializedVersion: 2
         x: 102
@@ -324,14 +324,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e042049ecd903f450800000000000000
-      internalID: 6121247162937385998
+      spriteID: a4619cd91054b3250800000000000000
+      internalID: 5925405607980504650
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_7
+      name: YA AYAM_7
       rect:
         serializedVersion: 2
         x: 126
@@ -346,14 +346,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5ec11f03e36a03990800000000000000
-      internalID: -7408238600985174811
+      spriteID: 9853cbbb7dc2ca900800000000000000
+      internalID: 696981347414848905
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_8
+      name: YA AYAM_8
       rect:
         serializedVersion: 2
         x: 149
@@ -368,14 +368,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5e3266cb5289bcab0800000000000000
-      internalID: -4986724874540669979
+      spriteID: fd50f25a37fe42eb0800000000000000
+      internalID: -4745404827370060321
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_9
+      name: YA AYAM_9
       rect:
         serializedVersion: 2
         x: 168
@@ -390,14 +390,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3a24e30514b44b8d0800000000000000
-      internalID: -2831555521817984349
+      spriteID: 14e10e3ab360e3b40800000000000000
+      internalID: 5421777854622867009
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_10
+      name: YA AYAM_10
       rect:
         serializedVersion: 2
         x: 184
@@ -412,14 +412,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a09589d3991d3b880800000000000000
-      internalID: -8596296807626548982
+      spriteID: b04c2b10eca1a8c40800000000000000
+      internalID: 5515250165762671627
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_11
+      name: YA AYAM_11
       rect:
         serializedVersion: 2
         x: 201
@@ -434,14 +434,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d3025c48b4244afc0800000000000000
-      internalID: -3484587319560429507
+      spriteID: d32f8866dcc52f9a0800000000000000
+      internalID: -6200791699677449667
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_12
+      name: YA AYAM_12
       rect:
         serializedVersion: 2
         x: 219
@@ -456,14 +456,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fe9af361dfe2db4d0800000000000000
-      internalID: -3117283702535640593
+      spriteID: 49f04dd94f83ba900800000000000000
+      internalID: 696713190629969812
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_13
+      name: YA AYAM_13
       rect:
         serializedVersion: 2
         x: 238
@@ -478,41 +478,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: afdc0bbe845312080800000000000000
-      internalID: -9214024775315173894
+      spriteID: 7c108306b4327e610800000000000000
+      internalID: 1650326595098378695
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_14
+      name: YA AYAM_14
       rect:
         serializedVersion: 2
-        x: 68
-        y: 5
-        width: 26
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ab900b900e1f276d0800000000000000
-      internalID: -2994064857710458438
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya ungu_15
-      rect:
-        serializedVersion: 2
-        x: 103
+        x: 64
         y: 6
-        width: 26
+        width: 30
         height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -522,20 +500,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7051addc26ec78bf0800000000000000
-      internalID: -322061924577962745
+      spriteID: ffce426cc20560200800000000000000
+      internalID: 145892191169211647
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_16
+      name: YA AYAM_15
       rect:
         serializedVersion: 2
-        x: 137
-        y: 5
-        width: 27
-        height: 30
+        x: 97
+        y: 6
+        width: 31
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -544,20 +522,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ec3facb0232ff9360800000000000000
-      internalID: 7178722627811996622
+      spriteID: ceb9febde963ab8e0800000000000000
+      internalID: -1676967855319442452
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ya ungu_17
+      name: YA AYAM_16
       rect:
         serializedVersion: 2
-        x: 173
-        y: 5
-        width: 26
-        height: 30
+        x: 131
+        y: 6
+        width: 30
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -566,8 +544,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6d0c5fb5cbcfa930800000000000000
-      internalID: 4156765031265733995
+      spriteID: 29fc0561f5752f3b0800000000000000
+      internalID: -5480221730648567918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YA AYAM_17
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 6
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911e2e1b3799702d0800000000000000
+      internalID: -3312510278722985703
       vertices: []
       indices: 
       edges: []
@@ -586,24 +586,24 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      ya ungu_0: 263782596205961802
-      ya ungu_1: 1036036771913598189
-      ya ungu_10: -8596296807626548982
-      ya ungu_11: -3484587319560429507
-      ya ungu_12: -3117283702535640593
-      ya ungu_13: -9214024775315173894
-      ya ungu_14: -2994064857710458438
-      ya ungu_15: -322061924577962745
-      ya ungu_16: 7178722627811996622
-      ya ungu_17: 4156765031265733995
-      ya ungu_2: -3407326465097521813
-      ya ungu_3: 8353905341042501900
-      ya ungu_4: -6489608248311001033
-      ya ungu_5: 4229355519611476755
-      ya ungu_6: 6121247162937385998
-      ya ungu_7: -7408238600985174811
-      ya ungu_8: -4986724874540669979
-      ya ungu_9: -2831555521817984349
+      YA AYAM_0: 1698073589432579862
+      YA AYAM_1: -9134497502064693708
+      YA AYAM_10: 5515250165762671627
+      YA AYAM_11: -6200791699677449667
+      YA AYAM_12: 696713190629969812
+      YA AYAM_13: 1650326595098378695
+      YA AYAM_14: 145892191169211647
+      YA AYAM_15: -1676967855319442452
+      YA AYAM_16: -5480221730648567918
+      YA AYAM_17: -3312510278722985703
+      YA AYAM_2: 5491158232163100972
+      YA AYAM_3: -8257813014823893572
+      YA AYAM_4: -1188908284196195515
+      YA AYAM_5: -3563921559757141134
+      YA AYAM_6: 5925405607980504650
+      YA AYAM_7: 696981347414848905
+      YA AYAM_8: -4745404827370060321
+      YA AYAM_9: 5421777854622867009
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

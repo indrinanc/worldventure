@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 920cd311a8079084d93f712af979ce8c
+guid: e645c868bee988748a4daab0b91faedd
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -62,45 +62,6 @@ TextureImporter:
   - first:
       213: 6099309863648946073
     second: ya jingga_19
-  - first:
-      213: -6510589055606969842
-    second: ya jingga_20
-  - first:
-      213: -7439732179529381692
-    second: ya jingga_21
-  - first:
-      213: 7725282730542298009
-    second: ya jingga_22
-  - first:
-      213: -9049189483162325337
-    second: ya jingga_23
-  - first:
-      213: -1321342030034348576
-    second: ya jingga_24
-  - first:
-      213: -5693185772814267259
-    second: ya jingga_25
-  - first:
-      213: 8218411267103020457
-    second: ya jingga_26
-  - first:
-      213: 7246995125008372494
-    second: ya jingga_27
-  - first:
-      213: 1629185320727055241
-    second: ya jingga_28
-  - first:
-      213: -8822155061907142079
-    second: ya jingga_29
-  - first:
-      213: 1947867101509020963
-    second: ya jingga_30
-  - first:
-      213: 4599524530053288158
-    second: ya jingga_31
-  - first:
-      213: 985253522102690169
-    second: ya jingga_32
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -225,9 +186,9 @@ TextureImporter:
       name: ya jingga_0
       rect:
         serializedVersion: 2
-        x: 147
+        x: 0
         y: 42
-        width: 20
+        width: 19
         height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -247,7 +208,7 @@ TextureImporter:
       name: ya jingga_1
       rect:
         serializedVersion: 2
-        x: 167
+        x: 19
         y: 42
         width: 16
         height: 20
@@ -269,7 +230,7 @@ TextureImporter:
       name: ya jingga_2
       rect:
         serializedVersion: 2
-        x: 183
+        x: 35
         y: 41
         width: 18
         height: 21
@@ -291,7 +252,7 @@ TextureImporter:
       name: ya jingga_3
       rect:
         serializedVersion: 2
-        x: 201
+        x: 53
         y: 41
         width: 8
         height: 21
@@ -313,7 +274,7 @@ TextureImporter:
       name: ya jingga_4
       rect:
         serializedVersion: 2
-        x: 216
+        x: 68
         y: 42
         width: 19
         height: 20
@@ -335,7 +296,7 @@ TextureImporter:
       name: ya jingga_5
       rect:
         serializedVersion: 2
-        x: 234
+        x: 86
         y: 41
         width: 16
         height: 17
@@ -357,7 +318,7 @@ TextureImporter:
       name: ya jingga_6
       rect:
         serializedVersion: 2
-        x: 250
+        x: 102
         y: 42
         width: 23
         height: 16
@@ -379,7 +340,7 @@ TextureImporter:
       name: ya jingga_7
       rect:
         serializedVersion: 2
-        x: 274
+        x: 126
         y: 41
         width: 16
         height: 17
@@ -401,7 +362,7 @@ TextureImporter:
       name: ya jingga_8
       rect:
         serializedVersion: 2
-        x: 297
+        x: 149
         y: 42
         width: 18
         height: 20
@@ -423,7 +384,7 @@ TextureImporter:
       name: ya jingga_9
       rect:
         serializedVersion: 2
-        x: 316
+        x: 168
         y: 42
         width: 15
         height: 20
@@ -445,7 +406,7 @@ TextureImporter:
       name: ya jingga_10
       rect:
         serializedVersion: 2
-        x: 332
+        x: 184
         y: 42
         width: 17
         height: 20
@@ -467,7 +428,7 @@ TextureImporter:
       name: ya jingga_11
       rect:
         serializedVersion: 2
-        x: 349
+        x: 201
         y: 42
         width: 20
         height: 20
@@ -489,7 +450,7 @@ TextureImporter:
       name: ya jingga_12
       rect:
         serializedVersion: 2
-        x: 367
+        x: 219
         y: 42
         width: 18
         height: 20
@@ -511,7 +472,7 @@ TextureImporter:
       name: ya jingga_13
       rect:
         serializedVersion: 2
-        x: 386
+        x: 238
         y: 41
         width: 7
         height: 21
@@ -533,10 +494,10 @@ TextureImporter:
       name: ya jingga_14
       rect:
         serializedVersion: 2
-        x: 0
-        y: 6
-        width: 20
-        height: 28
+        x: 40
+        y: 5
+        width: 23
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -555,10 +516,10 @@ TextureImporter:
       name: ya jingga_15
       rect:
         serializedVersion: 2
-        x: 30
-        y: 7
-        width: 10
-        height: 27
+        x: 71
+        y: 6
+        width: 12
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -577,10 +538,10 @@ TextureImporter:
       name: ya jingga_16
       rect:
         serializedVersion: 2
-        x: 50
-        y: 7
-        width: 24
-        height: 27
+        x: 91
+        y: 6
+        width: 26
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -599,10 +560,10 @@ TextureImporter:
       name: ya jingga_17
       rect:
         serializedVersion: 2
-        x: 84
-        y: 6
-        width: 26
-        height: 28
+        x: 125
+        y: 5
+        width: 28
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -621,10 +582,10 @@ TextureImporter:
       name: ya jingga_18
       rect:
         serializedVersion: 2
-        x: 120
-        y: 6
-        width: 26
-        height: 28
+        x: 161
+        y: 5
+        width: 28
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -643,10 +604,10 @@ TextureImporter:
       name: ya jingga_19
       rect:
         serializedVersion: 2
-        x: 154
-        y: 7
-        width: 28
-        height: 27
+        x: 195
+        y: 6
+        width: 31
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -657,292 +618,6 @@ TextureImporter:
       bones: []
       spriteID: 997e4d5610a15a450800000000000000
       internalID: 6099309863648946073
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya jingga_20
-      rect:
-        serializedVersion: 2
-        x: 193
-        y: 6
-        width: 9
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e0a200e9fbdb5a5a0800000000000000
-      internalID: -6510589055606969842
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya jingga_21
-      rect:
-        serializedVersion: 2
-        x: 229
-        y: 6
-        width: 21
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4c8cb170003c0c890800000000000000
-      internalID: -7439732179529381692
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya jingga_22
-      rect:
-        serializedVersion: 2
-        x: 261
-        y: 16
-        width: 14
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 993fe6f86b7b53b60800000000000000
-      internalID: 7725282730542298009
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya jingga_23
-      rect:
-        serializedVersion: 2
-        x: 286
-        y: 7
-        width: 9
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7aea8e61c12da6280800000000000000
-      internalID: -9049189483162325337
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya jingga_24
-      rect:
-        serializedVersion: 2
-        x: 306
-        y: 16
-        width: 15
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0e55209ac66a9ade0800000000000000
-      internalID: -1321342030034348576
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya jingga_25
-      rect:
-        serializedVersion: 2
-        x: 331
-        y: 7
-        width: 24
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 58c091314bdbdf0b0800000000000000
-      internalID: -5693185772814267259
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya jingga_26
-      rect:
-        serializedVersion: 2
-        x: 366
-        y: 16
-        width: 15
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9a55eb12189ad0270800000000000000
-      internalID: 8218411267103020457
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya jingga_27
-      rect:
-        serializedVersion: 2
-        x: 391
-        y: 6
-        width: 26
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e039c138baf729460800000000000000
-      internalID: 7246995125008372494
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya jingga_28
-      rect:
-        serializedVersion: 2
-        x: 428
-        y: 16
-        width: 14
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 98b873bda670c9610800000000000000
-      internalID: 1629185320727055241
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya jingga_29
-      rect:
-        serializedVersion: 2
-        x: 453
-        y: 7
-        width: 27
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 14a4c9586b8619580800000000000000
-      internalID: -8822155061907142079
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya jingga_30
-      rect:
-        serializedVersion: 2
-        x: 491
-        y: 16
-        width: 14
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 32d6d1ffec6380b10800000000000000
-      internalID: 1947867101509020963
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya jingga_31
-      rect:
-        serializedVersion: 2
-        x: 516
-        y: 7
-        width: 25
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ed09585d03bc4df30800000000000000
-      internalID: 4599524530053288158
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya jingga_32
-      rect:
-        serializedVersion: 2
-        x: 552
-        y: 6
-        width: 10
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 97122a6bbd25cad00800000000000000
-      internalID: 985253522102690169
       vertices: []
       indices: 
       edges: []
@@ -974,20 +649,7 @@ TextureImporter:
       ya jingga_18: -6840552952975289230
       ya jingga_19: 6099309863648946073
       ya jingga_2: 4528545421599324344
-      ya jingga_20: -6510589055606969842
-      ya jingga_21: -7439732179529381692
-      ya jingga_22: 7725282730542298009
-      ya jingga_23: -9049189483162325337
-      ya jingga_24: -1321342030034348576
-      ya jingga_25: -5693185772814267259
-      ya jingga_26: 8218411267103020457
-      ya jingga_27: 7246995125008372494
-      ya jingga_28: 1629185320727055241
-      ya jingga_29: -8822155061907142079
       ya jingga_3: 7924450913193378594
-      ya jingga_30: 1947867101509020963
-      ya jingga_31: 4599524530053288158
-      ya jingga_32: 985253522102690169
       ya jingga_4: 2719494042247699214
       ya jingga_5: -7184285620729045013
       ya jingga_6: 5861111775721492783

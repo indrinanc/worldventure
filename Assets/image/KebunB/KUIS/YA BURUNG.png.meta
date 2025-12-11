@@ -1,85 +1,67 @@
 fileFormatVersion: 2
-guid: 62d41c3a0cff5234ab3a16e2d2d86c7d
+guid: 1871d03b208e4684cb2cd3e9542546fa
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3129095153936641551
-    second: 4. X hijau_0
+      213: 2522436320535771236
+    second: YA BURUNG_0
   - first:
-      213: -9173708067726040930
-    second: 4. X hijau_1
+      213: 2189089842041209566
+    second: YA BURUNG_1
   - first:
-      213: 2656369681088109306
-    second: 4. X hijau_2
+      213: -4041380619731460434
+    second: YA BURUNG_2
   - first:
-      213: -7397916630873481545
-    second: 4. X hijau_3
+      213: -4468125060726531874
+    second: YA BURUNG_3
   - first:
-      213: 8208086575011635887
-    second: 4. X hijau_4
+      213: 2602610170021845260
+    second: YA BURUNG_4
   - first:
-      213: -3411521474346958110
-    second: 4. X hijau_5
+      213: -1401765415329592397
+    second: YA BURUNG_5
   - first:
-      213: 345463028586362486
-    second: 4. X hijau_6
+      213: -9176739671001422405
+    second: YA BURUNG_6
   - first:
-      213: -6453526507349477086
-    second: 4. X hijau_7
+      213: -4839868361360980411
+    second: YA BURUNG_7
   - first:
-      213: -7349942418570697969
-    second: 4. X hijau_8
+      213: -2211398564882033810
+    second: YA BURUNG_8
   - first:
-      213: 4047833941624987349
-    second: 4. X hijau_9
+      213: 6794211971625085517
+    second: YA BURUNG_9
   - first:
-      213: 8382265032875881053
-    second: 4. X hijau_10
+      213: 7288869979739172278
+    second: YA BURUNG_10
   - first:
-      213: -3258122236590329038
-    second: 4. X hijau_11
+      213: 4175528172141497471
+    second: YA BURUNG_11
   - first:
-      213: -2082434691247169228
-    second: 4. X hijau_12
+      213: 2351509454671128925
+    second: YA BURUNG_12
   - first:
-      213: 8204789232023589068
-    second: 4. X hijau_13
+      213: -4224836959988658553
+    second: YA BURUNG_13
   - first:
-      213: 970997469801230719
-    second: 4. X hijau_14
+      213: -646743123922628022
+    second: YA BURUNG_14
   - first:
-      213: -1046794672946635863
-    second: 4. X hijau_15
+      213: 5587060919574267840
+    second: YA BURUNG_15
   - first:
-      213: -8406773969986578830
-    second: 4. X hijau_16
+      213: 7762002443956759022
+    second: YA BURUNG_16
   - first:
-      213: 4967190185208282446
-    second: 4. X hijau_17
+      213: -367127661792218142
+    second: YA BURUNG_17
   - first:
-      213: -2393619556864393049
-    second: 4. X hijau_18
+      213: -4132016330920680751
+    second: YA BURUNG_18
   - first:
-      213: 3122476226003465664
-    second: 4. X hijau_19
-  - first:
-      213: -6428351058755086952
-    second: 4. X hijau_20
-  - first:
-      213: -6358631233611174795
-    second: 4. X hijau_21
-  - first:
-      213: 7638251092379271976
-    second: 4. X hijau_22
-  - first:
-      213: 3716009537030526141
-    second: 4. X hijau_23
-  - first:
-      213: 2336812667003297636
-    second: 4. X hijau_24
-  - first:
-      213: -8119940128199748887
-    second: 4. X hijau_25
+      213: -278655904242156591
+    second: YA BURUNG_19
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -201,13 +183,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 4. X hijau_0
+      name: YA BURUNG_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 47
-        width: 29
-        height: 18
+        y: 42
+        width: 19
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,20 +198,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1f1d53149883394d0800000000000000
-      internalID: -3129095153936641551
+      spriteID: 468f316187e710320800000000000000
+      internalID: 2522436320535771236
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 4. X hijau_1
+      name: YA BURUNG_1
       rect:
         serializedVersion: 2
-        x: 28
-        y: 43
-        width: 25
-        height: 18
+        x: 19
+        y: 42
+        width: 16
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -238,20 +220,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e90ed06ed1170b080800000000000000
-      internalID: -9173708067726040930
+      spriteID: ed24840fc95316e10800000000000000
+      internalID: 2189089842041209566
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 4. X hijau_2
+      name: YA BURUNG_2
       rect:
         serializedVersion: 2
-        x: 52
-        y: 47
-        width: 7
-        height: 18
+        x: 35
+        y: 41
+        width: 18
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -260,20 +242,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: afadf51a6225dd420800000000000000
-      internalID: 2656369681088109306
+      spriteID: eae12ce0db12ae7c0800000000000000
+      internalID: -4041380619731460434
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 4. X hijau_3
+      name: YA BURUNG_3
       rect:
         serializedVersion: 2
-        x: 62
-        y: 47
-        width: 62
-        height: 18
+        x: 53
+        y: 41
+        width: 8
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -282,20 +264,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7bed4d22502555990800000000000000
-      internalID: -7397916630873481545
+      spriteID: ed8df5f2ee70ef1c0800000000000000
+      internalID: -4468125060726531874
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 4. X hijau_4
+      name: YA BURUNG_4
       rect:
         serializedVersion: 2
-        x: 126
-        y: 43
-        width: 37
-        height: 18
+        x: 68
+        y: 42
+        width: 19
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -304,63 +286,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fa2a83d604bf8e170800000000000000
-      internalID: 8208086575011635887
+      spriteID: c0998f019245e1420800000000000000
+      internalID: 2602610170021845260
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 4. X hijau_5
+      name: YA BURUNG_5
       rect:
         serializedVersion: 2
-        x: 162
-        y: 43
-        width: 14
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2e2cee94b47d7a0d0800000000000000
-      internalID: -3411521474346958110
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 4. X hijau_6
-      rect:
-        serializedVersion: 2
-        x: 178
-        y: 60
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 676bbed4bc45bc400800000000000000
-      internalID: 345463028586362486
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 4. X hijau_7
-      rect:
-        serializedVersion: 2
-        x: 178
-        y: 47
-        width: 27
+        x: 86
+        y: 41
+        width: 16
         height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -370,20 +308,42 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 229fdd475d77076a0800000000000000
-      internalID: -6453526507349477086
+      spriteID: 3bb0ad818cdeb8ce0800000000000000
+      internalID: -1401765415329592397
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 4. X hijau_8
+      name: YA BURUNG_6
       rect:
         serializedVersion: 2
-        x: 224
-        y: 47
+        x: 102
+        y: 42
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5a9b1c3eba5a080800000000000000
+      internalID: -9176739671001422405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YA BURUNG_7
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 41
         width: 16
-        height: 18
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -392,108 +352,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f03a48ddf42cff990800000000000000
-      internalID: -7349942418570697969
+      spriteID: 5464d693e5555dcb0800000000000000
+      internalID: -4839868361360980411
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 4. X hijau_9
+      name: YA BURUNG_8
       rect:
         serializedVersion: 2
-        x: 239
-        y: 47
-        width: 37
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5de9358068bcc2830800000000000000
-      internalID: 4047833941624987349
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 4. X hijau_10
-      rect:
-        serializedVersion: 2
-        x: 278
-        y: 47
-        width: 25
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d52beb1e2a9c35470800000000000000
-      internalID: 8382265032875881053
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 4. X hijau_11
-      rect:
-        serializedVersion: 2
-        x: 302
-        y: 48
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2337b3d8613d8c2d0800000000000000
-      internalID: -3258122236590329038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 4. X hijau_12
-      rect:
-        serializedVersion: 2
-        x: 310
-        y: 60
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 43123487ea4b913e0800000000000000
-      internalID: -2082434691247169228
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 4. X hijau_13
-      rect:
-        serializedVersion: 2
-        x: 319
-        y: 47
+        x: 149
+        y: 42
         width: 18
-        height: 18
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -502,20 +374,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cc057bfe5544dd170800000000000000
-      internalID: 8204789232023589068
+      spriteID: e63d563c8b88f41e0800000000000000
+      internalID: -2211398564882033810
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 4. X hijau_14
+      name: YA BURUNG_9
       rect:
         serializedVersion: 2
-        x: 336
-        y: 43
-        width: 14
-        height: 18
+        x: 168
+        y: 42
+        width: 15
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -524,20 +396,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f713e41ed0da97d00800000000000000
-      internalID: 970997469801230719
+      spriteID: d4a6b697ac3e94e50800000000000000
+      internalID: 6794211971625085517
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 4. X hijau_15
+      name: YA BURUNG_10
       rect:
         serializedVersion: 2
-        x: 349
-        y: 60
-        width: 6
-        height: 6
+        x: 184
+        y: 42
+        width: 17
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -546,20 +418,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9ab9e368ac90971f0800000000000000
-      internalID: -1046794672946635863
+      spriteID: 6bdac54e0a4472560800000000000000
+      internalID: 7288869979739172278
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 4. X hijau_16
+      name: YA BURUNG_11
       rect:
         serializedVersion: 2
-        x: 349
-        y: 48
-        width: 6
-        height: 13
+        x: 201
+        y: 42
+        width: 20
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -568,20 +440,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 27613f38d93255b80800000000000000
-      internalID: -8406773969986578830
+      spriteID: f7c412aefb472f930800000000000000
+      internalID: 4175528172141497471
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 4. X hijau_17
+      name: YA BURUNG_12
       rect:
         serializedVersion: 2
-        x: 355
-        y: 47
-        width: 6
-        height: 18
+        x: 219
+        y: 42
+        width: 18
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -590,20 +462,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e4d7529f7210fe440800000000000000
-      internalID: 4967190185208282446
+      spriteID: d5925a3e36d32a020800000000000000
+      internalID: 2351509454671128925
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 4. X hijau_18
+      name: YA BURUNG_13
       rect:
         serializedVersion: 2
-        x: 204
-        y: 47
+        x: 238
+        y: 41
         width: 7
-        height: 7
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -612,20 +484,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7a08ba9e1b728ced0800000000000000
-      internalID: -2393619556864393049
+      spriteID: 78e4fe54b2d5e55c0800000000000000
+      internalID: -4224836959988658553
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 4. X hijau_19
+      name: YA BURUNG_14
       rect:
         serializedVersion: 2
-        x: 210
-        y: 47
-        width: 7
-        height: 7
+        x: 36
+        y: 6
+        width: 24
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -634,20 +506,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0c5f98e7593455b20800000000000000
-      internalID: 3122476226003465664
+      spriteID: a425aad2e8e4607f0800000000000000
+      internalID: -646743123922628022
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 4. X hijau_20
+      name: YA BURUNG_15
       rect:
         serializedVersion: 2
-        x: 216
-        y: 47
-        width: 7
-        height: 7
+        x: 68
+        y: 5
+        width: 26
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -656,20 +528,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 895956b55c8e9c6a0800000000000000
-      internalID: -6428351058755086952
+      spriteID: 0c701b90e4a398d40800000000000000
+      internalID: 5587060919574267840
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 4. X hijau_21
+      name: YA BURUNG_16
       rect:
         serializedVersion: 2
-        x: 89
-        y: 7
-        width: 28
-        height: 31
+        x: 102
+        y: 6
+        width: 26
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -678,20 +550,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 57ce6ee159a91c7a0800000000000000
-      internalID: -6358631233611174795
+      spriteID: ee9a1c1191c28bb60800000000000000
+      internalID: 7762002443956759022
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 4. X hijau_22
+      name: YA BURUNG_17
       rect:
         serializedVersion: 2
         x: 134
-        y: 7
-        width: 12
-        height: 31
+        y: 5
+        width: 26
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -700,20 +572,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 823818a36e4800a60800000000000000
-      internalID: 7638251092379271976
+      spriteID: 2e3b7a33653b7eaf0800000000000000
+      internalID: -367127661792218142
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 4. X hijau_23
+      name: YA BURUNG_18
       rect:
         serializedVersion: 2
-        x: 161
+        x: 169
         y: 6
-        width: 24
-        height: 32
+        width: 26
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -722,42 +594,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: db41ba45cfae19330800000000000000
-      internalID: 3716009537030526141
+      spriteID: 1d22c551a0128a6c0800000000000000
+      internalID: -4132016330920680751
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 4. X hijau_24
+      name: YA BURUNG_19
       rect:
         serializedVersion: 2
-        x: 200
-        y: 7
-        width: 33
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 46f5d5b5db60e6020800000000000000
-      internalID: 2336812667003297636
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 4. X hijau_25
-      rect:
-        serializedVersion: 2
-        x: 248
-        y: 6
+        x: 203
+        y: 5
         width: 27
-        height: 32
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -766,8 +616,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9e2d635897d205f80800000000000000
-      internalID: -8119940128199748887
+      spriteID: 1dbb4157ee3022cf0800000000000000
+      internalID: -278655904242156591
       vertices: []
       indices: 
       edges: []
@@ -786,32 +636,26 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      4. X hijau_0: -3129095153936641551
-      4. X hijau_1: -9173708067726040930
-      4. X hijau_10: 8382265032875881053
-      4. X hijau_11: -3258122236590329038
-      4. X hijau_12: -2082434691247169228
-      4. X hijau_13: 8204789232023589068
-      4. X hijau_14: 970997469801230719
-      4. X hijau_15: -1046794672946635863
-      4. X hijau_16: -8406773969986578830
-      4. X hijau_17: 4967190185208282446
-      4. X hijau_18: -2393619556864393049
-      4. X hijau_19: 3122476226003465664
-      4. X hijau_2: 2656369681088109306
-      4. X hijau_20: -6428351058755086952
-      4. X hijau_21: -6358631233611174795
-      4. X hijau_22: 7638251092379271976
-      4. X hijau_23: 3716009537030526141
-      4. X hijau_24: 2336812667003297636
-      4. X hijau_25: -8119940128199748887
-      4. X hijau_3: -7397916630873481545
-      4. X hijau_4: 8208086575011635887
-      4. X hijau_5: -3411521474346958110
-      4. X hijau_6: 345463028586362486
-      4. X hijau_7: -6453526507349477086
-      4. X hijau_8: -7349942418570697969
-      4. X hijau_9: 4047833941624987349
+      YA BURUNG_0: 2522436320535771236
+      YA BURUNG_1: 2189089842041209566
+      YA BURUNG_10: 7288869979739172278
+      YA BURUNG_11: 4175528172141497471
+      YA BURUNG_12: 2351509454671128925
+      YA BURUNG_13: -4224836959988658553
+      YA BURUNG_14: -646743123922628022
+      YA BURUNG_15: 5587060919574267840
+      YA BURUNG_16: 7762002443956759022
+      YA BURUNG_17: -367127661792218142
+      YA BURUNG_18: -4132016330920680751
+      YA BURUNG_19: -278655904242156591
+      YA BURUNG_2: -4041380619731460434
+      YA BURUNG_3: -4468125060726531874
+      YA BURUNG_4: 2602610170021845260
+      YA BURUNG_5: -1401765415329592397
+      YA BURUNG_6: -9176739671001422405
+      YA BURUNG_7: -4839868361360980411
+      YA BURUNG_8: -2211398564882033810
+      YA BURUNG_9: 6794211971625085517
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

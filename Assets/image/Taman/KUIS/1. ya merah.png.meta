@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 81e7d9c3f236cfc4689707d616b8804d
+guid: f6f432ffc51cc774fa87c6f1dc2408ba
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -59,39 +59,6 @@ TextureImporter:
   - first:
       213: -917928819743232326
     second: ya merah_18
-  - first:
-      213: 6416093860009067886
-    second: ya merah_19
-  - first:
-      213: -5326788702970040935
-    second: ya merah_20
-  - first:
-      213: -2759173703850002905
-    second: ya merah_21
-  - first:
-      213: -3790942778096660364
-    second: ya merah_22
-  - first:
-      213: 6783035553510730826
-    second: ya merah_23
-  - first:
-      213: 7499488593808322785
-    second: ya merah_24
-  - first:
-      213: -1507998198803527814
-    second: ya merah_25
-  - first:
-      213: 7295638751236423398
-    second: ya merah_26
-  - first:
-      213: -6336448087421564577
-    second: ya merah_27
-  - first:
-      213: -5831606044427719228
-    second: ya merah_28
-  - first:
-      213: 6381042323705667811
-    second: ya merah_29
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -216,9 +183,9 @@ TextureImporter:
       name: ya merah_0
       rect:
         serializedVersion: 2
-        x: 119
+        x: 0
         y: 42
-        width: 20
+        width: 19
         height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -238,7 +205,7 @@ TextureImporter:
       name: ya merah_1
       rect:
         serializedVersion: 2
-        x: 139
+        x: 19
         y: 42
         width: 16
         height: 20
@@ -260,7 +227,7 @@ TextureImporter:
       name: ya merah_2
       rect:
         serializedVersion: 2
-        x: 155
+        x: 35
         y: 41
         width: 18
         height: 21
@@ -282,7 +249,7 @@ TextureImporter:
       name: ya merah_3
       rect:
         serializedVersion: 2
-        x: 173
+        x: 53
         y: 41
         width: 8
         height: 21
@@ -304,7 +271,7 @@ TextureImporter:
       name: ya merah_4
       rect:
         serializedVersion: 2
-        x: 188
+        x: 68
         y: 42
         width: 19
         height: 20
@@ -326,7 +293,7 @@ TextureImporter:
       name: ya merah_5
       rect:
         serializedVersion: 2
-        x: 206
+        x: 86
         y: 41
         width: 16
         height: 17
@@ -348,7 +315,7 @@ TextureImporter:
       name: ya merah_6
       rect:
         serializedVersion: 2
-        x: 222
+        x: 102
         y: 42
         width: 23
         height: 16
@@ -370,7 +337,7 @@ TextureImporter:
       name: ya merah_7
       rect:
         serializedVersion: 2
-        x: 246
+        x: 126
         y: 41
         width: 16
         height: 17
@@ -392,7 +359,7 @@ TextureImporter:
       name: ya merah_8
       rect:
         serializedVersion: 2
-        x: 269
+        x: 149
         y: 42
         width: 18
         height: 20
@@ -414,7 +381,7 @@ TextureImporter:
       name: ya merah_9
       rect:
         serializedVersion: 2
-        x: 288
+        x: 168
         y: 42
         width: 15
         height: 20
@@ -436,7 +403,7 @@ TextureImporter:
       name: ya merah_10
       rect:
         serializedVersion: 2
-        x: 304
+        x: 184
         y: 42
         width: 17
         height: 20
@@ -458,7 +425,7 @@ TextureImporter:
       name: ya merah_11
       rect:
         serializedVersion: 2
-        x: 321
+        x: 201
         y: 42
         width: 20
         height: 20
@@ -480,7 +447,7 @@ TextureImporter:
       name: ya merah_12
       rect:
         serializedVersion: 2
-        x: 339
+        x: 219
         y: 42
         width: 18
         height: 20
@@ -502,7 +469,7 @@ TextureImporter:
       name: ya merah_13
       rect:
         serializedVersion: 2
-        x: 358
+        x: 238
         y: 41
         width: 7
         height: 21
@@ -524,10 +491,10 @@ TextureImporter:
       name: ya merah_14
       rect:
         serializedVersion: 2
-        x: 0
-        y: 7
-        width: 31
-        height: 27
+        x: 50
+        y: 6
+        width: 32
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -546,10 +513,10 @@ TextureImporter:
       name: ya merah_15
       rect:
         serializedVersion: 2
-        x: 42
-        y: 7
-        width: 20
-        height: 27
+        x: 91
+        y: 6
+        width: 22
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -568,10 +535,10 @@ TextureImporter:
       name: ya merah_16
       rect:
         serializedVersion: 2
-        x: 72
-        y: 7
-        width: 24
-        height: 27
+        x: 122
+        y: 6
+        width: 25
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -590,10 +557,10 @@ TextureImporter:
       name: ya merah_17
       rect:
         serializedVersion: 2
-        x: 104
-        y: 7
-        width: 28
-        height: 27
+        x: 153
+        y: 6
+        width: 30
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -612,10 +579,10 @@ TextureImporter:
       name: ya merah_18
       rect:
         serializedVersion: 2
-        x: 141
-        y: 7
-        width: 25
-        height: 27
+        x: 191
+        y: 6
+        width: 26
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -626,248 +593,6 @@ TextureImporter:
       bones: []
       spriteID: abe6c121a9cd243f0800000000000000
       internalID: -917928819743232326
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya merah_19
-      rect:
-        serializedVersion: 2
-        x: 178
-        y: 6
-        width: 9
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e65c76b2f5b8a0950800000000000000
-      internalID: 6416093860009067886
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya merah_20
-      rect:
-        serializedVersion: 2
-        x: 215
-        y: 7
-        width: 31
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 99d28eda5e17316b0800000000000000
-      internalID: -5326788702970040935
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya merah_21
-      rect:
-        serializedVersion: 2
-        x: 257
-        y: 16
-        width: 14
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 726fb64922275b9d0800000000000000
-      internalID: -2759173703850002905
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya merah_22
-      rect:
-        serializedVersion: 2
-        x: 282
-        y: 7
-        width: 21
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 47057bbe0add36bc0800000000000000
-      internalID: -3790942778096660364
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya merah_23
-      rect:
-        serializedVersion: 2
-        x: 314
-        y: 16
-        width: 14
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a4c2ad9d5ee222e50800000000000000
-      internalID: 6783035553510730826
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya merah_24
-      rect:
-        serializedVersion: 2
-        x: 339
-        y: 7
-        width: 23
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1e0f90f5429831860800000000000000
-      internalID: 7499488593808322785
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya merah_25
-      rect:
-        serializedVersion: 2
-        x: 372
-        y: 16
-        width: 14
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a77036eb0a3821be0800000000000000
-      internalID: -1507998198803527814
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya merah_26
-      rect:
-        serializedVersion: 2
-        x: 397
-        y: 7
-        width: 27
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6ee75015ac05f3560800000000000000
-      internalID: 7295638751236423398
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya merah_27
-      rect:
-        serializedVersion: 2
-        x: 435
-        y: 16
-        width: 14
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f59c883590a6018a0800000000000000
-      internalID: -6336448087421564577
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya merah_28
-      rect:
-        serializedVersion: 2
-        x: 460
-        y: 7
-        width: 25
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4cd6dd32339f11fa0800000000000000
-      internalID: -5831606044427719228
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ya merah_29
-      rect:
-        serializedVersion: 2
-        x: 496
-        y: 6
-        width: 9
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3e0a5396f240e8850800000000000000
-      internalID: 6381042323705667811
       vertices: []
       indices: 
       edges: []
@@ -897,18 +622,7 @@ TextureImporter:
       ya merah_16: -3912023427478506693
       ya merah_17: 3530596543607270039
       ya merah_18: -917928819743232326
-      ya merah_19: 6416093860009067886
       ya merah_2: -1948440517428263397
-      ya merah_20: -5326788702970040935
-      ya merah_21: -2759173703850002905
-      ya merah_22: -3790942778096660364
-      ya merah_23: 6783035553510730826
-      ya merah_24: 7499488593808322785
-      ya merah_25: -1507998198803527814
-      ya merah_26: 7295638751236423398
-      ya merah_27: -6336448087421564577
-      ya merah_28: -5831606044427719228
-      ya merah_29: 6381042323705667811
       ya merah_3: 4745296043436156999
       ya merah_4: -7791985417245622683
       ya merah_5: -5408567729116936872

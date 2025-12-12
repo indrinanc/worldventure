@@ -276,7 +276,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 22372486}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1032918420}
+        m_TargetAssemblyTypeName: LearnPanelManager, Assembly-CSharp
+        m_MethodName: ShowItem
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 5
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &22372486
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -684,14 +696,14 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1032918415}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 1032918420}
+        m_TargetAssemblyTypeName: LearnPanelManager, Assembly-CSharp
+        m_MethodName: ShowItem
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 8
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -1375,7 +1387,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 303068972}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1032918420}
+        m_TargetAssemblyTypeName: LearnPanelManager, Assembly-CSharp
+        m_MethodName: ShowItem
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 7
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &303068972
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2759,7 +2783,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 680639342}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1032918420}
+        m_TargetAssemblyTypeName: LearnPanelManager, Assembly-CSharp
+        m_MethodName: ShowItem
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &680639342
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4193,8 +4229,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -418.15, y: -228.85}
-  m_SizeDelta: {x: 237.5037, y: 262.2994}
+  m_AnchoredPosition: {x: -337.1, y: -333}
+  m_SizeDelta: {x: 400, y: 600}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1012695255
 MonoBehaviour:
@@ -4216,7 +4252,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: -410180556560909500, guid: c1d94d5e459959443b9e48d5380e2cbc, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4316,7 +4352,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1020715449}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1032918420}
+        m_TargetAssemblyTypeName: LearnPanelManager, Assembly-CSharp
+        m_MethodName: ShowItem
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 6
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1020715449
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4386,34 +4434,35 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6f8176ccb91441e4b918608351f81511, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  category: 0
   allQuestions:
-  - questionImage: {fileID: 0}
+  - questionImage: {fileID: -3704511491881735792, guid: 7ab832f8abf7b114fb3b1bd52d3f8ddc, type: 3}
+    correctAnswer: {fileID: -3627008895536746779, guid: bfda08ba378385b40ab9c3e8888017ec, type: 3}
+  - questionImage: {fileID: -6146006667411019940, guid: 379b3f4f410d4674bbfeee4464df2abc, type: 3}
     correctAnswer: {fileID: -2413542442125681665, guid: ff7b8f480c054904e89d75b34192ad6e, type: 3}
-  - questionImage: {fileID: 0}
-    correctAnswer: {fileID: -2413542442125681665, guid: ff7b8f480c054904e89d75b34192ad6e, type: 3}
-  - questionImage: {fileID: 0}
+  - questionImage: {fileID: 7449262232412107611, guid: e6b8c5c344419164bb3a773f41240982, type: 3}
     correctAnswer: {fileID: -8059275894804642583, guid: 90a706bd92dac4443b054c5643590db5, type: 3}
-  - questionImage: {fileID: 0}
+  - questionImage: {fileID: 6535042288003266429, guid: f7a607dd952c7a14c8ba27f784ece6eb, type: 3}
     correctAnswer: {fileID: 5709105128863758581, guid: 8256c730e87ad6442add2412744272d8, type: 3}
-  - questionImage: {fileID: 0}
+  - questionImage: {fileID: 5476908043523575851, guid: 5695d1ced0abb614cb370595662550b5, type: 3}
     correctAnswer: {fileID: -7493051313432975243, guid: ac90a9a98ed15b845b055d3716a4f001, type: 3}
-  - questionImage: {fileID: 0}
+  - questionImage: {fileID: 1109069482218957341, guid: 4309dc132a26c4a4787657fd64b305cf, type: 3}
     correctAnswer: {fileID: 1343914269452245800, guid: 4a7f1a27b24f0af4aa190cc3f0392115, type: 3}
-  - questionImage: {fileID: 0}
+  - questionImage: {fileID: 8526959502265232342, guid: ac6502e8122a3cf4e9b87329236ca47d, type: 3}
     correctAnswer: {fileID: -723207125568437569, guid: 3e83f7114877cec439cf15f2730f2d44, type: 3}
-  - questionImage: {fileID: 0}
-    correctAnswer: {fileID: -1678083319247056654, guid: fddb82c5ca033804b99ef963920a9851, type: 3}
-  - questionImage: {fileID: 0}
+  - questionImage: {fileID: 123855689713221283, guid: b57be980f7bace2459946d01106f1376, type: 3}
+    correctAnswer: {fileID: -2801045511363638471, guid: aec854f3448b5af49a474938861f3d86, type: 3}
+  - questionImage: {fileID: -415053273616930858, guid: f58685f185c55624782cc0a64676fc87, type: 3}
     correctAnswer: {fileID: -1678083319247056654, guid: fddb82c5ca033804b99ef963920a9851, type: 3}
   allAnswerOptions:
-  - {fileID: 0}
+  - {fileID: -3627008895536746779, guid: bfda08ba378385b40ab9c3e8888017ec, type: 3}
   - {fileID: -2413542442125681665, guid: ff7b8f480c054904e89d75b34192ad6e, type: 3}
   - {fileID: -8059275894804642583, guid: 90a706bd92dac4443b054c5643590db5, type: 3}
   - {fileID: 5709105128863758581, guid: 8256c730e87ad6442add2412744272d8, type: 3}
   - {fileID: -7493051313432975243, guid: ac90a9a98ed15b845b055d3716a4f001, type: 3}
   - {fileID: 1343914269452245800, guid: 4a7f1a27b24f0af4aa190cc3f0392115, type: 3}
   - {fileID: -723207125568437569, guid: 3e83f7114877cec439cf15f2730f2d44, type: 3}
-  - {fileID: 0}
+  - {fileID: -2801045511363638471, guid: aec854f3448b5af49a474938861f3d86, type: 3}
   - {fileID: -1678083319247056654, guid: fddb82c5ca033804b99ef963920a9851, type: 3}
   questionImageUI: {fileID: 36655730}
   answerImagesUI:
@@ -4429,9 +4478,7 @@ MonoBehaviour:
   maxQuestions: 9
   correctPanel: {fileID: 1802003681}
   wrongPanel: {fileID: 1538298496}
-  wrongChosenColorImage: {fileID: 1188694061}
-  correctWordImage: {fileID: 21959416}
-  correctColorImage: {fileID: 1154419094}
+  wrongChosenImage: {fileID: 1188694061}
   pilihPanel: {fileID: 166484907}
   kuisPanel: {fileID: 1675350474}
 --- !u!114 &1032918418
@@ -4481,24 +4528,24 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LearnPanelManager
   allItems:
-  - popupMainSprite: {fileID: 0}
-    popupLabelSprite: {fileID: 0}
-  - popupMainSprite: {fileID: -2413542442125681665, guid: ff7b8f480c054904e89d75b34192ad6e, type: 3}
-    popupLabelSprite: {fileID: 0}
-  - popupMainSprite: {fileID: -8059275894804642583, guid: 90a706bd92dac4443b054c5643590db5, type: 3}
-    popupLabelSprite: {fileID: 0}
-  - popupMainSprite: {fileID: 5709105128863758581, guid: 8256c730e87ad6442add2412744272d8, type: 3}
-    popupLabelSprite: {fileID: 0}
-  - popupMainSprite: {fileID: -7493051313432975243, guid: ac90a9a98ed15b845b055d3716a4f001, type: 3}
-    popupLabelSprite: {fileID: 0}
-  - popupMainSprite: {fileID: 1343914269452245800, guid: 4a7f1a27b24f0af4aa190cc3f0392115, type: 3}
-    popupLabelSprite: {fileID: 0}
-  - popupMainSprite: {fileID: -723207125568437569, guid: 3e83f7114877cec439cf15f2730f2d44, type: 3}
-    popupLabelSprite: {fileID: 0}
-  - popupMainSprite: {fileID: 0}
-    popupLabelSprite: {fileID: 0}
-  - popupMainSprite: {fileID: -1678083319247056654, guid: fddb82c5ca033804b99ef963920a9851, type: 3}
-    popupLabelSprite: {fileID: 0}
+  - popupMainSprite: {fileID: -5194645406913086447, guid: d017126ebb35d464e95bac367c116054, type: 3}
+    popupLabelSprite: {fileID: 384073651897333682, guid: 8dad16fd723f4654fa7124cb49c1d402, type: 3}
+  - popupMainSprite: {fileID: 2284107065911249025, guid: f998f1dbfb67f62428b11ed2853d7e6d, type: 3}
+    popupLabelSprite: {fileID: -7493368945370750917, guid: 05f69cccb00108d4f8f4d5c6bdf2f983, type: 3}
+  - popupMainSprite: {fileID: -5422711014219538072, guid: 39a3b14b3ab6a614b8167d20bf037f1d, type: 3}
+    popupLabelSprite: {fileID: -5221511446037068676, guid: 1a122564b753b5549999cebab69a3acf, type: 3}
+  - popupMainSprite: {fileID: -56615587540451618, guid: 93174bcf4ca588948b104f99e1174677, type: 3}
+    popupLabelSprite: {fileID: 2330457463229919540, guid: eb87f9c8271094a4284aeda3421284a0, type: 3}
+  - popupMainSprite: {fileID: -7374979180114911504, guid: bdaa22d107625134baa98d796d61fea9, type: 3}
+    popupLabelSprite: {fileID: 962746480344357458, guid: 4a2df5f4a6fb65149a5b72f6d697786f, type: 3}
+  - popupMainSprite: {fileID: 7545348057057627317, guid: b9281d182f9e0d94483e5968670d002a, type: 3}
+    popupLabelSprite: {fileID: 7701198794101006280, guid: d4038cfa02be6864ca4fded571eb2684, type: 3}
+  - popupMainSprite: {fileID: 2199338790889904534, guid: a60a575d6ff80c8418b8728be580044c, type: 3}
+    popupLabelSprite: {fileID: -9214982734272104406, guid: 8946071faa334974f98755b287f6d7b1, type: 3}
+  - popupMainSprite: {fileID: 8717973140686291188, guid: 21b7cfb4cd2e25943b3b82f4b2be30f0, type: 3}
+    popupLabelSprite: {fileID: -1027589198686549544, guid: a24d2269d68c29143b2af44c16c570f0, type: 3}
+  - popupMainSprite: {fileID: 1685165552153062413, guid: c145775ba3fcf404ca584251009a1ee2, type: 3}
+    popupLabelSprite: {fileID: -7834171526624850450, guid: 238a5bc90d79e814cace9b7ac726473a, type: 3}
   popupPanel: {fileID: 687585354}
   popupMainImage: {fileID: 780956381}
   popupLabelImage: {fileID: 575854950}
@@ -4584,7 +4631,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1034842569}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1032918420}
+        m_TargetAssemblyTypeName: LearnPanelManager, Assembly-CSharp
+        m_MethodName: ShowItem
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 2
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1034842569
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5772,7 +5831,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 387.32275, y: -250}
+  m_AnchoredPosition: {x: 338, y: -214}
   m_SizeDelta: {x: 257.5657, y: 80.4929}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1316058775
@@ -6294,7 +6353,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1420491826}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1032918420}
+        m_TargetAssemblyTypeName: LearnPanelManager, Assembly-CSharp
+        m_MethodName: ShowItem
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1420491826
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7045,7 +7116,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1526803233}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1032918420}
+        m_TargetAssemblyTypeName: LearnPanelManager, Assembly-CSharp
+        m_MethodName: ShowItem
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1526803233
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7803,7 +7886,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1657047649}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1032918420}
+        m_TargetAssemblyTypeName: LearnPanelManager, Assembly-CSharp
+        m_MethodName: ShowItem
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 4
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1657047649
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8035,8 +8130,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -50}
-  m_SizeDelta: {x: 1066.1808, y: 545.41}
+  m_AnchoredPosition: {x: 31.497, y: -42.622}
+  m_SizeDelta: {x: 870.57, y: 423.25}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1775032819
 MonoBehaviour:
@@ -9271,7 +9366,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2103566034}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1032918420}
+        m_TargetAssemblyTypeName: LearnPanelManager, Assembly-CSharp
+        m_MethodName: ShowItem
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 3
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2103566034
 MonoBehaviour:
   m_ObjectHideFlags: 0

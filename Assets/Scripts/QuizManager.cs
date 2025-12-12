@@ -8,29 +8,35 @@ public class QuizManager : MonoBehaviour
 
     [Header("Kategori (hanya untuk label, logika tetap sama)")]
     public QuizCategory category;
-.
+
     [Header("Data Pertanyaan")]
-    public List<QuestionData> allQuestions;      // Isi per scene
-    public List<Sprite> allAnswerOptions;        // Isi per scene (hewan/warna/buah)
+    public List<QuestionData> allQuestions;
+    public List<Sprite> allAnswerOptions;
 
     [Header("UI Soal & Jawaban")]
     public Image questionImageUI;
-    public Image[] answerImagesUI;               // 4 slot
-    public Button[] answerButtons;               // 4 tombol
+    public Image[] answerImagesUI;     // 4 slot
+    public Button[] answerButtons;     // 4 tombol
 
     [Header("Pengaturan Kuis")]
-    public int maxQuestions = 9;                 // Set per scene
+    public int maxQuestions = 9;
 
     [Header("Panel Feedback")]
-    public GameObject correctPanel;              // BenarPanel isinya 1 gambar statis (set di Inspector)
+    public GameObject correctPanel;    // BenarPanel isinya 1 gambar statis
     public GameObject wrongPanel;
 
     [Header("Gambar di Panel Salah")]
-    public Image wrongChosenImage;               // Menampilkan pilihan user saat salah (opsional)
+    public Image wrongChosenImage;     // opsional
 
     [Header("Panel Navigasi (opsional)")]
-    public GameObject pilihPanel;                // Panel tujuan setelah kuis selesai (opsional)
-    public GameObject kuisPanel;                 // Panel kuis yang dimatikan (opsional)
+    public GameObject pilihPanel;
+    public GameObject kuisPanel;
+
+    [Header("Audio")]
+    public AudioSource audioSource;    // tambahkan komponen AudioSource di GameObject ini
+    public AudioClip questionClip;     // suara "Apakah objek itu?"
+    public AudioClip correctClip;      // suara "Anda benar"
+    public AudioClip wrongClip;        // suara "Anda salah"
 
     private List<QuestionData> questionQueue;
     private QuestionData currentQuestion;
@@ -57,6 +63,9 @@ public class QuizManager : MonoBehaviour
             Debug.LogError($"[{name}] allAnswerOptions minimal 4 sprite. Saat ini: {(allAnswerOptions == null ? 0 : allAnswerOptions.Count)}");
             return;
         }
+
+        // Auto-ambil AudioSource kalau lupa drag
+        if (audioSource == null) audioSource = GetComponent<AudioSource>();
 
         questionQueue = new List<QuestionData>(allQuestions);
         ShuffleList(questionQueue);
@@ -87,6 +96,9 @@ public class QuizManager : MonoBehaviour
 
         if (questionImageUI != null)
             questionImageUI.sprite = currentQuestion.questionImage;
+
+        // ▶️ Play audio pertanyaan (sama untuk semua soal)
+        PlayClip(questionClip);
 
         // ===== Bangun 4 opsi jawaban: 1 benar + 3 salah random (kecuali benar) =====
         List<Sprite> options = new List<Sprite> { currentQuestion.correctAnswer };
@@ -121,20 +133,23 @@ public class QuizManager : MonoBehaviour
         if (answerButtons == null || answerButtons.Length == 0) return;
         if (!answerButtons[0].interactable) return;
 
-        Debug.Log($"[{category}] Klik jawaban index: {index}");
-
         if (index == correctAnswerIndex)
         {
             score++;
             SetAnswerButtonsInteractable(false);
 
-            // ✅ BenarPanel cuma tampil gambar statis (tidak perlu set sprite dari kode)
+            // ▶️ Play audio benar
+            PlayClip(correctClip);
+
             if (correctPanel != null)
                 correctPanel.SetActive(true);
         }
         else
         {
-            // ✅ Panel salah menampilkan pilihan user (opsional)
+            // ▶️ Play audio salah
+            PlayClip(wrongClip);
+
+            // Panel salah menampilkan pilihan user (opsional)
             if (wrongChosenImage != null && answerImagesUI != null && index < answerImagesUI.Length && answerImagesUI[index] != null)
                 wrongChosenImage.sprite = answerImagesUI[index].sprite;
 
@@ -156,12 +171,20 @@ public class QuizManager : MonoBehaviour
 
     void EndQuiz()
     {
-        Debug.Log($"[{category}] Kuis selesai! Skor akhir: {score} / {(questionQueue == null ? 0 : questionQueue.Count)}");
-
         if (kuisPanel != null) kuisPanel.SetActive(false);
         if (pilihPanel != null) pilihPanel.SetActive(true);
     }
 
+    // -------------------- AUDIO HELPER --------------------
+    void PlayClip(AudioClip clip)
+    {
+        if (audioSource == null || clip == null) return;
+
+        audioSource.Stop();            // supaya tidak tumpang tindih
+        audioSource.PlayOneShot(clip); // play suara sekali
+    }
+
+    // -------------------- UTILS --------------------
     void ShuffleList<T>(List<T> list)
     {
         for (int i = 0; i < list.Count; i++)

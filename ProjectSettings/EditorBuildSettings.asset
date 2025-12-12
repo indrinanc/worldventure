@@ -11,10 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/zoo.unity
     guid: 9f8b26196377d98439b516873f73acd5
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/market.unity
     guid: 59109492f7784c944a535774c4d73b24
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/park.unity
     guid: d2e291d92958164428aa6b7502249244
   m_configObjects:

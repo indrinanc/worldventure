@@ -1,4 +1,0 @@
-repository "Worldventure/Worldventure@18968341081394@cloud"
-  path "/"
-    br "/main"
-    co "/main"

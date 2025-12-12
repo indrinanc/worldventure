@@ -542,7 +542,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 38553951}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 839849162}
+        m_TargetAssemblyTypeName: LearnPanelManager, Assembly-CSharp
+        m_MethodName: ShowItem
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 5
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &38553951
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -737,7 +749,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 67397211}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 839849162}
+        m_TargetAssemblyTypeName: LearnPanelManager, Assembly-CSharp
+        m_MethodName: ShowItem
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &67397211
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2845,7 +2869,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 6080353112490529596, guid: 06cbd2c58cc16ee48a8312b7fab49bc8, type: 3}
+  m_Sprite: {fileID: -5980144141832794486, guid: 3d5d91742e886154192c68bea5357f98, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3164,7 +3188,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 688246592}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 839849162}
+        m_TargetAssemblyTypeName: LearnPanelManager, Assembly-CSharp
+        m_MethodName: ShowItem
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &688246592
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3715,6 +3751,7 @@ GameObject:
   - component: {fileID: 839849160}
   - component: {fileID: 839849159}
   - component: {fileID: 839849161}
+  - component: {fileID: 839849162}
   m_Layer: 0
   m_Name: Park Management
   m_TagString: Untagged
@@ -3768,6 +3805,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6f8176ccb91441e4b918608351f81511, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::QuizManager
+  category: 0
   allQuestions:
   - questionImage: {fileID: 6547733783043178292, guid: 4e3a2fa8d25ac694caff9be4dcb961f7, type: 3}
     correctAnswer: {fileID: 347753790173766983, guid: 4562de3d81317a44db37825ebc82b6ce, type: 3}
@@ -3805,11 +3843,41 @@ MonoBehaviour:
   maxQuestions: 7
   correctPanel: {fileID: 72380831}
   wrongPanel: {fileID: 696317643}
-  wrongChosenColorImage: {fileID: 10171972}
+  wrongChosenImage: {fileID: 10171972}
   correctWordImage: {fileID: 371444622}
   correctColorImage: {fileID: 1200679746}
   pilihPanel: {fileID: 422633233}
   kuisPanel: {fileID: 658314794}
+--- !u!114 &839849162
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 839849158}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e3dacf5d967b0e45825b6b036688802, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::LearnPanelManager
+  allItems:
+  - popupMainSprite: {fileID: -1370572689930978334, guid: 8d142318f84aafe49b7fe893bcacb617, type: 3}
+    popupLabelSprite: {fileID: 1577803503355288185, guid: 044551e83d1fc584ea9eb4da419d09a0, type: 3}
+  - popupMainSprite: {fileID: 4779154525307747254, guid: df28503eb6de1ce41a6bd1886674d0a8, type: 3}
+    popupLabelSprite: {fileID: -7910312829733294347, guid: b4de2a9dbbdfe2a478be0c04a3705f3e, type: 3}
+  - popupMainSprite: {fileID: -1487549885037358220, guid: e2a80c248319300408926a98108ceebe, type: 3}
+    popupLabelSprite: {fileID: 3667823297439219613, guid: 5157c4ca4857cd24190d0622024e95ed, type: 3}
+  - popupMainSprite: {fileID: -257842446977965501, guid: 62c8716984e583945a5790e526b4479d, type: 3}
+    popupLabelSprite: {fileID: 5275587752316290064, guid: e38152d76a5cc9d4ba1c743d50a494ee, type: 3}
+  - popupMainSprite: {fileID: -6358153276424526208, guid: c675830b1c3af3247a12fd28210475a2, type: 3}
+    popupLabelSprite: {fileID: -8876150822317353886, guid: fe1175f6629fc274f9a5013499b0fbbb, type: 3}
+  - popupMainSprite: {fileID: 4889777118825730451, guid: 89a2dfa5ea6c74840adf635004a20256, type: 3}
+    popupLabelSprite: {fileID: 4883922447558134563, guid: ed66be819148d7343af073d4eda5f836, type: 3}
+  - popupMainSprite: {fileID: -7601053257306053631, guid: 1ceb520e9175ed54e882446402b9e2af, type: 3}
+    popupLabelSprite: {fileID: -8633225054701724059, guid: 6c61a34a021930941b8c02879971369d, type: 3}
+  popupPanel: {fileID: 1554531284}
+  popupMainImage: {fileID: 568864663}
+  popupLabelImage: {fileID: 305760043}
 --- !u!1 &995064211
 GameObject:
   m_ObjectHideFlags: 0
@@ -4927,7 +4995,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1142027529}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 839849162}
+        m_TargetAssemblyTypeName: LearnPanelManager, Assembly-CSharp
+        m_MethodName: ShowItem
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1142027529
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5394,7 +5474,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1289848475}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 839849162}
+        m_TargetAssemblyTypeName: LearnPanelManager, Assembly-CSharp
+        m_MethodName: ShowItem
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 4
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1289848475
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6569,7 +6661,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1662620251}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 839849162}
+        m_TargetAssemblyTypeName: LearnPanelManager, Assembly-CSharp
+        m_MethodName: ShowItem
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 3
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1662620251
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6689,7 +6793,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1684194596}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 839849162}
+        m_TargetAssemblyTypeName: LearnPanelManager, Assembly-CSharp
+        m_MethodName: ShowItem
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 2
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1684194596
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7530,7 +7646,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 839849159}
         m_TargetAssemblyTypeName: park, Assembly-CSharp
-        m_MethodName: backButton1
+        m_MethodName: backButton3
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -7560,7 +7676,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 6080353112490529596, guid: 06cbd2c58cc16ee48a8312b7fab49bc8, type: 3}
+  m_Sprite: {fileID: -5980144141832794486, guid: 3d5d91742e886154192c68bea5357f98, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

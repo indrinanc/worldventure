@@ -4,40 +4,38 @@ using UnityEngine.UI;
 
 public class QuizManager : MonoBehaviour
 {
+    public enum QuizCategory { Hewan, Warna, Buah }
+
+    [Header("Kategori (hanya untuk label, logika tetap sama)")]
+    public QuizCategory category;
+.
     [Header("Data Pertanyaan")]
-    public List<QuestionData> allQuestions;      // List pertanyaan untuk kategori ini (hewan/warna/buah)
-    public List<Sprite> allAnswerOptions;        // Semua kemungkinan jawaban di kategori ini (misal 9 warna)
+    public List<QuestionData> allQuestions;      // Isi per scene
+    public List<Sprite> allAnswerOptions;        // Isi per scene (hewan/warna/buah)
 
     [Header("UI Soal & Jawaban")]
-    public Image questionImageUI;                // Gambar soal
-    public Image[] answerImagesUI;               // 4 gambar opsi jawaban
-    public Button[] answerButtons;               // 4 tombol jawaban (urut sama dgn answerImagesUI)
+    public Image questionImageUI;
+    public Image[] answerImagesUI;               // 4 slot
+    public Button[] answerButtons;               // 4 tombol
 
     [Header("Pengaturan Kuis")]
-    public int maxQuestions = 9;                 // Jumlah soal yg dipakai di kategori ini
+    public int maxQuestions = 9;                 // Set per scene
 
     [Header("Panel Feedback")]
-    public GameObject correctPanel;
+    public GameObject correctPanel;              // BenarPanel isinya 1 gambar statis (set di Inspector)
     public GameObject wrongPanel;
 
     [Header("Gambar di Panel Salah")]
-    public Image wrongChosenColorImage;   // Image di panel salah, menampilkan warna yang dipilih
+    public Image wrongChosenImage;               // Menampilkan pilihan user saat salah (opsional)
 
+    [Header("Panel Navigasi (opsional)")]
+    public GameObject pilihPanel;                // Panel tujuan setelah kuis selesai (opsional)
+    public GameObject kuisPanel;                 // Panel kuis yang dimatikan (opsional)
 
-// 🔽 TAMBAHAN BARU UNTUK PANEL BENAR
-    [Header("Gambar di Panel Benar")]
-    public Image correctWordImage;   // Image di bagian atas panel (tulisan warna)
-    public Image correctColorImage;  // Image di bagian bawah panel (kotak warna)
-
-    [Header("Panel Navigasi")]
-    public GameObject pilihPanel;    // panel yang ingin dituju setelah kuis selesai
-    public GameObject kuisPanel;     // panel kuis untuk dimatikan
-
-
-    private List<QuestionData> questionQueue;    // Pertanyaan yang sudah diacak dan dipakai
+    private List<QuestionData> questionQueue;
     private QuestionData currentQuestion;
     private int currentQuestionIndex = -1;
-    private int correctAnswerIndex = -1;         // index 0–3 posisi jawaban benar di opsi
+    private int correctAnswerIndex = -1;
     private int score = 0;
 
     void Start()
@@ -46,36 +44,40 @@ public class QuizManager : MonoBehaviour
         NextQuestion();
     }
 
-    // ------------------------------------------------
-    // SETUP AWAL KUIS
-    // ------------------------------------------------
     void SetupQuiz()
     {
-        // Copy & acak semua pertanyaan
+        if (allQuestions == null || allQuestions.Count == 0)
+        {
+            Debug.LogError($"[{name}] allQuestions kosong. Isi dulu di Inspector untuk kategori {category}.");
+            return;
+        }
+
+        if (allAnswerOptions == null || allAnswerOptions.Count < 4)
+        {
+            Debug.LogError($"[{name}] allAnswerOptions minimal 4 sprite. Saat ini: {(allAnswerOptions == null ? 0 : allAnswerOptions.Count)}");
+            return;
+        }
+
         questionQueue = new List<QuestionData>(allQuestions);
         ShuffleList(questionQueue);
 
-        // Pastikan tidak melebihi jumlah pertanyaan yang ada
         int jumlahSoalDipakai = Mathf.Min(maxQuestions, questionQueue.Count);
         questionQueue = questionQueue.GetRange(0, jumlahSoalDipakai);
 
-        // Matikan panel feedback di awal
         if (correctPanel != null) correctPanel.SetActive(false);
         if (wrongPanel != null) wrongPanel.SetActive(false);
 
-        // Pastikan tombol aktif
         SetAnswerButtonsInteractable(true);
     }
 
-    // ------------------------------------------------
-    // TAMPILKAN SOAL BERIKUTNYA
-    // ------------------------------------------------
     void NextQuestion()
     {
+        if (correctPanel != null) correctPanel.SetActive(false);
+        if (wrongPanel != null) wrongPanel.SetActive(false);
+
         currentQuestionIndex++;
 
-        // Kalau sudah tidak ada soal lagi
-        if (currentQuestionIndex >= questionQueue.Count)
+        if (questionQueue == null || currentQuestionIndex >= questionQueue.Count)
         {
             EndQuiz();
             return;
@@ -83,172 +85,97 @@ public class QuizManager : MonoBehaviour
 
         currentQuestion = questionQueue[currentQuestionIndex];
 
-        // Tampilkan gambar soal
-        questionImageUI.sprite = currentQuestion.questionImage;
+        if (questionImageUI != null)
+            questionImageUI.sprite = currentQuestion.questionImage;
 
-        // Siapkan gambar untuk Panel Benar
-        if (correctWordImage != null)
-        {
-            // pakai gambar teks warna yang sama dengan soal
-            correctWordImage.sprite = currentQuestion.questionImage;
-        }
+        // ===== Bangun 4 opsi jawaban: 1 benar + 3 salah random (kecuali benar) =====
+        List<Sprite> options = new List<Sprite> { currentQuestion.correctAnswer };
 
-        if (correctColorImage != null)
-        {
-            // pakai sprite jawaban benar (kotak warna)
-            correctColorImage.sprite = currentQuestion.correctAnswer;
-        }
-
-
-        // ==========================
-        // BANGUN 4 OPSI JAWABAN
-        // ==========================
-        List<Sprite> options = new List<Sprite>();
-
-        // 1) Tambah jawaban benar
-        options.Add(currentQuestion.correctAnswer);
-
-        // 2) Pool jawaban salah = semua opsi jawaban kategori ini
         List<Sprite> wrongPool = new List<Sprite>(allAnswerOptions);
-
-        //    Hapus jawaban benar dari pool supaya tidak kepilih sebagai salah
         wrongPool.Remove(currentQuestion.correctAnswer);
-
-        //    Acak pool jawaban salah
         ShuffleList(wrongPool);
 
-        // 3) Ambil 3 pertama dari pool sebagai jawaban salah
-        int jumlahSalahDibutuhkan = 3;
-        for (int i = 0; i < jumlahSalahDibutuhkan && i < wrongPool.Count; i++)
-        {
+        for (int i = 0; i < 3 && i < wrongPool.Count; i++)
             options.Add(wrongPool[i]);
-        }
 
-        // 4) (Fallback) kalau entah kenapa kurang dari 4 opsi, isi random dari wrongPool
         while (options.Count < 4 && wrongPool.Count > 0)
-        {
             options.Add(wrongPool[Random.Range(0, wrongPool.Count)]);
-        }
 
-        // 5) Acak posisi ke-4 opsi
         ShuffleList(options);
 
-        // 6) Cari di mana posisi jawaban benar setelah diacak
-        for (int i = 0; i < options.Count; i++)
+        correctAnswerIndex = options.IndexOf(currentQuestion.correctAnswer);
+
+        for (int i = 0; i < 4; i++)
         {
-            if (options[i] == currentQuestion.correctAnswer)
-            {
-                correctAnswerIndex = i;
-                break;
-            }
+            if (answerImagesUI != null && i < answerImagesUI.Length && answerImagesUI[i] != null)
+                answerImagesUI[i].sprite = options[i];
         }
 
-        // 7) Pasang sprite ke gambar opsi di UI
-        for (int i = 0; i < answerImagesUI.Length && i < options.Count; i++)
-        {
-            answerImagesUI[i].sprite = options[i];
-        }
-
-        // 8) Aktifkan tombol jawaban lagi (kalau sebelumnya dimatikan waktu benar)
         SetAnswerButtonsInteractable(true);
     }
 
-    // ------------------------------------------------
-    // DIPANGGIL OLEH TOMBOL JAWABAN (PARAMETER 0..3)
-    // ------------------------------------------------
     public void OnAnswerSelected(int index)
     {
-        Debug.Log("Klik jawaban index: " + index);
-        // Kalau tombol lagi dimatikan (misal lagi nunggu user klik "Lanjut"), abaikan
+        if (index < 0 || index > 3) return;
+
+        if (answerButtons == null || answerButtons.Length == 0) return;
         if (!answerButtons[0].interactable) return;
+
+        Debug.Log($"[{category}] Klik jawaban index: {index}");
 
         if (index == correctAnswerIndex)
         {
             score++;
             SetAnswerButtonsInteractable(false);
 
+            // ✅ BenarPanel cuma tampil gambar statis (tidak perlu set sprite dari kode)
             if (correctPanel != null)
-            correctPanel.SetActive(true);  // Panel benar muncul, gambar sudah siap
+                correctPanel.SetActive(true);
         }
-
         else
-{
-            // JAWABAN SALAH
-            Debug.Log("Jawaban salah. Coba lagi!");
+        {
+            // ✅ Panel salah menampilkan pilihan user (opsional)
+            if (wrongChosenImage != null && answerImagesUI != null && index < answerImagesUI.Length && answerImagesUI[index] != null)
+                wrongChosenImage.sprite = answerImagesUI[index].sprite;
 
-            // Set gambar warna yang dipilih ke panel salah
-            if (wrongChosenColorImage != null)
-            {
-                // gunakan sprite dari opsi yang diklik
-                wrongChosenColorImage.sprite = answerImagesUI[index].sprite;
-            }
-
-    // Munculkan panel salah (soal tetap sama, tidak ganti)
-    if (wrongPanel != null) wrongPanel.SetActive(true);
-}
-
+            if (wrongPanel != null)
+                wrongPanel.SetActive(true);
+        }
     }
 
-    // ------------------------------------------------
-    // DIPANGGIL OLEH TOMBOL "LANJUT" DI PANEL BENAR
-    // ------------------------------------------------
     public void OnNextButton()
     {
         if (correctPanel != null) correctPanel.SetActive(false);
         NextQuestion();
     }
 
-    // ------------------------------------------------
-    // DIPANGGIL OLEH TOMBOL "COBA LAGI" / CLOSE DI PANEL SALAH
-    // ------------------------------------------------
     public void OnTryAgainButton()
     {
         if (wrongPanel != null) wrongPanel.SetActive(false);
-        // Tidak ganti soal, user tinggal pilih jawaban lain
     }
 
-    // ------------------------------------------------
-    // KETIKA SEMUA SOAL SELESAI
-    // ------------------------------------------------
     void EndQuiz()
     {
-        Debug.Log("Kuis selesai! Skor akhir: " + score + " / " + questionQueue.Count);
+        Debug.Log($"[{category}] Kuis selesai! Skor akhir: {score} / {(questionQueue == null ? 0 : questionQueue.Count)}");
 
-        // Matikan panel kuis
-        if (kuisPanel != null)
-            kuisPanel.SetActive(false);
-
-        // Munculkan pilih panel
-        if (pilihPanel != null)
-            pilihPanel.SetActive(true);
+        if (kuisPanel != null) kuisPanel.SetActive(false);
+        if (pilihPanel != null) pilihPanel.SetActive(true);
     }
 
-
-    // ------------------------------------------------
-    // UTIL: ACak list generik
-    // ------------------------------------------------
     void ShuffleList<T>(List<T> list)
     {
         for (int i = 0; i < list.Count; i++)
         {
             int rand = Random.Range(i, list.Count);
-            T temp = list[i];
-            list[i] = list[rand];
-            list[rand] = temp;
+            (list[i], list[rand]) = (list[rand], list[i]);
         }
     }
 
-    // ------------------------------------------------
-    // UTIL: SET AKTIF / NONAKTIF TOMBOL JAWABAN
-    // ------------------------------------------------
     void SetAnswerButtonsInteractable(bool value)
     {
-        foreach (Button btn in answerButtons)
-        {
-            if (btn != null)
-                btn.interactable = value;
-        }
-    }
+        if (answerButtons == null) return;
 
-    
+        foreach (Button btn in answerButtons)
+            if (btn != null) btn.interactable = value;
+    }
 }

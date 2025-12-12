@@ -34,7 +34,6 @@ public class QuizManager : MonoBehaviour
 
     [Header("Audio")]
     public AudioSource audioSource;    // tambahkan komponen AudioSource di GameObject ini
-    public AudioClip questionClip;     // suara "Apakah objek itu?"
     public AudioClip correctClip;      // suara "Anda benar"
     public AudioClip wrongClip;        // suara "Anda salah"
 
@@ -98,7 +97,8 @@ public class QuizManager : MonoBehaviour
             questionImageUI.sprite = currentQuestion.questionImage;
 
         // ▶️ Play audio pertanyaan (sama untuk semua soal)
-        PlayClip(questionClip);
+        PlayClip(currentQuestion.questionAudio);
+
 
         // ===== Bangun 4 opsi jawaban: 1 benar + 3 salah random (kecuali benar) =====
         List<Sprite> options = new List<Sprite> { currentQuestion.correctAnswer };

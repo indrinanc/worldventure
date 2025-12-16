@@ -246,13 +246,13 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: ae223ef3f6c97c745a8dd772cc26f39f, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.5
+  m_Volume: 0.075
   m_Pitch: 1
   Loop: 0
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
-  Priority: 128
+  Priority: 50
   DopplerLevel: 1
   MinDistance: 1
   MaxDistance: 500
@@ -1290,8 +1290,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 380, y: -80}
-  m_SizeDelta: {x: 340, y: 420}
+  m_AnchoredPosition: {x: 418.23108, y: -108.231064}
+  m_SizeDelta: {x: 416.4622, y: 476.4622}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &876470358
 MonoBehaviour:
@@ -1369,9 +1369,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -3864439905539908826, guid: 7b8d82d8defe7764a9c694fcd26da687, type: 3}
+  m_Sprite: {fileID: -8581365133390785694, guid: d81acbd2fb7a861458af594a7bacc826, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -2184,8 +2184,8 @@ RectTransform:
   - {fileID: 2076751114}
   - {fileID: 1300709184}
   - {fileID: 1943847763}
-  - {fileID: 1217734944}
   - {fileID: 876470357}
+  - {fileID: 1217734944}
   m_Father: {fileID: 1719048344}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -2720,8 +2720,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -380, y: -80}
-  m_SizeDelta: {x: 340, y: 420}
+  m_AnchoredPosition: {x: -351.97, y: -150.81}
+  m_SizeDelta: {x: 703.94, y: 821.6236}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1943847764
 MonoBehaviour:
@@ -2776,7 +2776,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: zoo
+          m_StringArgument: farm
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1943847765
@@ -2799,9 +2799,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 1183302016919740694, guid: 488cd82b81d39e7458864829a1dbf4bf, type: 3}
+  m_Sprite: {fileID: 5112239380285013376, guid: f5e2661a18633264cb4b5eeac87a637d, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1

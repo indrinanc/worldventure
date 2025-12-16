@@ -3647,9 +3647,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: -400572712040599182, guid: 5f94e38c50ed733418cdb5a6b8f406cd, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -4605,31 +4605,31 @@ MonoBehaviour:
   allItems:
   - popupMainSprite: {fileID: -5194645406913086447, guid: d017126ebb35d464e95bac367c116054, type: 3}
     popupLabelSprite: {fileID: 384073651897333682, guid: 8dad16fd723f4654fa7124cb49c1d402, type: 3}
-    voiceClip: {fileID: 8300000, guid: cb8c497a634fb3240aafc234ac1cd04c, type: 3}
+    voiceClip: {fileID: 8300000, guid: 88dc75805535cdb4daadf26b92e3b8cd, type: 3}
   - popupMainSprite: {fileID: 2284107065911249025, guid: f998f1dbfb67f62428b11ed2853d7e6d, type: 3}
     popupLabelSprite: {fileID: -7493368945370750917, guid: 05f69cccb00108d4f8f4d5c6bdf2f983, type: 3}
-    voiceClip: {fileID: 8300000, guid: 06209d3002d12cc44b747c6c81b63361, type: 3}
+    voiceClip: {fileID: 8300000, guid: 6a6b331cd5dafa94a8e81b1f222f0f9e, type: 3}
   - popupMainSprite: {fileID: -5422711014219538072, guid: 39a3b14b3ab6a614b8167d20bf037f1d, type: 3}
     popupLabelSprite: {fileID: -5221511446037068676, guid: 1a122564b753b5549999cebab69a3acf, type: 3}
-    voiceClip: {fileID: 8300000, guid: 34d745df68f6e2849aef61233cc3e12d, type: 3}
+    voiceClip: {fileID: 8300000, guid: ef417ce2e87bd264ebb1e1b0fae21b5f, type: 3}
   - popupMainSprite: {fileID: -56615587540451618, guid: 93174bcf4ca588948b104f99e1174677, type: 3}
     popupLabelSprite: {fileID: 2330457463229919540, guid: eb87f9c8271094a4284aeda3421284a0, type: 3}
-    voiceClip: {fileID: 8300000, guid: 530bf1a3f8e9ada499e84bc9075906e6, type: 3}
+    voiceClip: {fileID: 8300000, guid: 269be8de4d1b99d4a9f41cd7498c188d, type: 3}
   - popupMainSprite: {fileID: -7374979180114911504, guid: bdaa22d107625134baa98d796d61fea9, type: 3}
     popupLabelSprite: {fileID: 962746480344357458, guid: 4a2df5f4a6fb65149a5b72f6d697786f, type: 3}
-    voiceClip: {fileID: 8300000, guid: 08b8a3c2e55656f4a976e60b0666e0df, type: 3}
+    voiceClip: {fileID: 8300000, guid: e94ab75d52e8a7947aa06d2c6327e082, type: 3}
   - popupMainSprite: {fileID: 7545348057057627317, guid: b9281d182f9e0d94483e5968670d002a, type: 3}
     popupLabelSprite: {fileID: 7701198794101006280, guid: d4038cfa02be6864ca4fded571eb2684, type: 3}
-    voiceClip: {fileID: 8300000, guid: 1a6b65e44022c9043be0ea35d2053148, type: 3}
+    voiceClip: {fileID: 8300000, guid: e9c57a017c0a97b40bb6ef6dccdd8d08, type: 3}
   - popupMainSprite: {fileID: 2199338790889904534, guid: a60a575d6ff80c8418b8728be580044c, type: 3}
     popupLabelSprite: {fileID: -9214982734272104406, guid: 8946071faa334974f98755b287f6d7b1, type: 3}
-    voiceClip: {fileID: 8300000, guid: ec6a55d6adc3b3644a6603b1a7bc9b11, type: 3}
+    voiceClip: {fileID: 8300000, guid: e0d6dbf488674bc4187bd13435dbc7f0, type: 3}
   - popupMainSprite: {fileID: 8717973140686291188, guid: 21b7cfb4cd2e25943b3b82f4b2be30f0, type: 3}
     popupLabelSprite: {fileID: -1027589198686549544, guid: a24d2269d68c29143b2af44c16c570f0, type: 3}
-    voiceClip: {fileID: 8300000, guid: 87334c9213d2a154093866bbc0dd0bb9, type: 3}
+    voiceClip: {fileID: 8300000, guid: 7fe8b2bb028aca649badafc485eb44fb, type: 3}
   - popupMainSprite: {fileID: 1685165552153062413, guid: c145775ba3fcf404ca584251009a1ee2, type: 3}
     popupLabelSprite: {fileID: -7834171526624850450, guid: 238a5bc90d79e814cace9b7ac726473a, type: 3}
-    voiceClip: {fileID: 8300000, guid: e33961cb0d1b0b941aa307842703e6cd, type: 3}
+    voiceClip: {fileID: 8300000, guid: fa2256811efab504c8e9b9eff6b0a46b, type: 3}
   popupPanel: {fileID: 687585354}
   popupMainImage: {fileID: 780956381}
   popupLabelImage: {fileID: 575854950}
@@ -9659,7 +9659,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: -635.9, y: 364}
+  m_AnchoredPosition: {x: -520, y: 98.029}
   m_SizeDelta: {x: 248.19446, y: 311.2113}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2018980657

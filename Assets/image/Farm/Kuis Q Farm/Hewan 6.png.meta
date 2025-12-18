@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 79dc066b66ae1714a92fca0e26c46e94
+guid: e0328061d0eb96c49b5e4637432981f4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6824832153223561499
-    second: BUAH 1_0
+      213: -67980220434479765
+    second: Hewan 6_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,12 +126,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BUAH 1_0
+      name: Hewan 6_0
       rect:
         serializedVersion: 2
-        x: 54
+        x: 0
         y: 0
-        width: 926
+        width: 760
         height: 204
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b110e801faca6be50800000000000000
-      internalID: 6824832153223561499
+      spriteID: b650045895c7e0ff0800000000000000
+      internalID: -67980220434479765
       vertices: []
       indices: 
       edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      BUAH 1_0: 6824832153223561499
+      Hewan 6_0: -67980220434479765
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

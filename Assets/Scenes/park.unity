@@ -3952,25 +3952,25 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::QuizManager
   category: 0
   allQuestions:
-  - questionImage: {fileID: -3107461904617343042, guid: 1f1e48671800b91488a5ccb94baab884, type: 3}
+  - questionImage: {fileID: -4233328242602666081, guid: 80fd12b1673436e48894e2c604ab673d, type: 3}
     correctAnswer: {fileID: 347753790173766983, guid: 4562de3d81317a44db37825ebc82b6ce, type: 3}
     questionAudio: {fileID: 8300000, guid: 034d0a65b929b304c93572f413c56c33, type: 3}
-  - questionImage: {fileID: -1680366799822265629, guid: 42507e4d66cd83b4f919c5a20e9966d4, type: 3}
+  - questionImage: {fileID: 8591896890460073569, guid: 2c51d7a3430f9804baf551b96e76b36e, type: 3}
     correctAnswer: {fileID: 8337786442809878705, guid: 1b33a76b97c03694a90ea30b50306213, type: 3}
     questionAudio: {fileID: 8300000, guid: 73f708d39d76226409d15e71eccd724a, type: 3}
-  - questionImage: {fileID: -8529759571625200191, guid: 3e778c114290de048b6cbadc61530f91, type: 3}
+  - questionImage: {fileID: 6352071607255618908, guid: 2ce68fbec1bb4374396595b7fdb3a011, type: 3}
     correctAnswer: {fileID: 8681542745770538601, guid: 424f7edf155b36c48948c2e10c745d57, type: 3}
     questionAudio: {fileID: 8300000, guid: 9b8d790347e75ad4aa287e3ca3cee962, type: 3}
-  - questionImage: {fileID: 4233550618235792117, guid: 57a039ddf47bb6d43b4e6dcf290f6e28, type: 3}
+  - questionImage: {fileID: 3268053170100562102, guid: 881c5dcb484b52f41b57cd3ba3dd0ca1, type: 3}
     correctAnswer: {fileID: 7406701866283865647, guid: df75574cddea84142bf42ecdea3eaf3f, type: 3}
     questionAudio: {fileID: 8300000, guid: 16ae03796ceb8684baf515f92218d8c3, type: 3}
-  - questionImage: {fileID: 6464216151387038694, guid: 90bb40f615e524a49ad02ca6cce8138a, type: 3}
+  - questionImage: {fileID: 8208638936827914031, guid: 5018dba76235c22449bf7756d3007c59, type: 3}
     correctAnswer: {fileID: 360710984721565246, guid: d80f605b09e015e4691efa3944dbfa68, type: 3}
     questionAudio: {fileID: 8300000, guid: 0d18562769d7be74ea88293143c29073, type: 3}
-  - questionImage: {fileID: 5078398636661411952, guid: fc936dd6be429c24bbdce06af8f049e3, type: 3}
+  - questionImage: {fileID: 2949085511026701004, guid: 94bc44c6724c03741942d3699217ba8d, type: 3}
     correctAnswer: {fileID: -2294370066195071649, guid: 17ec9e8241bb8944ebfe8de2974f2d54, type: 3}
     questionAudio: {fileID: 8300000, guid: bbb23a333bc95f84dabf77e2e7bdb570, type: 3}
-  - questionImage: {fileID: -86711852627878244, guid: ce22ff35f5c2cf54781556d31224da44, type: 3}
+  - questionImage: {fileID: -2677082314379400074, guid: bd809aae0fdc4f04f9a91831d7658666, type: 3}
     correctAnswer: {fileID: 6046626092769203544, guid: 22e8c4657b8c0274c845e51675e6a1a8, type: 3}
     questionAudio: {fileID: 8300000, guid: 38062828b963dfa4c8b387435b2a1a53, type: 3}
   allAnswerOptions:

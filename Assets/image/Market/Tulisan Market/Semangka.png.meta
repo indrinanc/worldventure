@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 00d5fdb6f83039a47a74559ed6dd0788
+guid: 4087923fdd15edd43a2e2826ea7dcc78
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5138885578751302576
-    second: Group 293_0
+      213: -2182467652942722241
+    second: BUAH 3_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,7 +126,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Group 293_0
+      name: BUAH 3_0
       rect:
         serializedVersion: 2
         x: 0
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 054a6290bc20fa8b0800000000000000
-      internalID: -5138885578751302576
+      spriteID: f3b819c9b3156b1e0800000000000000
+      internalID: -2182467652942722241
       vertices: []
       indices: 
       edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Group 293_0: -5138885578751302576
+      BUAH 3_0: -2182467652942722241
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

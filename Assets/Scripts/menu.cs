@@ -9,16 +9,16 @@ public class menu : MonoBehaviour
     public GameObject homePanel;
     public GameObject kreditPanel;
     public GameObject pilihPanel;
+    public GameObject asetPanel;
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         homePanel.SetActive(true);
         kreditPanel.SetActive(false);
         pilihPanel.SetActive(false);
+        asetPanel.SetActive(false);
     }
 
-    // Update is called once per frame
     void Update()
     {
         
@@ -38,6 +38,7 @@ public class menu : MonoBehaviour
         homePanel.SetActive(true);
         kreditPanel.SetActive(false);
         pilihPanel.SetActive(false);
+        asetPanel.SetActive(false);
     }
 
     public void kreditButton()
@@ -45,6 +46,7 @@ public class menu : MonoBehaviour
         homePanel.SetActive(false);
         kreditPanel.SetActive(true);
         pilihPanel.SetActive(false);
+        asetPanel.SetActive(false);
     }
 
     public void pilihButton()
@@ -52,6 +54,21 @@ public class menu : MonoBehaviour
         homePanel.SetActive(false);
         kreditPanel.SetActive(false);
         pilihPanel.SetActive(true);
+        asetPanel.SetActive(false);
+    }
+    public void asetButton()
+    {
+        homePanel.SetActive(false);
+        kreditPanel.SetActive(false);
+        pilihPanel.SetActive(false);
+        asetPanel.SetActive(true);
+    }
+    public void backButton1()
+    {
+        homePanel.SetActive(false);
+        kreditPanel.SetActive(true);
+        pilihPanel.SetActive(false);
+        asetPanel.SetActive(false);
     }
 
      public void zooButton(string scenename)

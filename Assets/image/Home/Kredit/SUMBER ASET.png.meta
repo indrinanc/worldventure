@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 0dac71242d439b542b68707d88d7436a
+guid: f8d2912dc53dfb847b5f8ff6dc643828
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1433896673274150687
-    second: KREDIT_0
+      213: -3981970194700267080
+    second: SUMBER ASET_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,7 +126,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: KREDIT_0
+      name: SUMBER ASET_0
       rect:
         serializedVersion: 2
         x: 0
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1e041e0a296c91ce0800000000000000
-      internalID: -1433896673274150687
+      spriteID: 8b192be84333db8c0800000000000000
+      internalID: -3981970194700267080
       vertices: []
       indices: 
       edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      KREDIT_0: -1433896673274150687
+      SUMBER ASET_0: -3981970194700267080
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

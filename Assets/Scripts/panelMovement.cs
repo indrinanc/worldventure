@@ -58,18 +58,6 @@ public class SceneLogger : MonoBehaviour
         popupPanel.SetActive(false);
     }
 
-    public void backButton3()
-    {
-        menuPanel.SetActive(false);
-        belajarPanel.SetActive(true);
-        pilihPanel.SetActive(false);
-        kuisPanel.SetActive(false);
-        benarPanel.SetActive(false);
-        salahPanel.SetActive(false);
-        popupPanel.SetActive(false);
-    }
-
-
     public void belajarButton()
     {
         menuPanel.SetActive(false);

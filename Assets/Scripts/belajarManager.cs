@@ -7,11 +7,11 @@ public class LearnPanelManager : MonoBehaviour
     [System.Serializable]
     public class LearnItemData
     {
-        public Sprite popupMainSprite;    // Gambar besar untuk popup
-        public Sprite popupLabelSprite;   // Gambar label (nama)
+        public Sprite popupMainSprite; 
+        public Sprite popupLabelSprite;
 
         [Header("Audio")]
-        public AudioClip voiceClip;       // Audio: "Sapi Cow Moo"
+        public AudioClip voiceClip;
     }
 
     [Header("Data Belajar")]
@@ -23,21 +23,18 @@ public class LearnPanelManager : MonoBehaviour
     public Image popupLabelImage;
 
     [Header("Audio Player")]
-    public AudioSource audioSource;       // Taruh AudioSource di GameObject ini
+    public AudioSource audioSource; 
 
-    private int currentIndex = -1;        // simpan item yang sedang terbuka
+    private int currentIndex = -1; 
 
     void Start()
     {
         if (popupPanel != null)
             popupPanel.SetActive(false);
 
-        // Kalau lupa drag audioSource, auto ambil dari GameObject yang sama
         if (audioSource == null)
             audioSource = GetComponent<AudioSource>();
     }
-
-    // Dipanggil oleh button: ShowItem(index)
     public void ShowItem(int index)
     {
         if (index < 0 || index >= allItems.Count)
@@ -50,22 +47,20 @@ public class LearnPanelManager : MonoBehaviour
 
         LearnItemData data = allItems[index];
 
-        // Update gambar popup
+
         if (popupMainImage != null)
             popupMainImage.sprite = data.popupMainSprite;
 
         if (popupLabelImage != null)
             popupLabelImage.sprite = data.popupLabelSprite;
 
-        // Tampilkan popup
+
         if (popupPanel != null)
             popupPanel.SetActive(true);
 
-        // Auto play audio saat popup muncul
         PlayCurrentAudio();
     }
 
-    // Dipanggil oleh tombol di popup: "Play Lagi"
     public void PlayCurrentAudio()
     {
         if (currentIndex < 0 || currentIndex >= allItems.Count) return;
@@ -83,7 +78,6 @@ public class LearnPanelManager : MonoBehaviour
         audioSource.PlayOneShot(data.voiceClip);
     }
 
-    // (Opsional) tombol close popup
     public void ClosePopup()
     {
         if (popupPanel != null)

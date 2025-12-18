@@ -3388,7 +3388,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -5164216905189383780, guid: 4c6503b57404280499dc579e73effa43, type: 3}
+  m_Sprite: {fileID: -5164216905189383780, guid: 2fd7acb3ffdaad040a08b339f2bc4551, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -4600,7 +4600,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   category: 0
   allQuestions:
-  - questionImage: {fileID: 3822560283474617340, guid: 043498ee993653047887edeff31e17ea, type: 3}
+  - questionImage: {fileID: 2640032191131131899, guid: 2dc3b93ccdf9d094d9bf3a65bc273f7e, type: 3}
     correctAnswer: {fileID: -3627008895536746779, guid: bfda08ba378385b40ab9c3e8888017ec, type: 3}
     questionAudio: {fileID: 8300000, guid: 7a1d27da3730cf54baf28e2534b91a1f, type: 3}
   - questionImage: {fileID: 7755261981684764637, guid: e64d214bb3795c04e9b35970c2eed846, type: 3}
@@ -6507,7 +6507,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -3761151444484682886, guid: 597b588f922ec7041b3ff736b684bf80, type: 3}
+  m_Sprite: {fileID: -3761151444484682886, guid: 388f86191b9fd46438fa860bb237dab6, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -8237,7 +8237,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -4517756784109585893, guid: 553e7065d5664b34c8edda4b673cff6a, type: 3}
+  m_Sprite: {fileID: 4543314355037400585, guid: c91ac74b9112f0f49896f4ce2c6cddbf, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -8528,7 +8528,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -6617776248896080288, guid: 1ff4c7eea4db09d4f856a79eed3507a7, type: 3}
+  m_Sprite: {fileID: -6617776248896080288, guid: fff2429bd87db2842bd61cbca32aec37, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

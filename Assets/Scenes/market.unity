@@ -251,7 +251,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -8307792531029393121, guid: c9fb830f408f8824ab6a46e2a478eb94, type: 3}
+  m_Sprite: {fileID: -3491705734568273911, guid: 7eed5fb5d3529fe45b808d25d7bb5825, type: 3}
   m_Type: 3
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -2613,7 +2613,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -5164216905189383780, guid: 4c6503b57404280499dc579e73effa43, type: 3}
+  m_Sprite: {fileID: -5164216905189383780, guid: 2fd7acb3ffdaad040a08b339f2bc4551, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -3385,22 +3385,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   category: 2
   allQuestions:
-  - questionImage: {fileID: -1229863628891988668, guid: e096715a06fd5c343b36ee6a530d7195, type: 3}
+  - questionImage: {fileID: -3491705734568273911, guid: 7eed5fb5d3529fe45b808d25d7bb5825, type: 3}
     correctAnswer: {fileID: 1214696252487323189, guid: 2b21cdc10b8cf144096c61d7af511dee, type: 3}
     questionAudio: {fileID: 8300000, guid: 3f7c4e265ed19ea4db58c807aa1561f7, type: 3}
-  - questionImage: {fileID: -9210635583685997739, guid: 8fd79712706dfb34897c3f0ff4a809d4, type: 3}
+  - questionImage: {fileID: 4699704396577761511, guid: 8e6ea692f83778645a0763275c178ea9, type: 3}
     correctAnswer: {fileID: 7721667060025275608, guid: 303380639fd96054a95936a9517ef81d, type: 3}
     questionAudio: {fileID: 8300000, guid: d528bcdd78957aa44b44f61c57ca09cc, type: 3}
-  - questionImage: {fileID: -5479722985805778691, guid: 5046973fd154cd84db6ff4e6fd0dd2eb, type: 3}
+  - questionImage: {fileID: 1127408196066818466, guid: 4e44835a8dd577440bdf005077077284, type: 3}
     correctAnswer: {fileID: 6211597465811836779, guid: d7daca3cccb5329499302d2b32fe5112, type: 3}
     questionAudio: {fileID: 8300000, guid: 17099f4e4f27077449b62ec05832a357, type: 3}
-  - questionImage: {fileID: 6955938312535544549, guid: 252ded15e49647341aeee70f15d8a631, type: 3}
+  - questionImage: {fileID: -1314074849862713817, guid: 60cc4cb03255adf4aaa66425e897dffd, type: 3}
     correctAnswer: {fileID: -2471269891980708566, guid: cbbd845d554b2c8409a3d0a55fdb85d0, type: 3}
     questionAudio: {fileID: 8300000, guid: 629cf584fac2bcd489dde6cf2bc68ec6, type: 3}
-  - questionImage: {fileID: -3560979070629810140, guid: 936e9fb3aac09f44c88bff4e8cc211e1, type: 3}
+  - questionImage: {fileID: -5138885578751302576, guid: 00d5fdb6f83039a47a74559ed6dd0788, type: 3}
     correctAnswer: {fileID: -6159318123779787879, guid: 1fbf0260561af4b41bd9060fff601ace, type: 3}
     questionAudio: {fileID: 8300000, guid: f0904f3d515094240ac985a8ab1cfeb4, type: 3}
-  - questionImage: {fileID: -8711649888266273530, guid: 747e8983574acec449110019a18a2a53, type: 3}
+  - questionImage: {fileID: -2241911754547478561, guid: 7b4741d6710c2f5408d1e9b45be3c151, type: 3}
     correctAnswer: {fileID: 2691918460204440512, guid: bb61cde025479104db1a42eeadba9496, type: 3}
     questionAudio: {fileID: 8300000, guid: 3e3df14575bd4664d92525e16a18b212, type: 3}
   allAnswerOptions:
@@ -4963,7 +4963,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -3761151444484682886, guid: 597b588f922ec7041b3ff736b684bf80, type: 3}
+  m_Sprite: {fileID: -3761151444484682886, guid: 388f86191b9fd46438fa860bb237dab6, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5558,7 +5558,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1032918418}
         m_TargetAssemblyTypeName: park, Assembly-CSharp
         m_MethodName: belajarButton
         m_Mode: 1
@@ -6540,7 +6540,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -6617776248896080288, guid: 1ff4c7eea4db09d4f856a79eed3507a7, type: 3}
+  m_Sprite: {fileID: -6617776248896080288, guid: fff2429bd87db2842bd61cbca32aec37, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -6872,7 +6872,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1032918418}
         m_TargetAssemblyTypeName: park, Assembly-CSharp
         m_MethodName: kuisButton
         m_Mode: 1

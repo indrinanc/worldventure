@@ -15,21 +15,21 @@ public class QuizManager : MonoBehaviour
 
     [Header("UI Soal & Jawaban")]
     public Image questionImageUI;
-    public Image[] answerImagesUI;     // 4 slot
-    public Button[] answerButtons;     // 4 tombol
+    public Image[] answerImagesUI;  
+    public Button[] answerButtons; 
 
     [Header("Pengaturan Kuis")]
     public int maxQuestions = 9;
 
     [Header("Panel Feedback")]
-    public GameObject correctPanel;    // HARUS root panel (Benar Farm Panel)
-    public GameObject wrongPanel;      // HARUS root panel (Salah Farm Panel)
+    public GameObject correctPanel;  
+    public GameObject wrongPanel;    
 
     [Header("Gambar di Panel Benar")]
-    public Image correctAnswerImage;   // Image yang menampilkan hewan benar (kotak putih di tengah)
+    public Image correctAnswerImage;  
 
     [Header("Gambar di Panel Salah")]
-    public Image wrongChosenImage;     // Image yang menampilkan pilihan user (contoh: Warna Salah)
+    public Image wrongChosenImage;     
 
     [Header("Panel Navigasi (opsional)")]
     public GameObject pilihPanel;
@@ -51,7 +51,6 @@ public class QuizManager : MonoBehaviour
 
     void Awake()
     {
-        // Pastikan referensi panel benar/salah mengarah ke ROOT panelnya
         EnsurePanelsAndImages();
     }
 
@@ -69,8 +68,6 @@ public class QuizManager : MonoBehaviour
 
     void EnsurePanelsAndImages()
     {
-        // ====== AUTO FIND PANEL ROOT berdasarkan nama di Hierarchy ======
-        // Nama sesuai screenshot kamu:
         if (correctPanel == null)
         {
             var go = GameObject.Find("Benar Farm Panel");
@@ -83,18 +80,13 @@ public class QuizManager : MonoBehaviour
             if (go != null) wrongPanel = go;
         }
 
-        // ====== AUTO FIND IMAGE yang benar untuk panel BENAR ======
-        // Hindari salah ambil BG. Cari Image yang bukan BG/Background dan yang biasanya "kotak" tengah.
         if (correctAnswerImage == null && correctPanel != null)
         {
             correctAnswerImage = FindBestContentImage(correctPanel.transform);
         }
 
-        // ====== AUTO FIND IMAGE untuk panel SALAH ======
-        // Di screenshot ada child "Warna Salah" (kemungkinan image pilihan user)
         if (wrongChosenImage == null && wrongPanel != null)
         {
-            // Prioritas: cari yang namanya mengandung "Warna" atau "Chosen"
             var img = FindImageByNameContains(wrongPanel.transform, "Warna");
             if (img == null) img = FindImageByNameContains(wrongPanel.transform, "Chosen");
             if (img == null) img = FindBestContentImage(wrongPanel.transform);
@@ -102,7 +94,6 @@ public class QuizManager : MonoBehaviour
             wrongChosenImage = img;
         }
 
-        // AudioSource auto ambil
         if (audioSource == null) audioSource = GetComponent<AudioSource>();
     }
 
@@ -120,7 +111,6 @@ public class QuizManager : MonoBehaviour
 
     Image FindBestContentImage(Transform root)
     {
-        // Heuristik: ambil Image yang bukan BG/Background/Panel dan bukan Image yang ada di object root itu sendiri (biasanya container)
         var images = root.GetComponentsInChildren<Image>(true);
 
         foreach (var img in images)
@@ -130,12 +120,9 @@ public class QuizManager : MonoBehaviour
             string n = img.gameObject.name.ToLower();
             if (n.Contains("bg") || n.Contains("background") || n.Contains("panel")) continue;
 
-            // Kalau ada sprite kosong pun tetap boleh (kotak putih sering sprite-nya putih/empty),
-            // yang penting bukan BG.
             return img;
         }
 
-        // fallback: kalau semua dianggap BG, ambil yang pertama
         return images != null && images.Length > 0 ? images[0] : null;
     }
 
@@ -148,8 +135,7 @@ public class QuizManager : MonoBehaviour
         currentQuestion = null;
         currentOptions = null;
 
-        EnsurePanelsAndImages(); // pastikan lagi setelah scene load
-
+        EnsurePanelsAndImages(); 
         if (allQuestions == null || allQuestions.Count == 0)
         {
             Debug.LogError($"[{name}] allQuestions kosong. Isi dulu di Inspector untuk kategori {category}.");
@@ -205,11 +191,9 @@ public class QuizManager : MonoBehaviour
         if (questionImageUI != null)
             questionImageUI.sprite = currentQuestion.questionImage;
 
-        // audio pertanyaan hanya saat kuisPanel aktif
         if (IsQuizPanelActive())
             PlayClip(currentQuestion.questionAudio);
 
-        // ===== build opsi =====
         List<Sprite> options = new List<Sprite> { currentQuestion.correctAnswer };
 
         List<Sprite> wrongPool = new List<Sprite>(allAnswerOptions);
@@ -247,7 +231,6 @@ public class QuizManager : MonoBehaviour
             score++;
             SetAnswerButtonsInteractable(false);
 
-            // ✅ FIX #1: BENAR panel tampilkan HEWAN BENAR (pakai correctAnswer)
             EnsurePanelsAndImages();
             if (correctAnswerImage != null && currentQuestion != null)
                 correctAnswerImage.sprite = currentQuestion.correctAnswer;
@@ -259,29 +242,23 @@ public class QuizManager : MonoBehaviour
         }
         else
         {
-            // ✅ FIX #2: Pastikan panel salah benar-benar muncul (root panel)
             EnsurePanelsAndImages();
 
-            // Ambil sprite yang dipilih user
             Sprite chosen = null;
             if (currentOptions != null && index >= 0 && index < currentOptions.Count)
                 chosen = currentOptions[index];
 
-            // Tampilkan sprite pilihan user di panel salah
             if (wrongChosenImage != null && chosen != null)
                 wrongChosenImage.sprite = chosen;
 
             PlayClip(wrongClip);
 
-            // Tampilkan panel salah dulu, baru nonaktifkan tombol (biar jelas responsnya)
             if (wrongPanel != null)
                 wrongPanel.SetActive(true);
 
-            // matikan tombol jawaban sampai user tekan "Coba Lagi"
             SetAnswerButtonsInteractable(false);
         }
     }
-
     public void OnNextButton()
     {
         if (correctPanel != null) correctPanel.SetActive(false);
@@ -290,10 +267,8 @@ public class QuizManager : MonoBehaviour
 
     public void OnTryAgainButton()
     {
-        // Tutup panel salah
         if (wrongPanel != null) wrongPanel.SetActive(false);
 
-        // Aktifkan lagi tombol jawaban agar user bisa mencoba lagi
         SetAnswerButtonsInteractable(true);
     }
 
@@ -307,7 +282,6 @@ public class QuizManager : MonoBehaviour
         SetupQuiz();
     }
 
-    // -------------------- AUDIO HELPER --------------------
     void PlayClip(AudioClip clip)
     {
         if (audioSource == null || clip == null) return;
@@ -321,7 +295,6 @@ public class QuizManager : MonoBehaviour
         return (kuisPanel == null) || kuisPanel.activeInHierarchy;
     }
 
-    // -------------------- UTILS --------------------
     void ShuffleList<T>(List<T> list)
     {
         for (int i = 0; i < list.Count; i++)
